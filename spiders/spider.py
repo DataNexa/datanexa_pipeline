@@ -23,9 +23,9 @@ async def start(monitoramento:Monitoramento):
     monitoramento.setPesquisa(transformar_pesquisa(monitoramento.getPesquisa()))
     
     await changeStatusMonitoramento(monitoramento, 2)
-    # await twitter.start(monitoramento)
-    # await instagram.start(monitoramento)
-    # await youtube.start(monitoramento)
+    await twitter.start(monitoramento)
+    await instagram.start(monitoramento)
+    await youtube.start(monitoramento)
     await web.start(monitoramento)
     await changeStatusMonitoramento(monitoramento, 3)
     
