@@ -7,7 +7,6 @@ async def getClients() -> list[Client]:
     
     req = get('/monitoramento/info')
     clientsObj = []
-
     if req.code == 200:    
         clients = req.body
         for client in clients:
@@ -27,17 +26,34 @@ async def getMonitoramentos(client_id:int) -> list[Monitoramento]:
     })
 
     monitoramentos = []
-    jsonList = req.body
-
+    jsonList       = req.body
     for item in jsonList:
-        monitoramentos.append(
-            Monitoramento(
-                item['monitoramento_id'],
-                item['titulo'],
-                item['alvo'],
-                item['task_id'],
-                item['task_status']
-            )
-        )
+        try:
+            monitoramento = Monitoramento(
+                    item['monitoramento_id'],
+                    item['titulo'],
+                    item['pesquisa'],
+                    item['alvo'],
+                    item['task_id'],
+                    item['task_status']
+                )
+            monitoramento.setHashtags(item['hashtags'].split())
+            monitoramentos.append(monitoramento)
+        except:
+            pass    
 
     return monitoramentos
+
+
+async def changeStatusMonitoramento(monitoramento:Monitoramento, status:int):
+    
+    req = post('/monitoramento/alterarStatusTask', {
+        "task_id":monitoramento.getTaskId(),
+        "status":status
+    })
+
+    if req.code == 200:
+        monitoramento.setStatus(status)
+        return True
+    
+    return False

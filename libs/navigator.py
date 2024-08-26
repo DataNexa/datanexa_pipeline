@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from libs.cookies import Cookie
 
 types = {
     "xpath": By.XPATH,
@@ -50,14 +51,19 @@ class Navigator :
     file     = None
     site     = ""
     scrollm  = 1
+    cookie   = None
 
-    def __init__(self, site, headless=False) -> None:
+    def __init__(self, site:str, cookie:Cookie = None, headless:bool = False) -> None:
         
+        self.cookie = cookie if cookie is not None else Cookie('', '', site)
         options = Options()
         options.add_experimental_option('prefs', {'intl.accept_languages': 'pt,pt_BR', "profile.default_content_setting_values.notifications" : 2})
+        options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+        options.add_argument("--disable-blink-features=AutomationControlled")
         if headless:
             options.add_argument('--headless=new')
         self.driver = webdriver.Chrome(executable_path='chromedriver', chrome_options=options)
+        self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
         self.driver.set_window_size(2560, 1440)
         self.site = site
         self.setUrl()
@@ -98,7 +104,7 @@ class Navigator :
 
     def getState(self) :
         try :
-            file    = open('./cookies/'+self.file+'.json','r')
+            file    = open('./cookies/'+self.cookie.arquivo,'r')
             cookies = json.loads(file.read())
             for cookie in cookies:
                 self.driver.add_cookie(cookie)
@@ -108,10 +114,13 @@ class Navigator :
             return False
 
     def saveState(self) :
-        cookies = self.driver.get_cookies()
-        file    = open('./cookies/'+self.file+'.json','w')
-        file.write(json.dumps(cookies))
-        file.close()
+        try: 
+            cookies = self.driver.get_cookies()
+            file    = open('./cookies/'+self.cookie.arquivo,'w')
+            file.write(json.dumps(cookies))
+            file.close()
+            return True
+        except: return False
 
     def findElements(self, type, value, limit=15, element:Element=None) -> list[Element] | bool:
         naoEncontrou=True
@@ -168,6 +177,20 @@ class Navigator :
     def press(self):
         # preciona tecla do teclado
         return self
+    
+    def close(self):
+        self.driver.close()
+
+    def quit(self):
+        self.driver.quit()
+
+    def getCurrentURL(self):
+        return self.driver.current_url
+    
+    def getAccount(self):
+        if self.cookie is not None:
+            return { "email":self.cookie.email, "senha":self.cookie.senha } 
+        else: return None
     
     def sleep(self, sec=0):
         sec = sec * -1 if sec < 0 else sec

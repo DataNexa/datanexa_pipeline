@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+
+cookies/*
+!cookies/README.md
+
+accounts.json
+
 exemplo
 __pycache__/
 *.py[cod]
