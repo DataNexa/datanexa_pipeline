@@ -30,3 +30,5 @@ async def start(monitoramento:Monitoramento):
     for item in listaFinal:
         await addPublish(item, monitoramento.getId())
 
+    navigator.quit()
+
