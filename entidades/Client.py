@@ -34,6 +34,7 @@ class Client:
         k = 0
         for monitoramento in self._monitoramentos:
             if monitoramento.getStatus() < 3:
-                return [monitoramento, k]
+                return monitoramento
             k += 1
+        return None
 

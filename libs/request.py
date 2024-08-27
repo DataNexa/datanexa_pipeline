@@ -1,10 +1,10 @@
 import requests 
-from libs.config import config
+from libs.config import config,Config
 
 conf   = config()
 baseu  = conf['api']
 header = {
-    'session':conf['token'],
+    'session':Config().getAccount('token'),
     'Content-Type':'application/json'
 }
 
