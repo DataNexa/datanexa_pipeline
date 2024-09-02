@@ -9,13 +9,21 @@ async def start(monitoramento:Monitoramento):
     navigator = Navigator("https://www.google.com/")
     navigator.goto("search?q="+monitoramento.getPesquisa())
     navigator.sleep(5)
-    
+    page = 0
+
     search(navigator)
-    pubs = get_all_publish(navigator)
-    analisados = analise(monitoramento.getId(), pubs, monitoramento.getAlvo())
+    current  = navigator.getCurrentURL()
+    
+    while page < 11:
+        
+        pubs       = get_all_publish(navigator, page, current)
+        analisados = analise(monitoramento.getId(), pubs, monitoramento.getAlvo())
+        print("analisados: ", str(len(analisados)))
+        
+        for pub in analisados:
+            await addPublish(pub, monitoramento.getId())
 
-    for pub in analisados:
-        await addPublish(pub, monitoramento.getId())
+        navigator.sleep(1)
+        page += 1
 
-    navigator.sleep(1)
     navigator.quit()

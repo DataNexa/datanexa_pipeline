@@ -1,6 +1,15 @@
-from libs.request import get,post
+from spiders.youtube.youtube_lib import *
+from entidades.Monitoramento import Monitoramento
+from libs.navigator import Navigator
 
+monitoramento = Monitoramento(1, 'test', 'prefeito zito duque de caxias', 'zito', 1,1)
 
-req = post('/monitoramento/fila_list', { "client_id":1 })
+navigator = Navigator('https://youtube.com/')
 
-print(req.body)
+search(navigator, monitoramento.getPesquisa())
+
+lista = get_list_publish(navigator)
+print(lista[0].getTitulo())
+print(lista[0].getData())
+
+navigator.sleep()

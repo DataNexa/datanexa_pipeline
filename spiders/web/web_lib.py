@@ -60,58 +60,56 @@ def search(navigator:Navigator):
         if link.getText() == 'Notícias':
             link.click()
 
+    navigator.sleep(4)
 
-def get_all_publish(navigator:Navigator):
 
-    current  = navigator.getCurrentURL()
-    startnum = 0
+def get_all_publish(navigator:Navigator, page:int, base:str):
+
+    
+    startnum = 10 * page
     startstr = "&start="
-    max      = 100
+
+    navigator.goto(base+startstr+str(startnum), True)
     
     pubs:list[Publish] = []
 
-    while True:
+    elementsLinks = navigator.findElements('xpath', "//*[@id='search']//a", 3)
+    if elementsLinks == False:
+        return pubs
+    
+    temppubs:list[Publish] = []
 
-        elementsLinks = navigator.findElements('xpath', "//*[@id='search']//a", 3)
-        if elementsLinks == False:
-            return pubs
-        
-        temppubs:list[Publish] = []
+    for el in elementsLinks:
 
-        for el in elementsLinks:
+        tituloAll  = el.getText()
+        tituloAll  = tituloAll.replace("\n", " - ")
+        tituloPart = tituloAll.split("...")
+        titulo     = tituloPart[0]
 
-            tituloAll  = el.getText()
-            tituloAll  = tituloAll.replace("\n", " - ")
-            tituloPart = tituloAll.split("...")
-            titulo     = tituloPart[0]
+        datael     = navigator.findElements('tag', "span", 3, el)
+        if datael == False or len(datael) < 3:
+            continue
 
-            datael     = navigator.findElements('tag', "span", 3, el)
-            datast     = datael[2].getText()
-            data       = transformar_data(datast)
+        datast     = datael[2].getText()
+        data       = transformar_data(datast)
 
-            link       = el.getValueOf('href')
-            pub        = Publish("web", titulo, '', link)
-            pub.setData(data)
-            temppubs.append(pub)
+        link       = el.getValueOf('href')
+        pub        = Publish("web", titulo, '', link)
+        pub.setData(data)
+        temppubs.append(pub)
 
+    for p in temppubs:
 
-        for p in temppubs:
-
-            navigator.goto(p.getLink(), True)
-            navigator.sleep(2)
-            textoe = navigator.findElement("tag", "article", 3)
-            if textoe == False:
-                continue
-            
-            texto  = textoe.getText()
-            p.setTexto(texto)
-            pubs.append(p)        
-        
-        if startnum == max:
-            break
-
-        startnum += 10
-        navigator.goto(current+startstr+str(startnum), True)
+        navigator.goto(p.getLink(), True)
         navigator.sleep(3)
+        textoe = navigator.findElement("tag", "article",5)
+        if textoe == False:
+            continue
 
+        texto  = textoe.getText()
+        p.setTexto(texto)
+        pubs.append(p)
+
+    navigator.goto(base, True)
+    navigator.sleep(3)
     return pubs

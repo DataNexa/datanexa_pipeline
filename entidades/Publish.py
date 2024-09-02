@@ -8,6 +8,7 @@ def extrair_numero(text):
 
 class Publish:
 
+    _id:int = 0
     _midiaSlug:str
     _monitoramento_id:int
     _avaliacao:int = 0 # 0 - negativo | 1 - neutro | 2 - positivo
@@ -22,6 +23,9 @@ class Publish:
         self._text = text
         self.link = link
 
+    def setId(self, id:int):
+        self._id = id
+
     def getMidiaSlug(self):
         return self._midiaSlug
     
@@ -33,6 +37,9 @@ class Publish:
 
     def getAvaliacao(self) -> int:
         return self._avaliacao
+    
+    def addAvaliacao(self, avaliacao:int) -> None:
+        self._avaliacao = avaliacao
     
     def setAvaliacao(self, avaliacao:str) -> None:
         num = extrair_numero(avaliacao)
@@ -59,6 +66,9 @@ class Publish:
     
     def getText(self):
         return self._text
+    
+    def getId(self):
+        return self._id
 
     def toString(self) -> str:
         return f"""

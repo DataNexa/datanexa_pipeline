@@ -19,6 +19,24 @@ POR_VISUALIZACOES = "&sp=CAMSAhAB"
 
 UNIQUE_LINKS = []
 
+def extract_time_to_minutes(time_string: str) -> int:
+
+    time_pattern = re.compile(r'(?:(\d+)\s*hora(?:s)?)?\s*(?:(\d+)\s*minuto(?:s)?)?\s*(?:(\d+)\s*segundo(?:s)?)?', re.IGNORECASE)
+    
+    match = time_pattern.search(time_string)
+    
+    if not match:
+        return 0
+    
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+    
+    total_minutes = hours * 60 + minutes + seconds 
+    
+    return total_minutes
+
+
 def get_video_id(link:str):
 
     pattern = r'(?:https?://)?(?:www\.)?(?:youtube\.com|youtu\.be)/(?:watch\?v=|embed/|v/|.+\?v=)?([\w-]{11})'
@@ -33,9 +51,12 @@ def get_video_id(link:str):
 
 
 def get_text_video(video_id:str) :
-    transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['pt'])
-    full_text = "\n".join([entry['text'] for entry in transcript])
-    return full_text
+    try:
+        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['pt'])
+        full_text = "\n".join([entry['text'] for entry in transcript])
+        return full_text
+    except:
+        return ""
 
 
 def add_data_publish(navigator:Navigator, el:Element, publish:Publish) -> None:
@@ -48,8 +69,8 @@ def add_data_publish(navigator:Navigator, el:Element, publish:Publish) -> None:
         return
     
     strdata = datael[1].getText()
-    match = re.match(r'(\d+)\s*(dias?|semanas?|meses?|anos?)', strdata)
-    
+    match = re.match(r'.+(\d+)\s*(dias?|semanas?|meses?|anos?)', strdata)
+
     if not match:
         publish.setData(now.strftime('%Y-%m-%d 00:00:00'))
         return
@@ -83,12 +104,22 @@ def get_list_publish(navigator:Navigator) -> list[Publish]:
 
     for el in elementsVideo:
         
+        meta  = navigator.findElement("id", "video-title", 2, el)
+        print("meta:", meta)
+        if meta != False:
+            aria = meta.getValueOf("aria-label")
+            tempo = extract_time_to_minutes(aria)
+            if(tempo > 10):
+                continue
+
         tagsa = navigator.findElements("tag", "a", 2, el)
         if len(tagsa) < 5: continue 
         
         taga  = tagsa[1]
         linka = taga.getValueOf("href")
         v_id  = get_video_id(linka)
+        if v_id == False:
+            continue
         link  = f"https://www.youtube.com/watch?v={v_id}"
         
         if link in UNIQUE_LINKS: continue
@@ -96,9 +127,12 @@ def get_list_publish(navigator:Navigator) -> list[Publish]:
 
         title = taga.getValueOf("title")
         text  = get_text_video(v_id)
+
+        if text == "":
+            continue
         pub   = Publish("youtube", title, text, link)
         add_data_publish(navigator, el, pub)
-        print(pub.getData())
+
         lista.append(pub)
 
     return lista 

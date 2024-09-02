@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from libs.cookies import Cookie
+from libs.config import config
 
 types = {
     "xpath": By.XPATH,
@@ -15,6 +16,8 @@ types = {
     "class": By.CLASS_NAME,
     "css"  : By.CSS_SELECTOR
 }
+
+isInProduction = config()['production']
 
 class Element :
 
@@ -60,7 +63,8 @@ class Navigator :
         options.add_experimental_option('prefs', {'intl.accept_languages': 'pt,pt_BR', "profile.default_content_setting_values.notifications" : 2})
         options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
         options.add_argument("--disable-blink-features=AutomationControlled")
-        if headless:
+        options.add_argument("--mute-audio")
+        if isInProduction or headless:
             options.add_argument('--headless=new')
         self.driver = webdriver.Chrome(executable_path='chromedriver', chrome_options=options)
         self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
@@ -89,7 +93,6 @@ class Navigator :
             self.driver.execute_script(f"window.scrollTo(0, document.body.scrollHeight);")
 
     def goto(self, url, full=False):
-        self.saveState()
         self.driver.get(url if full else self.site+url)
 
     def currentUrl(self):
@@ -127,6 +130,7 @@ class Navigator :
         count=0
         els=[]
         finder = element.element if element != None else self.driver
+        elements = []
         while naoEncontrou and count < limit:
             try:
                 if   type == 'text':
@@ -143,9 +147,11 @@ class Navigator :
             except:
                 time.sleep(1)
                 count = count + 1
+        if naoEncontrou:
+            return False
         for element in elements:
             els.append(Element(element=element))
-        return False if naoEncontrou else els
+        return els
     
 
     def findElement(self, type, value, limit=15, element:Element=None) -> Element | bool:
@@ -164,14 +170,13 @@ class Navigator :
                 elif type == 'button':
                     element = finder.find_element(types['xpath'], "//button[text()='"+value+"']")
                 else: 
-                    #print("tentando -> "+value)
+                    # print("tentando -> "+value)
                     element = finder.find_element(types[type], value)
                 el = Element(element)
                 naoEncontrou= False
             except:
                 time.sleep(1)
                 count = count + 1
-
         return False if naoEncontrou else el
 
     def press(self):
