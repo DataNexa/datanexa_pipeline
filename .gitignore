@@ -3,6 +3,8 @@ temp.json
 config.json
 cookies/*
 !cookies/README.md
+/logs 
+!logs/readme.md
 
 accounts.json
 
