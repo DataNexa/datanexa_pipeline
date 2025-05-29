@@ -5,7 +5,8 @@ cookies/*
 !cookies/README.md
 logs/* 
 !logs/readme.md
-
+dags/data/*
+!dags/data/readme.md
 accounts.json
 
 exemplo
