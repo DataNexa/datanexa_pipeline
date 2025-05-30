@@ -1,7 +1,7 @@
-from dags.libs.Config import Config
+from libs.Config import Config
 import json
 import requests
-from dags.services.API.Response import Response
+from services.API.Response import Response
 
 
 class APIDatanexa:
@@ -20,15 +20,14 @@ class APIDatanexa:
         response = json.loads(responseRequest.text)
 
         if responseRequest.status_code == 200:
-            self._session = response['body']
+            self._session = response.get("body", "")
         else:
             raise ValueError(f"Falha ao tentar abrir sessão: {response.get('message', 'Unknown error')}")
 
 
     def _generate_response(self, responseRequest) -> Response:
-
         try:
-            response_json = responseRequest.json()
+            response_json = json.loads(responseRequest.text)
         except ValueError:
             response_json = {}
 

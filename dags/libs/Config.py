@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from threading import Lock
+import logging
 
 class Config:
     _instance = None
@@ -14,7 +15,7 @@ class Config:
             return cls._instance
 
     def _load(self):
-        load_dotenv()  # carrega do .env apenas uma vez
+        load_dotenv()
         self.google_search_api_key = os.getenv("GOOGLE_SEARCH_API_KEY")
         self.google_search_api_cx = os.getenv("GOOGLE_SEARCH_API_CX")
         self.api_datanexa_url = os.getenv("API_DATANEXA_URL")

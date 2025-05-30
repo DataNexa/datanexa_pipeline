@@ -16,4 +16,4 @@ class Response:
         return self._message
 
     def __repr__(self):
-        return f"Response(status_code={self.status_code}, data={self.data})"
+        return f"Response(status_code={self._status_code}, body={self._body}, message={self._message})"

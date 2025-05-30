@@ -23,11 +23,11 @@ class FileManager:
         self._content = content
 
         now = datetime.now(timezone.utc)
-        self._filename = f"{now}_{uuid.uuid4().hex[:8]}.{local.value}.{file_type.value}.{file_ext}"
+        self._filename = f"{now}.{uuid.uuid4().hex[:8]}.{local.value}.{file_type.value}.{file_ext}"
         if file_type.value == FileType.raw: 
-            self._path = Path(f"dags/data/{file_type.value}/{file_ext}/{self._filename}").resolve()
+            self._path = Path(f"data/{file_type.value}/{file_ext}/{self._filename}").resolve()
         else:
-            self._path = Path(f"dags/data/{file_type.value}/{local.value}/{self._filename}").resolve()
+            self._path = Path(f"data/{file_type.value}/{local.value}/{self._filename}").resolve()
 
     def save(self) -> None:
         self._path.parent.mkdir(parents=True, exist_ok=True)
