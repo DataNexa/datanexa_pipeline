@@ -1,6 +1,6 @@
 # https://www.googleapis.com/customsearch/v1?key={k}&cx={cx}&q={q}&sort=date
 from typing import TypedDict
-from GoogleClient import GoogleClient
+from services.google.search.GoogleClient import GoogleClient
 import requests
 import logging
 
@@ -17,7 +17,8 @@ class Dork(TypedDict):
     dork:str
 
 
-def tranform_to_dork(obj: Dork) -> str:
+def tranform_to_dork_string(obj: Dork) -> str:
+
     if obj.get("dork"):
         return obj["dork"].strip()
 
@@ -63,7 +64,7 @@ def tranform_to_dork(obj: Dork) -> str:
 def search(dorkObj:Dork, sort:str="date", page:int = 1):
 
     try:
-        q = tranform_to_dork(dorkObj)
+        q = tranform_to_dork_string(dorkObj)
         client = GoogleClient()
         url = client.getUrlSearch(q, sort, page)
         response = requests.get(url, timeout=10)

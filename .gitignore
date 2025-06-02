@@ -3,9 +3,10 @@ temp.json
 config.json
 cookies/*
 !cookies/README.md
-/logs 
+logs/* 
 !logs/readme.md
-
+dags/data/*
+!dags/data/readme.md
 accounts.json
 
 exemplo
