@@ -6,14 +6,14 @@ def task_get_monitoramentos(**kwargs):
     
     response = APIDatanexa().get("monitoramentos/readAll")
     
-    if response.status_code != 200:
+    if response.code() != 200:
         logging.error(f"Erro ao obter monitoramentos ativos: {response.message}")
         raise ValueError(f"Erro ao obter monitoramentos ativos: {response.message}")
 
-    logging.info(f"Monitoramentos ativos:\n {response.body}")
+    logging.info(f"Monitoramentos ativos:\n {response.body()}")
 
     ti = kwargs['ti']
-    ti.xcom_push(key='monitoramentos_ativos', value=response.body)
+    ti.xcom_push(key='monitoramentos_ativos', value=response.body())
 
 
 def create_task_get_monitoramentos(dag):

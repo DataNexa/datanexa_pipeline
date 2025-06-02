@@ -9,6 +9,43 @@ class APIDatanexa:
     _session = ""
     _url = ""
     _token = ""
+
+
+    def __init__(self):
+
+        self.config = Config()
+        self._url = self.config.get("api_datanexa_url", "http://localhost:4000/")
+        self._token = self.config.get("api_datanexa_token", "")
+        
+        if not self._url or not self._token:
+            raise ValueError("API Datanexa URL ou Token não foram configurados.")
+        
+    def get(self, uri: str, data: dict = {}) -> Response:
+        return self._request("get", uri, data)
+
+    def post(self, uri: str, data: dict = {}) -> Response:
+        return self._request("post", uri, data)
+
+
+    def _ensure_session(self):
+        if self._session == "":
+            self._open_session()
+    
+    def _request(self, method: str, uri: str, data: dict = {}) -> Response:
+
+        self._ensure_session()
+
+        url = self._url + uri
+        headers = {"Authorization": f"Bearer {self._session}"}
+
+        if method.lower() == "get":
+            response = requests.get(url, params=data, headers=headers)
+        elif method.lower() == "post":
+            response = requests.post(url, json=data, headers=headers)
+        else:
+            raise ValueError(f"Unsupported method: {method}")
+
+        return self._generate_response(response)
     
 
     def getSession(self) -> str:
@@ -35,42 +72,3 @@ class APIDatanexa:
         message = response_json.get("message", "")
 
         return Response(responseRequest.status_code, body, message)
-
-
-    def __init__(self):
-
-        self.config = Config()
-        self._url = self.config.get("api_datanexa_url", "http://localhost:4000/")
-        self._token = self.config.get("api_datanexa_token", "")
-        
-        if not self._url or not self._token:
-            raise ValueError("API Datanexa URL ou Token não foram configurados.")
-        
-
-    def _ensure_session(self):
-        if self._session == "":
-            self._open_session()
-
-    
-    def _request(self, method: str, uri: str, data: dict = {}) -> Response:
-
-        self._ensure_session()
-
-        url = self._url + uri
-        headers = {"Authorization": f"Bearer {self._session}"}
-
-        if method.lower() == "get":
-            response = requests.get(url, params=data, headers=headers)
-        elif method.lower() == "post":
-            response = requests.post(url, json=data, headers=headers)
-        else:
-            raise ValueError(f"Unsupported method: {method}")
-
-        return self._generate_response(response)
-    
-
-    def get(self, uri: str, data: dict = {}) -> Response:
-        return self._request("get", uri, data)
-
-    def post(self, uri: str, data: dict = {}) -> Response:
-        return self._request("post", uri, data)

@@ -25,7 +25,7 @@ def salvar_raw_data_google(**kwargs):
 
     ti = kwargs['ti']
     
-    monitoramentos = ti.xcom_pull(key='monitoramentos_ativos')
+    monitoramentos = ti.xcom_pull(task_ids="task_get_monitoramentos_ativos", key='monitoramentos_ativos')
     if not monitoramentos:
         raise ValueError("Nenhum monitoramento ativo encontrado.")
 
@@ -85,7 +85,7 @@ t1 = create_task_get_monitoramentos(dag)
 t2 = PythonOperator(
     task_id="task_salvar_raw_data_google",
     python_callable=salvar_raw_data_google,
-    dag=dag,
+    dag=dag
 )
 
 t1 >> t2

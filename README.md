@@ -3,4 +3,4 @@
 pipeline social media 
 
 
-<img src="datanexa_pipeline.jpg" />
+<img src="datanexa_pipeline.png" />
