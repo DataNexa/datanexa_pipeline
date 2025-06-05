@@ -37,7 +37,7 @@ def salvar_raw_data_google(**kwargs):
             continue
 
         notInSites = searchObj.get("notInSites", [])
-        notInSites.append(defaultNotInSites)
+        notInSites.extend(defaultNotInSites)
 
         dork = Dork(
             sites=searchObj.get("sites", []),

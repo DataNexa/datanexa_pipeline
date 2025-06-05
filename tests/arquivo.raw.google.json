@@ -1,0 +1,156 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "request": [
+        {
+          "title": "Google Custom Search - site:serpro.gov.br \"festa\"",
+          "totalResults": "17",
+          "searchTerms": "site:serpro.gov.br \"festa\"",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "86e13f79e54d54999",
+          "sort": "date"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - site:serpro.gov.br \"festa\"",
+          "totalResults": "17",
+          "searchTerms": "site:serpro.gov.br \"festa\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "86e13f79e54d54999",
+          "sort": "date"
+        }
+      ]
+    },
+    "context": {
+      "title": "todaweb"
+    },
+    "searchInformation": {
+      "searchTime": 0.090916,
+      "formattedSearchTime": "0.09",
+      "totalResults": "17",
+      "formattedTotalResults": "17"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Serpro celebra 60 anos com redução no preço dos contratos",
+        "htmlTitle": "Serpro celebra 60 anos com redução no preço dos contratos",
+        "link": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos/",
+        "displayLink": "www.serpro.gov.br",
+        "snippet": "Dec 9, 2024 ... Anúncio foi feito em festa que reuniu clientes do governo e parceiros do setor privado. Lançamento de nova marca da empresa de tecnologia ...",
+        "htmlSnippet": "Dec 9, 2024 <b>...</b> Anúncio foi feito em <b>festa</b> que reuniu clientes do governo e parceiros do setor privado. Lançamento de nova marca da empresa de tecnologia&nbsp;...",
+        "formattedUrl": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos/",
+        "htmlFormattedUrl": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnePV1_yv0tkkwxgpQwuLEMYPloO49hy5mp1PHGqn3W6sVV8CbeRql6LY&s",
+              "width": "311",
+              "height": "162"
+            }
+          ],
+          "Article": [
+            {
+              "alternativeHeadline": "Sessenta anos transformando o Brasil",
+              "articleBody": "O Serpro comemorou seus 60 anos de idade com a redução de 1,6% no preço dos novos contratos. Os clientes do governo federal também terão um desconto de pontualidade de 3,2%, para faturas...",
+              "description": "Anúncio foi feito em festa que reuniu clientes do governo e parceiros do setor privado. Lançamento de nova marca da empresa de tecnologia foi outro destaque do evento",
+              "dateModified": "10 de dezembro de 2024",
+              "articleSection": "Notícia",
+              "headline": "Serpro celebra 60 anos com redução no preço dos contratos"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos/@@images/image/large",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Serpro celebra 60 anos com redução no preço dos contratos",
+              "og:image:width": "768",
+              "og:type": "article",
+              "twitter:url": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos",
+              "og:title": "Serpro celebra 60 anos com redução no preço dos contratos",
+              "og:image:height": "511",
+              "og:description": "Anúncio foi feito em festa que reuniu clientes do governo e parceiros do setor privado. Lançamento de nova marca da empresa de tecnologia foi outro destaque do evento",
+              "twitter:image": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos/@@images/image/preview",
+              "twitter:site": "@SERPRO",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Anúncio foi feito em festa que reuniu clientes do governo e parceiros do setor privado. Lançamento de nova marca da empresa de tecnologia foi outro destaque do evento",
+              "og:locale": "pt_BR",
+              "og:url": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-60-anos/@@images/image/large"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Serpro é um dos destaques da Campus Party Brasília 2024",
+        "htmlTitle": "Serpro é um dos destaques da Campus Party Brasília 2024",
+        "link": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-campus-party",
+        "displayLink": "www.serpro.gov.br",
+        "snippet": "Mar 26, 2024 ... Festa da tecnologia. O Serpro é um parceiro tradicional nos eventos nacionais e regionais da Campus Party, que ocorrem no país desde 2008. “É ...",
+        "htmlSnippet": "Mar 26, 2024 <b>...</b> <b>Festa</b> da tecnologia. O Serpro é um parceiro tradicional nos eventos nacionais e regionais da Campus Party, que ocorrem no país desde 2008. “É&nbsp;...",
+        "formattedUrl": "https://www.serpro.gov.br/menu/noticias/noticias.../serpro-campus-party",
+        "htmlFormattedUrl": "https://www.serpro.gov.br/menu/noticias/noticias.../serpro-campus-party",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LXLC28d814qG3bP1xfyqHjSoqZ5tMnSbSiktowpyVGpbeqdWNuTn2zY&s",
+              "width": "310",
+              "height": "162"
+            }
+          ],
+          "Article": [
+            {
+              "alternativeHeadline": "Tecnologia",
+              "articleBody": "A 6ª edição da Campus Party acontece em Brasília, de 27 a 31 de março, e, em homenagem aos 50 anos do planetário da capital federal, vai trazer convidados para falar sobre astronomia,...",
+              "description": "Maior empresa pública de TI do país será responsável por palestras sobre programação no jogo Fortnite, empreendedorismo e inteligência artificial generativa",
+              "dateModified": "27 de março de 2024",
+              "articleSection": "Notícia",
+              "headline": "Serpro é um dos destaques da Campus Party Brasília 2024"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-campus-party/@@images/image/large",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Serpro é um dos destaques da Campus Party Brasília 2024",
+              "og:image:width": "768",
+              "og:type": "article",
+              "twitter:url": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-campus-party",
+              "og:title": "Serpro é um dos destaques da Campus Party Brasília 2024",
+              "og:image:height": "511",
+              "og:description": "Maior empresa pública de TI do país será responsável por palestras sobre programação no jogo Fortnite, empreendedorismo e inteligência artificial generativa",
+              "twitter:image": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-campus-party/@@images/image/preview",
+              "twitter:site": "@SERPRO",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Maior empresa pública de TI do país será responsável por palestras sobre programação no jogo Fortnite, empreendedorismo e inteligência artificial generativa",
+              "og:locale": "pt_BR",
+              "og:url": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-campus-party"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.serpro.gov.br/menu/noticias/noticias-2024/serpro-campus-party/@@images/image/large"
+            }
+          ]
+        }
+      }
+    ]
+  }

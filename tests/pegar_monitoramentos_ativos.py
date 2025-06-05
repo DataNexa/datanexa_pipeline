@@ -7,12 +7,31 @@ response = APIDatanexa().get("monitoramentos/readAll")
 
 body = response.body()
 
+defaultNotInSites = [
+    "google.com",
+    "youtube.com",
+    "facebook.com",
+    "twitter.com",
+    "instagram.com",
+    "linkedin.com",
+    "wikipedia.org",
+    "amazon.com",
+    "ebay.com",
+    "yahoo.com",
+    "bing.com"
+]
+
+
 for monitoramento in body:
 
     searchObj = monitoramento.get("google_search_config", None)
     
     if not searchObj:
         continue
+
+    notInSites = searchObj.get("notInSites", [])
+    notInSites.extend(defaultNotInSites)
+
     
     dork = Dork(
         sites=searchObj.get("sites", []),

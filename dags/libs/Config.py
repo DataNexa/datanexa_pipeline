@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from threading import Lock
-import logging
+
 
 class Config:
     _instance = None
