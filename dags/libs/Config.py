@@ -4,6 +4,7 @@ from threading import Lock
 
 
 class Config:
+
     _instance = None
     _lock = Lock()
 
@@ -21,6 +22,10 @@ class Config:
         self.api_datanexa_url = os.getenv("API_DATANEXA_URL")
         self.api_datanexa_token = os.getenv("API_DATANEXA_TOKEN")
         self.debug = os.getenv("DEBUG", "false").lower() == "true"
+        self.deepseek_api_key = os.getenv("DEEPSEEK_API_KEY", "")
+        self.deepseek_api_url = os.getenv("DEEPSEEK_API_URL", "https://api.deepseek.com/v1/chat/completions")
+        self.openai_api_key = os.getenv("OPENAI_API_KEY", "")
+        self.openai_api_url = os.getenv("OPENAI_API_URL", "https://api.openai.com/v1/chat/completions")
 
     def get(self, key, default=None):
         return getattr(self, key, default)

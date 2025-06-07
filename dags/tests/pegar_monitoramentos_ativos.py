@@ -1,5 +1,5 @@
-from dags.services.API.APIDatanexa import APIDatanexa
-from dags.services.google.search.GoogleService import Dork, search
+from services.API.APIDatanexa import APIDatanexa
+from services.google.search.GoogleService import Dork, search
 from time import sleep
 
 

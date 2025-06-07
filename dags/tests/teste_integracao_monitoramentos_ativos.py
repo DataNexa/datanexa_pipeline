@@ -1,7 +1,7 @@
-from dags.libs.Config import Config
+from libs.Config import Config
 from time import sleep
-from dags.services.API.APIDatanexa import APIDatanexa
-from dags.services.google.search.GoogleService import Dork, search
+from services.API.APIDatanexa import APIDatanexa
+from services.google.search.GoogleService import Dork, search
 
 config = Config()
 

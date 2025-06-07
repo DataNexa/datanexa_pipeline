@@ -1,4 +1,4 @@
-from dags.services.API.APIDatanexa import APIDatanexa
+from services.API.APIDatanexa import APIDatanexa
 
 
 api = APIDatanexa()

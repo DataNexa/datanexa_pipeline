@@ -1,11 +1,13 @@
 from airflow import DAG # type: ignore
 from airflow.operators.python import PythonOperator # type: ignore
 
+import logging
 from datetime import datetime, timedelta
 
 from _dags.tasks.task_get_monitoramentos_ativos import create_task_get_monitoramentos
 from libs.FileManager import FileManager, FileType, LocalFile
 from services.google.search.GoogleService import Dork, search
+from libs.Metadata import add_metadata
 
 defaultNotInSites = [
     "google.com",
@@ -21,6 +23,7 @@ defaultNotInSites = [
     "bing.com"
 ]
 
+
 def salvar_raw_data_google(**kwargs):
 
     ti = kwargs['ti']
@@ -29,7 +32,8 @@ def salvar_raw_data_google(**kwargs):
     if not monitoramentos:
         raise ValueError("Nenhum monitoramento ativo encontrado.")
 
-    maxPages = 10
+    #maxPages = 10
+    maxPages = 1
     for monitoramento in monitoramentos:
 
         searchObj = monitoramento.get("google_search_config", None)
@@ -52,15 +56,23 @@ def salvar_raw_data_google(**kwargs):
         )
 
         pg = 1
-        while pg < maxPages:
+        while pg <= maxPages:
+            
             results = search(dork, page=pg)
-            if results['searchInformation']['totalResults'] == '0':
+            logging.info(f"Página {pg} - Resultados: {results['searchInformation']['totalResults']}")
+
+            if results['searchInformation']['totalResults'] == '0' or 'nextPage' not in results['queries']:
                 break
+            
+            result_with_meta = add_metadata(monitoramento, results)
+            if not result_with_meta:
+                raise ValueError("Erro ao adicionar metadata ao resultado da pesquisa.")
+                
             pg += 1
             FileManager(
                 file_type=FileType.raw,
                 local=LocalFile.google,
-                content=str(results),
+                content=result_with_meta,
                 file_ext="json"
             ).save()
 
@@ -74,7 +86,7 @@ default_args = {
 dag = DAG(
     dag_id="dag_extract_google",
     description="Extração de dados do Google Search",
-    schedule="* 9,14 * * *",
+    schedule="0 9,14 * * *",
     catchup=False,
     default_args=default_args,
     tags=["google", "extract"],

@@ -10,8 +10,6 @@ def task_get_monitoramentos(**kwargs):
         logging.error(f"Erro ao obter monitoramentos ativos: {response.message}")
         raise ValueError(f"Erro ao obter monitoramentos ativos: {response.message}")
 
-    logging.info(f"Monitoramentos ativos:\n {response.body()}")
-
     ti = kwargs['ti']
     ti.xcom_push(key='monitoramentos_ativos', value=response.body())
 

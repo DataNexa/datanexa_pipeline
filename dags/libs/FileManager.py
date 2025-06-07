@@ -16,7 +16,8 @@ class LocalFile(str, Enum):
     google = "google"
     instagram = "instagram"
     twitter = "twitter"
-    youtube = "youtube"
+    youtube = "youtube",
+    none = "none"
 
 class FileManager:
 
@@ -30,12 +31,14 @@ class FileManager:
         now = datetime.now(timezone.utc)
         self._filename = f"{now}.{uuid.uuid4().hex[:8]}.{local.value}.{file_type.value}.{file_ext}"
         if file_type.value == FileType.raw: 
-            self._path = BASE_DIR / f"../data/{file_type.value}/{file_ext}/{local.value}/{self._filename}"
+            self._path = BASE_DIR / f"../data/{file_type.value}/{local.value}/{file_ext}/{self._filename}"
+        elif file_type.value == FileType.ready:
+            self._path = BASE_DIR / f"../data/{file_type.value}/{self._filename}"
         else:
             self._path = BASE_DIR / f"../data/{file_type.value}/{local.value}/{self._filename}"
 
         logging.info("Arquivo gerado em FileManager:")
-        logging.info(f"type={file_type}, local={local}, filename={self._filename}, path={self._path}")
+        logging.info(f"type={file_type}, local={local[1:] if local != "" else "root"}, filename={self._filename}, path={self._path}")
 
 
     def save(self):
@@ -55,3 +58,31 @@ class FileManager:
     @property
     def path(self) -> Path:
         return self._path
+    
+
+def list_files(file_type: FileType, local: LocalFile, sufix:str = "") -> list[str]:
+    path = BASE_DIR / f"../data/{file_type.value}/{local.value}{sufix}"
+    if not path.exists():
+        raise FileNotFoundError(f"Diretório {path} não encontrado.")
+
+    return [f.name for f in path.glob("*") if f.is_file()]
+
+def delete(file_type: FileType, local: LocalFile, filename: str) -> None:
+    path = BASE_DIR / f"../data/{file_type.value}/{local.value}/{filename}"
+    if not path.exists():
+        raise FileNotFoundError(f"Arquivo {filename} não encontrado em {path}")
+
+    path.unlink()
+    logging.info(f"Arquivo {filename} deletado com sucesso de {path}")
+
+def read(file_type: FileType, filename: str, local: LocalFile = None ) -> any:
+    path = BASE_DIR / f"../data/{file_type.value}/{local.value}/{filename}"
+    
+    if not path.exists():
+        raise FileNotFoundError(f"Arquivo {filename} não encontrado em {path}")
+
+    with open(path, "r", encoding="utf-8") as f:
+        if path.suffix == '.json':
+            return json.load(f)
+        else:
+            return f.read()

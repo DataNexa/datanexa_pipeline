@@ -1,12 +1,17 @@
-
+import logging
 
 class MonitoramentoMetadata:
 
-    def __init__(self, monitoramento):
+    id = None
+    client_id = None
+
+    def __init__(self, monitoramento:dict):
         self.id = monitoramento.get("id", None) 
-        self.client_id = monitoramento.get("client_id", None)
-        if self.id is None or self.client_id is None:
-            raise ValueError("Monitoramento ID is required.")
+        self.client_id = monitoramento.get("cliente_id", None)
+        if self.id is None:
+            raise ValueError("Campo 'id' ausente no monitoramento.")
+        if self.client_id is None:
+            raise ValueError("Campo 'client_id' ausente no monitoramento.")
 
     def add_monitoramento_metadata(self, object: dict):
         object['monitoramento'] = {
@@ -16,17 +21,12 @@ class MonitoramentoMetadata:
         return object
     
 
-def add_metadata():
-    """
-    Decorator para adicionar metadados de monitoramento a um objeto 
-    """
-    def decorator(func):
-        def wrapper(*args, **kwargs):
-            monitoramento = kwargs.get('monitoramento', None)
-            if not monitoramento:
-                raise ValueError("Monitoramento é requerido.")
-            metadata = MonitoramentoMetadata(monitoramento)
-            result = func(*args, **kwargs)
-            return metadata.add_monitoramento_metadata(result)
-        return wrapper
-    return decorator
+def add_metadata(monitoramento: dict, object: dict):
+    logging.info("Adicionando Metadata ao Objeto")
+    logging.info(monitoramento)
+    try:
+        metadata = MonitoramentoMetadata(monitoramento)
+        return metadata.add_monitoramento_metadata(object)
+    except ValueError as e:
+        logging.error(f"Erro ao tentar adicionar metadata: {e}")
+        return False

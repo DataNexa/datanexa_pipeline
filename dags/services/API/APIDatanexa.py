@@ -3,7 +3,6 @@ import json
 import requests
 from services.API.Response import Response
 
-
 class APIDatanexa:
 
     _session = ""
@@ -23,7 +22,7 @@ class APIDatanexa:
     def get(self, uri: str, data: dict = {}) -> Response:
         return self._request("get", uri, data)
 
-    def post(self, uri: str, data: dict = {}) -> Response:
+    def post(self, uri: str, data: dict|list = {}) -> Response:
         return self._request("post", uri, data)
 
 

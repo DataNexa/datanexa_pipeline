@@ -1,4 +1,4 @@
-import dags.libs.FileManager as FileManager
+import libs.FileManager as FileManager
 
 FileManager.FileManager(
     file_type=FileManager.FileType.enriched,
