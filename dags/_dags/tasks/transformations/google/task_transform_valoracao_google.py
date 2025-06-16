@@ -2,6 +2,8 @@ from airflow.operators.python import PythonOperator # type: ignore
 from libs.FileManager import FileManager, delete, list_files, read, FileType, LocalFile
 from libs.Publish import Publish
 
+import logging
+
 plataforma = 1
 
 def transform_valoracao_google():
@@ -22,12 +24,13 @@ def transform_valoracao_google():
         )
 
         for obj in objs:
+
+            logging.info("Gerando valoração do objeto...")
+            logging.info(obj)
            
             metadata = obj.get("metadata", {})
             valoracao = round(100 / int(metadata.get("valorDivisor", 100)), 2)
-
-            obj["valoracao"] = valoracao
-
+            
             publishs.append(
                  Publish(
                     plataforma=plataforma,
@@ -39,6 +42,9 @@ def transform_valoracao_google():
                     sentimento=obj.get("sentimento", 0),
                     id=obj.get("id", 0),
                     metadata=obj.get("metadata", {}),
+                    monitoramento_id=obj.get("monitoramento_id", 0),
+                    client_id=obj.get("client_id", 0),
+                    valoracao=valoracao
                 ).to_dict()
             )
 
@@ -55,7 +61,6 @@ def transform_valoracao_google():
             local=LocalFile.google,
             filename=f"{arquivo}",
         )
-
 
 def create_task_transform_valoracao_google(dag):
 

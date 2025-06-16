@@ -19,7 +19,8 @@ class Publish:
         metadata:dict = None,
         curtidas:int = 0,
         visualizacoes:int = 0,
-        compartilhamento:int = 0
+        compartilhamento:int = 0,
+        monitoramento_id:int = 0
     ):
         
         self.metadata = metadata
@@ -38,7 +39,8 @@ class Publish:
             "metadata": metadata if metadata else {},
             "curtidas": curtidas,
             "visualizacoes": visualizacoes,
-            "compartilhamento": compartilhamento
+            "compartilhamento": compartilhamento,
+            "monitoramento_id": monitoramento_id
         }
 
     def to_dict(self):
@@ -55,4 +57,6 @@ class Publish:
                 sentimento=obj.get("sentimento", 0),
                 id=obj.get("id", 0),
                 metadata=obj.get("metadata", {}),
+                client_id=obj.get("client_id", 0),
+                monitoramento_id=obj.get("monitoramento_id", 0)
             )

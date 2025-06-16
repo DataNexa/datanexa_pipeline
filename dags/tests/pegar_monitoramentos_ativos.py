@@ -1,5 +1,5 @@
-from services.API.APIDatanexa import APIDatanexa
-from services.google.search.GoogleService import Dork, search
+from dags.services.API.APIDatanexa import APIDatanexa
+from dags.services.google.search.GoogleService import Dork, search
 from time import sleep
 
 
@@ -32,7 +32,8 @@ for monitoramento in body:
     notInSites = searchObj.get("notInSites", [])
     notInSites.extend(defaultNotInSites)
 
-    
+    print(searchObj)
+
     dork = Dork(
         sites=searchObj.get("sites", []),
         notSites=searchObj.get("notInSites", []),
@@ -45,6 +46,7 @@ for monitoramento in body:
         dork=searchObj.get("dork", "")
     )
 
+"""
     pg = 1
     while pg < 6:
         results = search(dork, page=pg)
@@ -55,7 +57,6 @@ for monitoramento in body:
         print(results['items'][0])
         sleep(2)  # Pausa de 2 segundos entre as páginas
 
-"""
 {   
     'kind': 'customsearch#result', 
     'title': 'Serpro é um dos destaques da Campus Party Brasília 2024', 

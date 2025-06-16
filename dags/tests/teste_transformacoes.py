@@ -1,4 +1,4 @@
-from dags._dags.tasks.transformations.google.task_transform_processed_google import transform_processed_google
+from _dags.tasks.transformations.google.task_transform_processed_google import transform_processed_google
 from services.API.APIGPT import chat
 from libs.FileManager import read
 

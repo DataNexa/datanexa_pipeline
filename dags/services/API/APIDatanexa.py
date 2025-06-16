@@ -13,7 +13,7 @@ class APIDatanexa:
     def __init__(self):
 
         self.config = Config()
-        self._url = self.config.get("api_datanexa_url", "http://localhost:4000/")
+        self._url   = self.config.get("api_datanexa_url", "http://localhost:4000/")
         self._token = self.config.get("api_datanexa_token", "")
         
         if not self._url or not self._token:

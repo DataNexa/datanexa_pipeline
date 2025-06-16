@@ -10,6 +10,8 @@ from datetime import date
 import json 
 from time import sleep
 
+import logging
+
 plataforma = 1
 
 def transform_processed_google():
@@ -37,6 +39,10 @@ def transform_processed_google():
             logging.error(f"Nenhum item encontrado no arquivo {arquivo}. \nNão é possível criar o metadata.")
             continue
         
+        monitoramento = obj.get('monitoramento', {})
+        if not monitoramento:
+            raise Exception("Monitoramento não foi configurado no arquivo bruto para processamento") 
+
         startIndex = int(req[0].get('startIndex', 1))
         itens = obj.get("items", [])
         i = 0
@@ -77,6 +83,8 @@ def transform_processed_google():
                         sentimento=publish.get("sentimento", 0),
                         id=item.get("id", 0),
                         metadata={ "valorDivisor": max(startIndex + i, 1) },
+                        client_id=monitoramento.get("client_id", 0),
+                        monitoramento_id=monitoramento.get("id", 0)
                     ).to_dict()
                 )
 
