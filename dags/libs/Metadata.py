@@ -7,7 +7,7 @@ class MonitoramentoMetadata:
 
     def __init__(self, monitoramento:dict):
         self.id = monitoramento.get("id", None) 
-        self.client_id = monitoramento.get("cliente_id", None)
+        self.client_id = monitoramento.get("client_id", None)
         if self.id is None:
             raise ValueError("Campo 'id' ausente no monitoramento.")
         if self.client_id is None:

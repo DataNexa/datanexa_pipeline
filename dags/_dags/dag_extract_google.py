@@ -4,7 +4,7 @@ from airflow.operators.python import PythonOperator # type: ignore
 from datetime import datetime, timedelta
 
 from _dags.tasks.task_get_monitoramentos_ativos import create_task_get_monitoramentos
-from tasks.task_get_data_google import task_google_extract_and_save_raw
+from _dags.tasks.task_get_data_google import task_google_extract_and_save_raw
 
 default_args = {
     "start_date": datetime(2025, 5, 7),

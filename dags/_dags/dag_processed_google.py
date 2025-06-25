@@ -26,9 +26,9 @@ sensor_processed_google = FileSensor(
     task_id="task_sensor_processed_google",
     fs_conn_id="filesystem_default",
     filepath="/opt/airflow/dags/data/raw/google/json/*",
-    poke_interval=60,   # Intervalo de verificação em segundos
-    timeout=600,        # Tempo máximo de espera em segundos
-    mode="poke",        # Modo de operação do sensor
+    poke_interval=60,
+    timeout=10,
+    mode="reschedule",
     dag=dag,
 )
 

@@ -19,13 +19,13 @@ dag = DAG(
 )
 
 
-sensor_ready_files = FileSensor (
+sensor_ready_files = FileSensor(
     task_id="task_sensor_ready_file",
     fs_conn_id="filesystem_default",
     filepath="/opt/airflow/dags/data/ready/*",
     poke_interval=60,
-    timeout=600,
-    mode="poke",
+    timeout=10,
+    mode="reschedule",
     dag=dag
 )
 

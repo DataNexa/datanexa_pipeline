@@ -19,14 +19,18 @@ def get_data_youtube(monitoramentos):
             ytOrder=searchObj.get("order", "relevance"),
             publishedAfter=searchObj.get("publishedAfter", ""),
             lang=searchObj.get("lang", ""),
-            youtube_api_key=monitoramento.get("youtube_api_key", "")
+            youtube_api_key=searchObj.get("youtube_api_key", "")
         )
 
         results = search(dork)
         
         if results:
             for result in results:
-                result['monitoramento'] = monitoramento
+                result['monitoramento'] = {
+                    'id': monitoramento['id'],
+                    'client_id': monitoramento['client_id']
+                }
+                results['youtube_api_key'] = searchObj.get("youtube_api_key", "")
                 FileManager(
                     file_type=FileType.raw,
                     local=LocalFile.youtube,

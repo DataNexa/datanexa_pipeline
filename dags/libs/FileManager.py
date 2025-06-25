@@ -34,18 +34,19 @@ class FileManager:
 
         now  = datetime.now(timezone.utc)
         self._filename = f"{now}.{uuid.uuid4().hex[:8]}.{local.value}.{file_type.value}.{file_ext}"
-        base_data = BASE_DIR / f"../data/"
-        base_back = BASE_DIR / f"../backup/"
+        
+        base_data = BASE_DIR / "../data"
+        base_back = BASE_DIR / "../backup"
 
         if file_type.value == FileType.raw: 
-            self._path = f"{base_data}{file_type.value}{local.value}/{file_ext}/{self._filename}"
-            self._path_backup = f"{base_back}{file_type.value}{local.value}/{file_ext}/{self._filename}"
-        elif file_type.value == FileType.ready or file_type.value == FileType.analise:
-            self._path = f"{base_data}{file_type.value}/{self._filename}"
-            self._path_backup = f"{base_back}{file_type.value}/{self._filename}"
+            self._path = base_data / file_type.value / local.value / file_ext / self._filename
+            self._path_backup = base_back / file_type.value / local.value / file_ext / self._filename
+        elif file_type.value in (FileType.ready, FileType.analise):
+            self._path = base_data / file_type.value / self._filename
+            self._path_backup = base_back / file_type.value / self._filename
         else:
-            self._path = f"{base_data}{file_type.value}/{local.value}/{self._filename}"
-            self._path_backup = f"{base_back}{file_type.value}/{local.value}/{self._filename}"
+            self._path = base_data / file_type.value / local.value / self._filename
+            self._path_backup = base_back / file_type.value / local.value / self._filename
 
         logging.info("Arquivo gerado em FileManager:")
         logging.info(f"type={file_type}, local={local if local != "" else "root"}, filename={self._filename}, path={self._path}")
@@ -56,7 +57,9 @@ class FileManager:
         if content is not None:
             self._content = content
 
-        self._path.parent.mkdir(parents=True, exist_ok=True)
+        self._path.parent.mkdir(parents=True, exist_ok=True) 
+        self._path_backup.parent.mkdir(parents=True, exist_ok=True)
+        
         if isinstance(self._content, dict) or isinstance(self._content, list):  # JSON ou List
             with open(self._path, "w", encoding="utf-8") as f:
                 json.dump(self._content, f, ensure_ascii=False, indent=2)
@@ -85,6 +88,8 @@ def list_files(file_type: FileType, local: LocalFile|None = None, sufix:str = ""
         local_values = f"/{local.value}"
 
     path = BASE_DIR / f"../data/{file_type.value}{local_values}{sufix}"
+
+    logging.info(f"Listando arquivos em: {path}")
     
     if not path.exists():
         raise FileNotFoundError(f"Diretório {path} não encontrado.")

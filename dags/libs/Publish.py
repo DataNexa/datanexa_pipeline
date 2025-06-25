@@ -20,7 +20,8 @@ class Publish:
         curtidas:int = 0,
         visualizacoes:int = 0,
         compartilhamento:int = 0,
-        monitoramento_id:int = 0
+        monitoramento_id:int = 0,
+        comentarios:int = 0
     ):
         
         self.metadata = metadata
@@ -40,7 +41,8 @@ class Publish:
             "curtidas": curtidas,
             "visualizacoes": visualizacoes,
             "compartilhamento": compartilhamento,
-            "monitoramento_id": monitoramento_id
+            "monitoramento_id": monitoramento_id,
+            "comentarios":comentarios
         }
 
     def to_dict(self):

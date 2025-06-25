@@ -5,6 +5,8 @@ from datetime import date
 from time import sleep
 from libs.Publish import Publish
 
+from airflow.operators.python import PythonOperator # type: ignore
+
 plataforma = 5  # YouTube
 
 def transform_processed_analise_sentimento_youtube():
@@ -18,24 +20,19 @@ def transform_processed_analise_sentimento_youtube():
 
     for arquivo in arquivos:
 
-        if not arquivo.endswith("transcrito.obj.json"):
+        if not arquivo.endswith("processed.json"):
             continue
 
         obj = read(
             file_type=FileType.processed,
             local=LocalFile.youtube,
-            filename=arquivo,
+            filename=arquivo
         )
 
         raw_res = chat(obj)
         publish = json.loads(raw_res)
         dataStr = publish.get("dataPublish", "")
-
-        obj = read(
-            file_type=FileType.processed,
-            local=LocalFile.youtube
-        )
-
+    
         monitoramento = obj.get('monitoramento', {})
         if not monitoramento:
             raise Exception("Monitoramento não foi configurado no arquivo processado para processamento")
@@ -64,11 +61,13 @@ def transform_processed_analise_sentimento_youtube():
                 metadata={ },
                 valoracao=obj.get("valoracao", 0),
                 client_id=monitoramento.get("client_id", 0),
-                monitoramento_id=monitoramento.get("id", 0)
+                monitoramento_id=monitoramento.get("id", 0),
+                curtidas=obj.get("estatisticas", {}).get("likeCount", 0),
+                visualizacoes=obj.get("estatisticas", {}).get("viewCount", 0),
+                comentarios=obj.get("estatisticas", {}).get("commentCount", 0),
             ).to_dict()
         )
 
-        i += 1
         sleep(1)
 
     FileManager(
@@ -77,3 +76,11 @@ def transform_processed_analise_sentimento_youtube():
         content=publishs,
         file_ext="json"
     ).save()
+
+
+def create_task_transform_processed_youtube(dag):
+    return PythonOperator(
+        task_id="task_transform_processed_analise_sentimento_youtube",
+        python_callable=transform_processed_analise_sentimento_youtube,
+        dag=dag,
+    )

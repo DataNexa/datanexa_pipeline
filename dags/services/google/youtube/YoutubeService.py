@@ -1,10 +1,11 @@
 
 from typing import TypedDict, Optional, List
-from datetime import time
+
+import time
 import requests
 import logging
 
-API_URL = "https://www.googleapis.com/youtube/v3/search"
+API_URL = "https://www.googleapis.com/youtube/v3/"
 
 class YouTubeDork(TypedDict):
     dork: str
@@ -20,6 +21,9 @@ class YouTubeDork(TypedDict):
 
 
 def build_youtube_dork_query(dork: YouTubeDork) -> str:
+
+    logging.info("DORK YOUTUBE")
+    logging.info(dork)
 
     partes = []
 
@@ -58,7 +62,7 @@ def youtube_search_with_pagination(params, max_pages=3) -> list:
         if next_page_token:
             params["pageToken"] = next_page_token
 
-        response = requests.get(API_URL, params=params)
+        response = requests.get(API_URL+"search", params=params)
         data = response.json()
         data['metadata'] = {
             "relevancia": relevancia,
@@ -71,7 +75,7 @@ def youtube_search_with_pagination(params, max_pages=3) -> list:
             break
 
         page += 1
-        multiplicador_de_relevancia -= 1
+        multiplicador_de_relevancia_da_pagina -= 1
         time.sleep(1)
 
     return datas
@@ -106,7 +110,7 @@ def estatisticas_publicacao(videos_ids:list, youtube_api_key:str) -> list:
         "key": youtube_api_key
     }
 
-    response = requests.get(API_URL, params=params)
+    response = requests.get(API_URL+"videos", params=params)
     response.raise_for_status()
 
     resp = response.json()
@@ -115,6 +119,7 @@ def estatisticas_publicacao(videos_ids:list, youtube_api_key:str) -> list:
 
 
 def build_youtube_search_params(dork: YouTubeDork, max_results: int = 50) -> dict:
+    
     query_string = build_youtube_dork_query(dork)
     params = {
         "part": "snippet",
@@ -130,9 +135,6 @@ def build_youtube_search_params(dork: YouTubeDork, max_results: int = 50) -> dic
     if dork.get("videoDefinition"):
         params["videoDefinition"] = dork["videoDefinition"]
 
-    if dork.get("videoEmbeddable") is not None:
-        params["videoEmbeddable"] = "true" if dork["videoEmbeddable"] else "false"
-
     if dork.get("ytOrder"):
         params["order"] = dork["ytOrder"]
 
@@ -147,6 +149,8 @@ def build_youtube_search_params(dork: YouTubeDork, max_results: int = 50) -> dic
 
 def search(dork: YouTubeDork) -> list:
 
+    logging.info("Iniciando busca no YouTube com os seguintes parâmetros:")
+    logging.info(dork)
     params = build_youtube_search_params(dork)
     logging.info(f"Query enviada para API:\n{params}\n")
 

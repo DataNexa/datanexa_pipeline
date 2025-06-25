@@ -1,5 +1,7 @@
 from youtube_transcript_api import YouTubeTranscriptApi # type: ignore
 from youtube_transcript_api.formatters import TextFormatter # type: ignore
+from airflow.operators.python import PythonOperator  # type: ignore
+import logging
 
 from libs.FileManager import FileManager, FileType, LocalFile, read, list_files
 
@@ -8,18 +10,22 @@ from libs.FileManager import FileManager, FileType, LocalFile, read, list_files
 def get_limited_transcript(video_id: str, max_chars: int = 12000) -> str:
 
     try:
-        transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=['pt', 'pt-BR'])
 
-        formatter = TextFormatter()
-        full_text = formatter.format_transcript(transcript_list)
-        
-        if len(full_text) > max_chars:
-            full_text = full_text[:max_chars].rsplit('\n', 1)[0]  # Corta e tenta evitar quebra no meio de uma linha
+        logging.info(f"Obtendo transcrição para o vídeo ID: {video_id}")
 
-        return full_text
+        transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=['pt'])
+
+        logging.info(f"Transcrição obtida... splitando em blocos de {max_chars} caracteres")
+
+        full_text = ""
+
+        for item in transcript_list:
+            full_text += item['text'].replace('\n', '  ').strip()
+
+        return full_text[:max_chars] if len(full_text) > max_chars else full_text
 
     except Exception as e:
-        print(f"Erro ao obter transcrição: {e}")
+        logging.error(f"Erro ao obter transcrição: {e}")
         return ""
     
 
@@ -27,8 +33,11 @@ def get_transcription_and_save():
 
     files = list_files(
         file_type=FileType.raw,
-        local=LocalFile.youtube
+        local=LocalFile.youtube,
+        sufix="/json"
     )
+
+    logging.info(f"Arquivos encontrados: {files}")
 
     for file in files:
         if not file.endswith("raw.json"):
@@ -51,7 +60,7 @@ def get_transcription_and_save():
             for item in items:
                 video_id = item.get('id', {}).get('videoId', '')
                 if not video_id:
-                    print(f"ID do vídeo não encontrado no item: {item}")
+                    logging.error(f"ID do vídeo não encontrado no item: {item}")
                     continue
 
                 item['video_id'] = video_id
@@ -63,6 +72,7 @@ def get_transcription_and_save():
                     item['texto'] = transcription
                     item['relevancia'] = relevancia / i
                     item['monitoramento'] = monitoramento
+                    item['youtube_api_key'] = obj.get('youtube_api_key', '')
 
                     FileManager(
                         file_type=FileType.processed,
@@ -73,6 +83,15 @@ def get_transcription_and_save():
                     i += 1
 
         except Exception as e:
-            print(f"Erro ao ler arquivo {file}: {e}")
+            logging.error(f"Erro ao ler arquivo {file}: {e}")
             continue
 
+
+
+def create_task_transform_transcription_data_youtube(dag):
+    
+    return PythonOperator(
+        task_id='task_transform_transcription_data_youtube',
+        python_callable=get_transcription_and_save,
+        dag=dag
+    )

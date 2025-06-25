@@ -9,6 +9,9 @@ dags/data/*
 !dags/data/readme.md
 accounts.json
 
+backup/*
+!backup/readme.md
+
 exemplo
 __pycache__/
 *.py[cod]

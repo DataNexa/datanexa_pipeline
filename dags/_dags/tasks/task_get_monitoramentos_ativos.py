@@ -5,7 +5,7 @@ from services.API.APIDatanexa import APIDatanexa
 def task_get_monitoramentos(**kwargs):
     
     response = APIDatanexa().get("monitoramentos/readAll")
-    
+
     if response.code() != 200:
         logging.error(f"Erro ao obter monitoramentos ativos: {response.message}")
         raise ValueError(f"Erro ao obter monitoramentos ativos: {response.message}")

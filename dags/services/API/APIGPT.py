@@ -79,4 +79,4 @@ def chat(obj:dict):
         return data["choices"][0]["message"]["content"].strip()
     
     except requests.exceptions.RequestException as e:
-        raise RuntimeError(f"Error while chatting: {str(e)}")
+        logging.error(f"Erro ao chamar a API OpenAI: {e}")
