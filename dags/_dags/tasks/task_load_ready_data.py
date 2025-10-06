@@ -43,10 +43,11 @@ def task_load_ready_data():
             
             resp = APIDatanexa().post(f"/publicacoes/create?client_id={obj["client_id"]}", obj)
 
-            if resp.code != 200:
+            if resp.code() != 200:
                 total_registros_error += 1
                 objErrors.append(obj)
                 logging.warning(f"Erro ao tentar armazenar objeto via API. Codigo: {resp.code()}, mensagem: {resp.message()}")
+                continue
             
             total_registros_success += 1
 

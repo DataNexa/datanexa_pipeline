@@ -25,12 +25,13 @@ def get_data_youtube(monitoramentos):
         results = search(dork)
         
         if results:
+            logging.info(f"Resultados encontrados no YouTube para o monitoramento {monitoramento['id']}: {len(results)} vídeos.")
             for result in results:
                 result['monitoramento'] = {
                     'id': monitoramento['id'],
                     'client_id': monitoramento['client_id']
                 }
-                results['youtube_api_key'] = searchObj.get("youtube_api_key", "")
+                result['youtube_api_key'] = searchObj.get("youtube_api_key", "")
                 FileManager(
                     file_type=FileType.raw,
                     local=LocalFile.youtube,

@@ -1,0 +1,1720 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jdwFRvVbfMfLjjDJaLW02bwZASs",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 16786,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Q1yAEEbdWFmFnp-I602IKSTcaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OJ77kO6vbR8"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T14:05:37Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista Jacimar Ferreira  | Internacionalização do Serpro | Web Summit 2022",
+        "description": "O superintendente de Novos Negócios do Serpro, Jacimar Ferreira, aborda em entrevista a internacionalização da carteira de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJ77kO6vbR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJ77kO6vbR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJ77kO6vbR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T14:05:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L-9iz8Z3qI1vgNJ8zY8kRtVDn00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7PrS7zRc4co"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-17T16:30:01Z",
+        "channelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
+        "title": "ENTREVISTA: PRESIDENTE DO SERPRO FALA SOBRE SERVIÇOS QUE VÊM CONECTANDO GOVERNO E SOCIEDADE",
+        "description": "Você certamente já ouviu falar da carteira digital de trânsito, da plataforma GOV.BR. Talvez, até seja usuário dessas praticidades.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PrS7zRc4co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PrS7zRc4co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PrS7zRc4co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CanalGov",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-17T16:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "49_w7V9CibZoKpgYdP2M2Dclf50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6VnneW6WE4k"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-16T13:17:48Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Serpro Talks: palestra Gestão e Governança",
+        "description": "Palestra ministrada pela Profa. Dra. Ana Paula Bernardi da Silva, professora do mestrado em Governança, Tecnologia e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6VnneW6WE4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6VnneW6WE4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6VnneW6WE4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-16T13:17:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uBTP3YWDMcaAwSoYPNFIsFPrPaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dBEgBCWewDk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T21:15:27Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista Gileno Barreto | Avaliação geral da presença do Serpro no Web Summit 2022",
+        "description": "O presidente do Serpro, Gileno Barreto, faz uma avaliação geral da presença da empresa no Web Summit 2022, destacando a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dBEgBCWewDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dBEgBCWewDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dBEgBCWewDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T21:15:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kMEeUkb60Sm6ZShfzhRq-JkSBEM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NRE-GgJby_I"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-13T11:00:19Z",
+        "channelId": "UChvwkhC3eHxJsVxW_ItDjdA",
+        "title": "ENTREVISTA: Paulo César Marques Lopes, aprovado no SERPRO para Analista - Especialização: Tecnologia",
+        "description": "Cursos Completos para SERPRO → https://estra.ink/3UZEBIT Estude com o material que mais aprova no Brasil ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NRE-GgJby_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NRE-GgJby_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NRE-GgJby_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Estratégia Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-13T11:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "to0o7mmgOjnVHrq-PC-2m8oD_LA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vmZlHB_el24"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-14T17:30:07Z",
+        "channelId": "UChvwkhC3eHxJsVxW_ItDjdA",
+        "title": "Concurso Serpro: entrevista com Diogo Araújo, aprovado para Analista de TI. Confira!",
+        "description": "Concurso Serpro: entrevista com Diogo Araújo, aprovado para Analista de TI. Confira! Cursos Completos para (nome do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vmZlHB_el24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vmZlHB_el24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vmZlHB_el24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Estratégia Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-14T17:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-hfSTw71t--L9FmbRqikLZiSB6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7wE5Sj0INac"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T15:16:06Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista João Almeida | Segurança dos serviços Serpro | Web Summit 2022",
+        "description": "João Almeida, superintendente de Segurança da Informação do Serpro, fala sobre os desafios e a estruturação da segurança ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7wE5Sj0INac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7wE5Sj0INac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7wE5Sj0INac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T15:16:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J5Tdid2naH3ubREVXnu2O4Bsa2k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s28V_0trEqI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T19:16:16Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista André de Cesero | Serpro no Web Summit 2022",
+        "description": "O diretor de Relacionamento com Clientes do Serpro, André de Cesero, fala sobre como o Serpro se inovou ao ponto de se ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s28V_0trEqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s28V_0trEqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s28V_0trEqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T19:16:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FYRmw9pUurx7QbdN9lrl3bMCRBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tzSlou3JJLs"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T13:42:16Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista Alexandre Ávila | Gov.Br no Web Summit 2022",
+        "description": "Alexandre Ávila, superintendente de Governo Digital do Serpro, está no Web Summit 2022 em Lisboa/Portugal, e falou sobre a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tzSlou3JJLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tzSlou3JJLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tzSlou3JJLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T13:42:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-GnZ3swfBSebLmnSVeN6PVHQxho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T2mmMRpN01o"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T09:54:30Z",
+        "channelId": "UCaKcls8S67BP8E-XKBSKZQg",
+        "title": "Concurso SERPRO: Como estudar? com Victor Dalton e Arthur Lima",
+        "description": "Conheça nossas Assinaturas e estude com o melhor material do mercado: https://bit.ly/assinaturas-2023 Conheça o serviço de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T2mmMRpN01o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T2mmMRpN01o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T2mmMRpN01o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Direção Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T09:54:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fzMnhMYD_YpdTOeadeRG2uVyMM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IQePpkKBTrw"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-25T16:46:24Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Brasília contrata máquinas virtuais para educação do Serpro por R$ 12 milhões",
+        "description": "Acordo sob demanda, de até R$ 12,69 milhões, começa com 2 mil estações de trabalho para cursos técnicos e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQePpkKBTrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQePpkKBTrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQePpkKBTrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-25T16:46:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_mBBknSSF_6kqr_XA9caHdi-h8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0X36Y7GS4Fk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-13T17:10:18Z",
+        "channelId": "UCFCiSRbCVwQ_BQaDQBYxN_A",
+        "title": "André Sucupira destaca papel do Serpro no avanço digital do governo",
+        "description": "O diretor Jurídico e de Governança e Gestão do Serpro (Serviço Federal de Processamento de Dados), André Sucupira, disse ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0X36Y7GS4Fk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0X36Y7GS4Fk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0X36Y7GS4Fk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Poder360",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-13T17:10:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i6oyOFcCXSrfqMzIU0azvOgj7No",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EuhN3rCfGFI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T19:19:12Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista Brayam Gonçalves | Expansão internacional do Serpro | Web Summit 2022",
+        "description": "O líder da Divisão de Negócio para Empresas - Mercado Internacional, Brayam Gonçalves, analisou o valor do Web Summit 2022 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EuhN3rCfGFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EuhN3rCfGFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EuhN3rCfGFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T19:19:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pRJfqY11LCGYirBSAgKyM6PumOI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xCctfNnHxBc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-29T12:02:12Z",
+        "channelId": "UC23ho5Dy0TEVro__cimAVNQ",
+        "title": "Serpro alcança 700 cidades com projeto Prefeitura mais Digital",
+        "description": "Entrevista com o Thiago Baere, superintendente de Negócios do Serpro.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCctfNnHxBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCctfNnHxBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCctfNnHxBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PORTAL IPNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-29T12:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sHV-p20iNTTDl6WX5lMeTpAwNqc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7MpSp2AhHa0"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-10T18:00:06Z",
+        "channelId": "UChvwkhC3eHxJsVxW_ItDjdA",
+        "title": "Concurso SERPRO: Conheça Felipe Assman, aprovado em 77º lugar para Analista de Tecnologia",
+        "description": "Cursos Completos para SERPRO → https://estra.ink/3Wa6GOn Estude com o material que mais aprova no Brasil ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7MpSp2AhHa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7MpSp2AhHa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7MpSp2AhHa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Estratégia Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-10T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_iGm_OzKrVSgUkwPO9jxKDCJHsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mqJBcObRI0Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-28T09:57:49Z",
+        "channelId": "UCZk6Fk5oAnHfpWDT3wdmc1g",
+        "title": "Serpro e empresa no Vale do Silício fecham acordo secreto envolvendo dados de brasileiros",
+        "description": "A DrumWave já tem desenvolvidos mais de 100 projetos de monetização de dados pessoais no mundo e promete um novo modo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mqJBcObRI0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mqJBcObRI0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mqJBcObRI0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Capital Digital (Luiz Queiroz)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-28T09:57:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a6J-7XZgfHaiK6wMYLB3Cn5SgBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vTF8P2tK_1I"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-16T15:46:05Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Serpro: Nuvem soberana é essencial para uma inteligência artificial brasileira",
+        "description": "Soberania está no CNPJ, mas muito mais da tecnologia”, afirma o presidente do Serpro, Alexandre Amorim.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vTF8P2tK_1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vTF8P2tK_1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vTF8P2tK_1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-16T15:46:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mJtqRehUPIHJcUFsWVzt9gY5a9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IuQqSdNF6FE"
+      },
+      "snippet": {
+        "publishedAt": "2010-04-01T20:15:25Z",
+        "channelId": "UC_AIyVw2BYiZj7_Z_BOGA-g",
+        "title": "Exclusivo: Presidente do Serpro explica a infra de TI para a entrega do IR",
+        "description": "Nesta entrevista de Marcos Mazoni, Presidente do Serpro (Serviço Federal de Processamento de Dados), durante o evento ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IuQqSdNF6FE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IuQqSdNF6FE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IuQqSdNF6FE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Portal VoIT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-04-01T20:15:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_cJe6P9OQnfVC7MvZx2HRfNxmQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kmh36Jc7ab0"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-20T04:07:09Z",
+        "channelId": "UCrpngZBUrnqFUOfz-lriYgw",
+        "title": "✨Vístete para brillar✨ #DavidFarah #serpro #entrevista #podcast",
+        "description": "La ropa no solo cubre, ¡habla por ti! Cuando tu outfit refleja quién eres, tu confianza se multiplica. No es el traje, eres tú ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kmh36Jc7ab0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kmh36Jc7ab0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kmh36Jc7ab0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PRO Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-20T04:07:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bJ2-LoTYPusk0va07zcRcicE1Cw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7jFRj7nWVdw"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-25T14:46:54Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Serpro: LLM próprio passa por lago de dados abastecido pelo governo",
+        "description": "O presidente do Serpro, Alexandre Amorim, explica o desenvolvimento de um modelo de linguagem para inteligência artificial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7jFRj7nWVdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7jFRj7nWVdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jFRj7nWVdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-25T14:46:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SJ5ubEFrZeQ0xf5vgLK9JIC3_8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "74ovINPFCGg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T16:46:38Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista Sergio Kamache | O universo ESG no Web Summit 2022",
+        "description": "Sergio Kamache é superintendente de Digitalização da Receita Federal e membro do Comitê ESG no Serpro e, no Web Summit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/74ovINPFCGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/74ovINPFCGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/74ovINPFCGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T16:46:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sRNDkpmWVj-E8OYYS82hLnA8YtA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cxMNRzXStnk"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-19T15:00:34Z",
+        "channelId": "UCaKcls8S67BP8E-XKBSKZQg",
+        "title": "Dicas do Aprovado na única vaga do Concurso SERPRO",
+        "description": "Confira todos os nossos cursos para concursos: https://bit.ly/3HIOPZ7 Conheça nossas Assinaturas e estude com o melhor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cxMNRzXStnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cxMNRzXStnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cxMNRzXStnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Direção Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-19T15:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mVTB3IbhSgHVNoejfbkctAyLCQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7e2Kn4Fr2rY"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-29T15:02:08Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Desafio do Serpro é ser menos Governo",
+        "description": "Abrir oportunidades de negócios à iniciativa privada, a partir das informações armazenadas na empresa, respeitando as regras ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7e2Kn4Fr2rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7e2Kn4Fr2rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7e2Kn4Fr2rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-29T15:02:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qV4hEFb2nkmcQZDUr9hOUF5x7hA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UxZrRRB9vls"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-28T16:39:33Z",
+        "channelId": "UCqujjKQF3h8BK89WMC_4DmQ",
+        "title": "Serpro fala sobre cooperação com Municípios",
+        "description": "Entrevista com o presidente do Serviço Federal de Processamento de Dados (Serpro), Alexandre Amorim, na XXIV Marcha a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UxZrRRB9vls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UxZrRRB9vls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UxZrRRB9vls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Portal CNM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-28T16:39:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UmE1NYKG9wg2whMKcKVPFSMwtSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qfe0fNwFTpQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-14T13:48:56Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Marcos Mazoni fala sobre a parceria do Serpro com o Governo do Maranhão",
+        "description": "No dia 14 de agosto de 2015, o Serpro e o Governo do Estado do Maranhão assinaram um termo de intenção de cooperação em ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qfe0fNwFTpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qfe0fNwFTpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qfe0fNwFTpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-14T13:48:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F4Nr46iWC4Au0wzVl3tC4p_O72s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bge7cWqBxzE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T20:15:05Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista Rafael Ferreira | Avaliação da participação em eventos internacionais | Web Summit 2022",
+        "description": "Rafael Ferreira é gerente de Negócios Digitais e Mercado Internacional do Serpro e, nesta entrevista, avalia a participação da ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bge7cWqBxzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bge7cWqBxzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bge7cWqBxzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T20:15:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ItAZtdED6QDo0XshZUG6O12aHO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aOWlClDrSqw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-25T19:50:08Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "ESG na Prática | Ao vivo | Evento Serpro sobre sustentabilidade",
+        "description": "O Serpro realiza no dia 25 de outubro, às 15h, no auditório da Sede em Brasília/DF, o ESG na Prática, evento que reúne casos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOWlClDrSqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOWlClDrSqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOWlClDrSqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-25T19:50:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F2TfnI0jy63jniIBiFDT27n30FY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r7k_Vt50Sec"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-31T12:44:15Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Serpro Booster | Vendas com Flávia Mota",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r7k_Vt50Sec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r7k_Vt50Sec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r7k_Vt50Sec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-31T12:44:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5d0027n1oexvXA48KRWtgpHJrOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jafT_tAhf-k"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-17T02:00:43Z",
+        "channelId": "UCmpHPgeCBgvk_fDXZQKsnAA",
+        "title": "JR ENTREVISTA: &#39;É um orgulho do Serpro&#39;, diz presidente da estatal sobre o RG digital",
+        "description": "O convidado do JR ENTREVISTA desta quarta-feira (16) é o presidente do Serpro (Serviço Federal de Processamento de Dados) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jafT_tAhf-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jafT_tAhf-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jafT_tAhf-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jornal da Record",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-17T02:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oKfL0RTjabRuGkyXjIKm2wgBWyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KpUs087jCNo"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-24T23:19:04Z",
+        "channelId": "UCLgti7NuK0RuW9wty-fxPjQ",
+        "title": "Cidadania - Dirigentes do Serpro falam de software livre - Bloco 1",
+        "description": "Em entrevista para o Cidadania, o diretor de operações e o coordenador de tecnologia do Serpro, Nivaldo Venâncio e José ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpUs087jCNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpUs087jCNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpUs087jCNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Senado",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-24T23:19:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DNGY6x8NRe0frTWwp_Jj-YYmKlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JqTGGhkjK_Q"
+      },
+      "snippet": {
+        "publishedAt": "2011-01-20T16:13:26Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Maddog fala sobre a importância da Campus Party",
+        "description": "Em uma breve conversa com o Blog do Serpro na Campus Party, Maddog deu um depoimento sobre a importância do evento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JqTGGhkjK_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JqTGGhkjK_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JqTGGhkjK_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-01-20T16:13:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "URf-CLqExosJ-QoUmXnf3bYoYbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2KTDmHcZh8I"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-04T22:55:29Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Marcos Mazoni fala sobre o Fisl12",
+        "description": "O diretor-presidente do Serpro é um dos idealizadores do evento. Neste vídeo da Tv Serpro, ele faz um balanço da 12a edição.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2KTDmHcZh8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2KTDmHcZh8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2KTDmHcZh8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-04T22:55:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qMQOlq-DxPOeE17neb96XlW6I0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D2GrpLvTmtQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-18T15:04:40Z",
+        "channelId": "UCj7DSsrE8uRw2Zw8Y-4K98A",
+        "title": "Quick Fire Questions com Glória Guimarães, Diretora-Superintendente do SERPRO",
+        "description": "O Quick Fire Questions, ou QFQ Comunidade Áreas de Integração, é composto de vídeos rápidos (no máximo 10 minutos) onde ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D2GrpLvTmtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D2GrpLvTmtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D2GrpLvTmtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Áreas de Integração",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-18T15:04:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RUgZ5vA76TQmedQvXQGlsodqeu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ny0iYZ6hQoQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-15T18:54:58Z",
+        "channelId": "UCvEt1hyevFlLfYowIt6H8xQ",
+        "title": "VAI CHAMAR GERAL TI 2023 : Concurso Serpro é confirmado e escolha da banca em andamento ; até 7 mil",
+        "description": "Download liberado E-book Como passar em concursos públicos Rodrigo Marcelo 【GRÁTIS】 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ny0iYZ6hQoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ny0iYZ6hQoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ny0iYZ6hQoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dicas e Dicas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-15T18:54:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fRmIlyRG-b64B7yxi8T6oqKoHyE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ahyEhPehRH8"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-22T13:00:04Z",
+        "channelId": "UChvwkhC3eHxJsVxW_ItDjdA",
+        "title": "SERPRO: Conheça Stefferson Luz Silva, aprovado para o cargo de Analista - Especialização: Tecnologia",
+        "description": "SERPRO: Conheça Stefferson Luz Silva, aprovado para o cargo de Analista - Especialização: Tecnologia Cursos Completos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahyEhPehRH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahyEhPehRH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahyEhPehRH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Estratégia Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-22T13:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VxqMQSsRhAEiGoI1A-rBZ6w8c3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V8Mz484-diU"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-27T23:22:14Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "A estatal Serpro está aberta a negócios",
+        "description": "Caio Mário Paes de Andrade, diretor-presidente do Serpro, empresa de tecnologia da informação do Governo Federal, fala ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V8Mz484-diU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V8Mz484-diU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V8Mz484-diU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-27T23:22:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mK-tY0K7z9ikp2shrypvSbpjVhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "selafSlzMeY"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T01:30:12Z",
+        "channelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
+        "title": "BRASIL EM PAUTA | Gileno Gurjão Barreto, diretor-presidente do Serpro",
+        "description": "05.06.2022 - O Serpro é o Serviço de Processamento de Dados do Governo Federal e faz parte de uma verdadeira ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/selafSlzMeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/selafSlzMeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/selafSlzMeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CanalGov",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T01:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rETwzURppVq5p0naDhL4tdJZ8SE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QEnr3qRFez8"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-24T13:50:10Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Serpro: 6 milhões de IPs únicos atacaram redes do governo em 2023, o dobro de 2022",
+        "description": "Dados estão em reputation.serpro.gov.br. “Ataques se multiplicam”, diz Tiago Iahn, do Serpro Veja a cobertura do Cyger.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QEnr3qRFez8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QEnr3qRFez8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QEnr3qRFez8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-24T13:50:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lxroY1MGNDPLQQ7aTmha2CEuNcQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ceSbJCslJVI"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-30T18:37:04Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Ministro Miguel Rossetto destaca parceria do Serpro no desenvolvimento do Dialoga Brasil",
+        "description": "Plataforma de participação social da Secretaria-Geral da Presidência, o Dialoga Brasil, foi desenvolvido pelo Serpro, baseado no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ceSbJCslJVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ceSbJCslJVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ceSbJCslJVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-30T18:37:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dRy3c8wnOibrXxjzGwrmlYi6JHI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sJujIJqJ0IM"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-01T17:14:33Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Entrevista de Alexandre Amorim para o Brasil em Dia sobre a nuvem soberana",
+        "description": "A Nuvem de Governo do Serpro é a nuvem soberana que vai ser essencial na execução do Plano Nacional de Inteligência ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJujIJqJ0IM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJujIJqJ0IM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJujIJqJ0IM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-01T17:14:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5qwqBK8OWyd8VsOXnm-EhklhMNI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sjpN4XrT1GE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-30T18:37:36Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Serpro: Soberania de dados não é luxo, é obrigação",
+        "description": "Vamos ver nas IAs o mesmo das nuvens, com informações que devem ser conduzidas em IAs soberanas”, diz o CISO do Serpro, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sjpN4XrT1GE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sjpN4XrT1GE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sjpN4XrT1GE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-30T18:37:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3flEUL7Kexd74LBYo74v62ywwfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jg09G8tB4fo"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-20T14:27:38Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Serpro aciona Nuvem Soberana: cofres são das big techs, mas só o governo tem a chave",
+        "description": "Em entrevista exclusiva ao portal Convergência Digital, o presidente da estatal de TI, Alexandre Amorim, revela que serviço será ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jg09G8tB4fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jg09G8tB4fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jg09G8tB4fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-20T14:27:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "shVK3CA3yDeftUqW2K0iFphc2nU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jjSwrl6IZl0"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-19T01:01:40Z",
+        "channelId": "UCf6rBp9AwyIpuPC7kPx7N6w",
+        "title": "Resultado Preliminar Serpro 2023 - Link da planilha nos comentários",
+        "description": "Montei uma planilha contendo as Notas da P1, P2, P3 e a Nota Final. Ordenei conforme os critérios de classificação dispostos no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jjSwrl6IZl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jjSwrl6IZl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjSwrl6IZl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Felipe Ferreira",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-19T01:01:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PPbFCNo3pwjSuWlQy694mVdKXzI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w1jFgfoXtqA"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-03T20:33:15Z",
+        "channelId": "UCWofa4iG5tT-8oSXwVSu4OA",
+        "title": "Marcos Mazoni, presidente do SERPRO, para o 2º TIC na Segurança Pública RS - Network Eventos",
+        "description": "Marcos Mazoni, presidente do Sepro, em entrevista a repórter Úrsula Neves, da Network Eventos, comentou sobre a criação do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1jFgfoXtqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1jFgfoXtqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1jFgfoXtqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "networkeventos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-03T20:33:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WyLYTAI7sMuzHZMgckgpMlLnfU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c8G3N67WH4o"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-31T13:13:16Z",
+        "channelId": "UCvroJZ_TC1l-f1-gXHlm9UQ",
+        "title": "Marcus Vinicius do Serpro convida você para no 4º Redes eGov 2015",
+        "description": "Marcus Vinicius convida você para participar do 4º Redes eGov. Dias 06 e 07 de maio em Brasília. Site Redes eGov: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c8G3N67WH4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c8G3N67WH4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c8G3N67WH4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WeGov - Espaço de Inovação no Setor Público",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-31T13:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EYuRikUFDSAMe2j8XZWiZvHYmoE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JcY-5780xHA"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T23:58:18Z",
+        "channelId": "UCSv9d0kQegylHWpP83jWSQg",
+        "title": "Processamento de dados: conheça os serviços oferecidos pelo Serpro",
+        "description": "Há quase seis décadas, o Serviço Federal de Processamento de Dados (Serpro) cria soluções em tecnologia da informação para ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JcY-5780xHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JcY-5780xHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JcY-5780xHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T23:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x4zmVKAGNHGxSGlgYubt8Qj0XOI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sgt8dl-qVkQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T13:19:05Z",
+        "channelId": "UC0Uaby64knO-IvLnNRBFCpg",
+        "title": "Presidente do Serpro diz que sinergia com Dataprev dá ganho de valor",
+        "description": "presidente do Serpro, Glória Guimarães, ao ser indagada sobre uma possível fusão entre Serpro e Dataprev, preferiu não se ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sgt8dl-qVkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sgt8dl-qVkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sgt8dl-qVkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T13:19:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f9opTLzgNSxtCH83Eus03Sc1Lzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tC4ul-d3Qzo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-20T01:43:27Z",
+        "channelId": "UCJFV6I90EafHTIeLpUe7PNw",
+        "title": "Despedida de empregados - PDV 2023",
+        "description": "Despedida de empregados do Serpro que aderiram ao PDV 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tC4ul-d3Qzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tC4ul-d3Qzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tC4ul-d3Qzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serpro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-20T01:43:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k4Zbd4A6Rp_IfVpE7ItD580_MSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jVH8J62WkcI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-13T14:06:52Z",
+        "channelId": "UCPKz6J-wjPYZpb5el0XTA-A",
+        "title": "SERPRO C67 PO CAP6   entrevista",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jVH8J62WkcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jVH8J62WkcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jVH8J62WkcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Melk Calabria",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-13T14:06:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "72l_YzaPTa1oMetWcSjePTS8vY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KzR6d5BGAyI"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-10T19:56:29Z",
+        "channelId": "UCX8z3zxDQQFs8FvKT7MGb7w",
+        "title": "Entrevista com Fernando Lustosa, Analista de Negócios do SERPRO em 07/12/2018",
+        "description": "Entrevista em 07/12/2018 - Porto Alegre/RS no evento da Frente Parlamentar de Free Shop e da UNALE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KzR6d5BGAyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KzR6d5BGAyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KzR6d5BGAyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FABIAN PERSI VENDRUSCOLO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-10T19:56:29Z"
+      }
+    }
+  ],
+  "metadata": {
+    "relevancia": 300
+  },
+  "monitoramento": {
+    "id": 1,
+    "client_id": 99
+  },
+  "youtube_api_key": "AIzaSyAwdZYtDPfDQM-ZowEBwUmzlJbHmLFgx4A"
+}

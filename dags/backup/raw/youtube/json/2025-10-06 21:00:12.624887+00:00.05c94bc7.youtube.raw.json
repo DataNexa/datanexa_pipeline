@@ -1,0 +1,1720 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "pDeu6XJ4UpgCueWM4NotH-JejWg",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 62915,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pLdXZsP6XkSSZgQn7QDE0LRo1To",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3hhL_yeDFvg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-06T19:16:21Z",
+        "channelId": "UCq29oecH3ku8pkztu6EQgDQ",
+        "title": "Santo Bolsonaro #bolsonaroaovivo #bolsonaro #bolssonaro #bolsonaropresidente #bolsonaro2022 #evita",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hhL_yeDFvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hhL_yeDFvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hhL_yeDFvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thomaz Thurbando ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-06T19:16:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w1qhMDozqaiR92Wa_UimCWPrpf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XCZoLuoGwMA"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-31T23:57:08Z",
+        "channelId": "UCBBsLObjn5Ieu06StYwJpDQ",
+        "title": "Estamos contigo nessa Bolsonaro 🙏 #aovivo #youtubeshorts #bolsonaro2022 #presidente",
+        "description": "estamos com você nessa Bolsonaro #aovivo #youtubeshorts #bolsonaro2022 #youtubeshorts #aovivo #presidente ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XCZoLuoGwMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XCZoLuoGwMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XCZoLuoGwMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roberta Mazini Oficial 💜",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-31T23:57:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lix4iEXSwPirpAuWi3NxEFZmYus",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ox-oraDtZxM"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T18:29:09Z",
+        "channelId": "UCYKGOm-bV4Q0VvSmOaUGSBg",
+        "title": "#shorts #bolsonaro #bolsonaro2022 #mito #deusacimadetudo #deuspátriafamília",
+        "description": "shorts #bolsonaro #bolsonaro2022 #mito #deusacimadetudo #deuspátriafamília.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ox-oraDtZxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ox-oraDtZxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ox-oraDtZxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Som Familiar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T18:29:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DPuMIsZ2OY5vfrPzwZgOVzPl-ro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_tXO7Dsmr3w"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-25T03:14:00Z",
+        "channelId": "UCZ1qWJrlSO04RFCrF9PdHoA",
+        "title": "BOLSONARO : CARLA ZAMBELLI TIROU NOSSO MANDATO ! #bolsonaro2022 #bolsonaro2026 #fazol",
+        "description": "Bolsonaro credita a derrota nas eleições de 2022 a deputada Carla Zambelli.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tXO7Dsmr3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tXO7Dsmr3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tXO7Dsmr3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Advogado Warley Reis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-25T03:14:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "asu-kXiB0oGZI76dbZ1NI430VN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0BdUNKqAL2c"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-12T21:25:45Z",
+        "channelId": "UCFyXsFg4EdRlFQxL1T92NmA",
+        "title": "lula ou bolsonaro #bolsonaro2022 #bolsonaro",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0BdUNKqAL2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0BdUNKqAL2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0BdUNKqAL2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daniel pro 9;)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-12T21:25:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xJYTtWS7L6R54t3DP5NAExgaOJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UhsxVegXCSA"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T17:22:38Z",
+        "channelId": "UCBWgg_5B4VAOMejCDDoSPLg",
+        "title": "Central das Eleições. #bolsonaro #lula #bolsonaro2022 #news #direita",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UhsxVegXCSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UhsxVegXCSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhsxVegXCSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sydnews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T17:22:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C5ViSP0jzmp8oKhnlijJG5FEpgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "itMm4BhmmP8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T14:20:08Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #pt #ideologia #socialismo #incompetente #bolsonaro #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itMm4BhmmP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itMm4BhmmP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itMm4BhmmP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T14:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rxe4nXaUn4Fr2XXBX3uwiwE7__Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0rtViJOHldM"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-26T00:02:34Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0rtViJOHldM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0rtViJOHldM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rtViJOHldM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T00:02:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iAs9uTBZo6tfkFWIsLPanPFhqiY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t7gFvotkbsM"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-25T09:30:50Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7gFvotkbsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7gFvotkbsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7gFvotkbsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-25T09:30:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RVqwQIbSKMt69WDRF6SZnwsuC5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IQX11YF0QrE"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:24:45Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQX11YF0QrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQX11YF0QrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQX11YF0QrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:24:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XMNriDj1TvDH_kEVN70JYQZMC00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RBj-cR3W1f8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T16:41:50Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBj-cR3W1f8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBj-cR3W1f8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBj-cR3W1f8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T16:41:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x1Q0T9JY450BlObn_NUhqFE8HxY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7hA3skXBKTk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:25:40Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hA3skXBKTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hA3skXBKTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hA3skXBKTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:25:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3OXnu0jX72q33g48c6kh11zIG_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d_pVChPKP3M"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:24:33Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_pVChPKP3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_pVChPKP3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_pVChPKP3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:24:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SAOgWOa6QnjxMz5WiOJLOxM7jNA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3IqrsWEwF-Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-25T09:32:28Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3IqrsWEwF-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3IqrsWEwF-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3IqrsWEwF-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-25T09:32:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q_NLkFQ3X2MW9HMFAE912Yh40Cg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gKCoGEDlQtU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:18:56Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gKCoGEDlQtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gKCoGEDlQtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gKCoGEDlQtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:18:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "axTDbKRPh_4bGAVO6eoFNPBXo4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GJbaj4w4h4Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:22:46Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GJbaj4w4h4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GJbaj4w4h4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GJbaj4w4h4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:22:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AKIfKZNW1092cgNmOoQmyjacANY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UMst0ObbGFw"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-25T13:07:11Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UMst0ObbGFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UMst0ObbGFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UMst0ObbGFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-25T13:07:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ltu78TZsUWIfSNpay5C6fI8EcrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IoxI4G9b_zg"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:22:13Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IoxI4G9b_zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IoxI4G9b_zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IoxI4G9b_zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:22:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JWZoEoL19P59Z9srv1xKFwwXGlk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qGIyvwNG3IU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-26T00:03:24Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qGIyvwNG3IU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qGIyvwNG3IU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qGIyvwNG3IU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T00:03:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xyShFLqmyM2VoJxa3X4gB_UCuZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DHEZzvDbYLE"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:26:45Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #romeuzema  #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DHEZzvDbYLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DHEZzvDbYLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DHEZzvDbYLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:26:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-ISAI8ZiJGDFTsnzKmAgF9wiAVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tciaDedWPj0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:26:06Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tciaDedWPj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tciaDedWPj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tciaDedWPj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:26:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GWVxv9FHPHsRyJBtkIJdDDvKbJI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nh6Dj5XOVSk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:40:43Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nh6Dj5XOVSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nh6Dj5XOVSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nh6Dj5XOVSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:40:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iY2uwSTv0iXDDxPcg-Dpbeo48RU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qOUCQ7ri0ro"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T16:42:39Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qOUCQ7ri0ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qOUCQ7ri0ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qOUCQ7ri0ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T16:42:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9sP_tFyfjVkzlDrr4gMKXXpn_-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zYIdQNrBsJo"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-25T09:31:34Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zYIdQNrBsJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zYIdQNrBsJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zYIdQNrBsJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-25T09:31:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "heYVaOAGHLojyXVAP0BTvsGIypQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BAufFO99pNc"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-26T21:58:32Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BAufFO99pNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BAufFO99pNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BAufFO99pNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T21:58:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zO5vUzwFZID0-ByzQ6RkJ9qtIU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQd3AsYRH7U"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-29T22:48:59Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQd3AsYRH7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQd3AsYRH7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQd3AsYRH7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-29T22:48:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hbnuFsJUSTM-cF2LmygOZy6OnqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lwqjvq__G0o"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T18:29:03Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lwqjvq__G0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lwqjvq__G0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lwqjvq__G0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T18:29:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_mRDEVonKEHk_fdXNVyhJQWv8P4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zoL4TrGL6zA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:43:04Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zoL4TrGL6zA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zoL4TrGL6zA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zoL4TrGL6zA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:43:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TcYSaotJYl6GGrrVx76vxuez20w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2JHjXCPuhr8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T18:36:08Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2JHjXCPuhr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2JHjXCPuhr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2JHjXCPuhr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T18:36:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I1t-wiizUEzfSP_HC9AvepYMMwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cyhKkc6zxdA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-29T22:48:36Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cyhKkc6zxdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cyhKkc6zxdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cyhKkc6zxdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-29T22:48:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X5uqmb2XgS-aR_NTASbOWpTEl-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mrigi1uqg1s"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-29T22:48:12Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mrigi1uqg1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mrigi1uqg1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mrigi1uqg1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-29T22:48:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JHqk4f_qHxF1ZWlSiQFQ_E0J5wY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uxenpRpszQg"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-29T22:46:21Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxenpRpszQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxenpRpszQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxenpRpszQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-29T22:46:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tKLsqzmH99F5k2hzENRzPBdq3rI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GzFIlStMSYY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T21:21:36Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzFIlStMSYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzFIlStMSYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzFIlStMSYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T21:21:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q8Y9VIWfaMnwuDZ0hb4NcwY7Rp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uxuTC1w29Ls"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:39:45Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxuTC1w29Ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxuTC1w29Ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxuTC1w29Ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:39:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "49xSyeK5LJmNdzp6p36xFreawPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qVWJ-TC3GY0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T21:23:15Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qVWJ-TC3GY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qVWJ-TC3GY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qVWJ-TC3GY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T21:23:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gyr5chRfB4wKVsEFR0BFO2G3sLM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AGfspcq5G-8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T18:29:44Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AGfspcq5G-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AGfspcq5G-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AGfspcq5G-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T18:29:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JvFwOQCn0IdzHkryfAUAzmEU8hk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "droF_2FkQHo"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:42:41Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/droF_2FkQHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/droF_2FkQHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/droF_2FkQHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:42:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xwe2EU4tU0s0_n0G6hGlH3Jj_mU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UZJu8oky45Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T21:23:35Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZJu8oky45Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZJu8oky45Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZJu8oky45Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T21:23:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eeWSOWDu2_MQxVYLFxEhhjkL7Qk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n-YWSd06HM0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:40:15Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n-YWSd06HM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n-YWSd06HM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n-YWSd06HM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:40:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U6_5uVdHDy9gvcZQKSUHUCKYsDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LsPCg_yWNXc"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-29T04:00:07Z",
+        "channelId": "UCg1QvKb_aOQNi-6-4qKL3tw",
+        "title": "Lula sobre os 51 Imóveis do Bolsonaro - #lula #lula2022 #lula13 #bolsonaro #bolsonaro2022 #shorts",
+        "description": "Lula sobre os 51 Imóveis do Bolsonaro - Flow Cuts Brasil #lula #lula2022 #lula13 #bolsonaro #bolsonaro2022 #shorts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LsPCg_yWNXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LsPCg_yWNXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LsPCg_yWNXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Flow Cuts Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-29T04:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8_dkzdQYyIQVeqTN7gnC4y0eE9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7TEe0cmOzbg"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T21:22:59Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7TEe0cmOzbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7TEe0cmOzbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7TEe0cmOzbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T21:22:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7HzzGEVT8OxBMFMGQ9vsoB8Rm5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j8PhtvJYbyc"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T21:23:47Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j8PhtvJYbyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j8PhtvJYbyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j8PhtvJYbyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T21:23:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N090WW_wZ9U2P2LQ7runOJ5XwGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hg3LTYI8n28"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:42:09Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hg3LTYI8n28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hg3LTYI8n28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hg3LTYI8n28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:42:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HJqU8ErKI1xOrYLLstfn-UVdE3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jfg7DcUkdlE"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T19:31:28Z",
+        "channelId": "UCBWgg_5B4VAOMejCDDoSPLg",
+        "title": "O funeral de Charlie Kirk, no Arizona #bolsonaro #charlie #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jfg7DcUkdlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jfg7DcUkdlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jfg7DcUkdlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sydnews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T19:31:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SuwZHoLtYevQ4a4q7FRkFXf0TQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cB8HFIUc50A"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T15:19:31Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cB8HFIUc50A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cB8HFIUc50A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cB8HFIUc50A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T15:19:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FQhP7CM_aC0cM_lTMhfARUBoUz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dZBuzBq6jwU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T18:33:50Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZBuzBq6jwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZBuzBq6jwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZBuzBq6jwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T18:33:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KK8u89yR4xTvlOV3naSCKV3L3rY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h0X1rV33ckA"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-12T12:37:01Z",
+        "channelId": "UCBWgg_5B4VAOMejCDDoSPLg",
+        "title": "Suspeito de assassinar Charlie Kirk é capturado. #bolsonaro #lula #bolsonaro2022 #charlie #trump",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h0X1rV33ckA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h0X1rV33ckA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h0X1rV33ckA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sydnews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-12T12:37:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SwLuJGjKY7PZSQ5pkDiKYd4NZSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "weUihCcOmag"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-16T02:38:59Z",
+        "channelId": "UCvDMOP6XTzfu4urTyUQRqTQ",
+        "title": "VITMA DA SOCIEDADE🤬 #shorts #foraluladrao #forapt #fazol #forastf #lula #bolsonaro #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/weUihCcOmag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/weUihCcOmag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/weUihCcOmag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DireitaWeb",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-16T02:38:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9UTh3wSPafLRfonBWHuirPIOi14",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IFqMEcSWFfY"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-23T13:02:03Z",
+        "channelId": "UC4QCiVovgfz5uhTpkyInoZQ",
+        "title": "#lula #lulapresidente #lulaohomemdopovo #lulamolusco #bolsonaro #bolsonaro2022 #bolsonaropresidente",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IFqMEcSWFfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IFqMEcSWFfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IFqMEcSWFfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sharles Shaenne",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-23T13:02:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6_0myMZl2FUzfJlEsGCW2B6g80I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6BtnkFpBJZQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-10T21:00:05Z",
+        "channelId": "UCLDx4nrka_kyezTExbZApCg",
+        "title": "BOMBA, ESQUERDA OU DIREITA? (Entenda quem derrubou Bolsonaro) #religião #bolsonaro #bolsonaro2022 ",
+        "description": "Neste vídeo o Teólogo Dione Caruzo mostra que o ministro Alexandre de Morais só é ministro devido o impeachment de Dilma, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6BtnkFpBJZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6BtnkFpBJZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6BtnkFpBJZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "O Sagrado no Profano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-10T21:00:05Z"
+      }
+    }
+  ],
+  "metadata": {
+    "relevancia": 300
+  },
+  "monitoramento": {
+    "id": 2,
+    "client_id": 99
+  },
+  "youtube_api_key": "AIzaSyAwdZYtDPfDQM-ZowEBwUmzlJbHmLFgx4A"
+}

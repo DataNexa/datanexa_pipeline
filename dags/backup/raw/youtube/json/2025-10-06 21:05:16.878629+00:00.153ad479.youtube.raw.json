@@ -1,0 +1,1721 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qYyRXPZjcSpYT2WXShuvpDjnvM0",
+  "nextPageToken": "CGQQAA",
+  "prevPageToken": "CDIQAQ",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 16762,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EFPgxqtMr0JJoFE-37b8PUi5dUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D7wAqYxJ3HE"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T14:46:44Z",
+        "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "title": "Funcionários dos Correios entram em greve em todo o Brasil",
+        "description": "Cerca de 100 mil funcionários dos Correios em todos os Estados do Brasil decidiram entrar em greve a partir das 22h desta ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D7wAqYxJ3HE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D7wAqYxJ3HE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D7wAqYxJ3HE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Record News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T14:46:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tvB5w4C-Fnk_yTSe1oW1rWfsUZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "33kIjdadmM8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-02T12:08:26Z",
+        "channelId": "UC9iWGVyX-44f7kyz24Xoe6g",
+        "title": "Correios ameaça de greve por desconto indevido",
+        "description": "Correios ameaça de greve por desconto indevido.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/33kIjdadmM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/33kIjdadmM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/33kIjdadmM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tribuna Sindical Maranhão",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-02T12:08:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iPO3qtIK8DQAevfwdF_bfvkHT1E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WABtLdZh55U"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-28T10:59:03Z",
+        "channelId": "UCksK-dgE20WV1RHU65C-ICQ",
+        "title": "(EDIÇÃO 28/09): Apesar da greve, Correios funcionam normalmente em São Luís",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WABtLdZh55U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WABtLdZh55U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WABtLdZh55U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo Difusora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-28T10:59:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fb-O6f6wWp5Ob-Ia54mDpDKK5Fo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WUny6UijepA"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-04T21:59:40Z",
+        "channelId": "UCvJ1AGdJwRhGWM5n6D-SX9w",
+        "title": "Trabalhadores dos Correios protestam contra privatização do Plano de Saúde",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WUny6UijepA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WUny6UijepA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WUny6UijepA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVCidadeVerde",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-04T21:59:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nTWmKU83awjOucxZa9ZHgh8_Nr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "py1DD58NMWQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-03T01:47:08Z",
+        "channelId": "UCmpHPgeCBgvk_fDXZQKsnAA",
+        "title": "Atrasos em entregas gera quase 60 mil reclamações contra os Correios nos últimos seis meses",
+        "description": "Consumidores de todo o país reclamam de atrasos em entregas de encomendas pelos Correios. Uma plataforma que reúne ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/py1DD58NMWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/py1DD58NMWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/py1DD58NMWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jornal da Record",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-03T01:47:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7s17Qo7PxE3v_daePpHz668QfLw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ww0UqkvAfjc"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-13T20:30:06Z",
+        "channelId": "UCx7lDrlpYuGPiQ32TVWgF8w",
+        "title": "Trabalhadores dos Correios, Plano de Saúde e Campanha Salarial - Radar Podcast | EP. 12",
+        "description": "Correios em pauta com luta, história e mobilização! Neste episódio 12 do Radar Podcast, Ribamar Passos recebe o camarada ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ww0UqkvAfjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ww0UqkvAfjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ww0UqkvAfjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Radar Podcast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-13T20:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vglFmh3OlLU9H25XsUlh_zJxGng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-_X6QVLJwac"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-10T00:54:09Z",
+        "channelId": "UCvdwhh_fDyWccR42-rReZLw",
+        "title": "Prejuízo dos Correios dispara a R$ 2,6 bilhões em 2024 | CNN PRIME TIME",
+        "description": "Segundo dados do Diário Oficial da União, o prejuízo dos Correios quadruplicou em 2024 e alcançou R$ 2,6 bilhões. Em 2023, a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-_X6QVLJwac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-_X6QVLJwac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-_X6QVLJwac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-10T00:54:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nwt3sRlqWPkHrUK-CFPFRdnGEqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ew4eoDaTFis"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-23T10:29:42Z",
+        "channelId": "UC74FvQ6GtdwRmENGymLjqNA",
+        "title": "🔴 CEMIG VIROU MOEDA DE TROCA? | CORREIOS PODE TER GREVE DE BLACK FRIDAY | IBOVESPA 126 MIL PONTOS",
+        "description": "mercadofinanceiro #investimentos #bolsadevalores #ibovespa #dinheiro #finanças #política #dólar #livedas19h #petr4 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ew4eoDaTFis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ew4eoDaTFis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ew4eoDaTFis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Suno Notícias",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-23T10:29:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QcKb_Sq0n7YYyBm2vjPAMT9Covg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-zav6dW3G0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-19T03:15:21Z",
+        "channelId": "UCI1FHmMbh27WuxHjGXyn2ww",
+        "title": "GREVE DOS CORREIOS | PODCAST  @ViniBoy @Iskandar Souza @Iuri Rangel",
+        "description": "ENTRE NO NOSSO GRUPO DO TELEGRAM! https://t.me/pcdofafa Bate papo sobre GREVE DOS CORREIOS, VOU SER ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-zav6dW3G0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-zav6dW3G0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-zav6dW3G0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PC do FAFA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-19T03:15:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XB6OJWac7aC1uaNhlg8hZ6J8iHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zYy_2amIwB8"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-05T16:09:01Z",
+        "channelId": "UCfBJwjkGZlQySzgwqxDsZSA",
+        "title": "Trabalhadores do CDD Rocha Miranda iniciam greve por falta de água",
+        "description": "Trabalhadores do CDD Rocha Miranda iniciam greve por falta de água Falta de condições básicas de trabalho leva funcionários ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zYy_2amIwB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zYy_2amIwB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zYy_2amIwB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV SINTECT-RJ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-05T16:09:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D2J_ld3IthDF8SDm3MPWGx_s-z8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qzfU6JW4PRA"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-25T12:00:19Z",
+        "channelId": "UCAvbzw9Rm0SRAe7sOHwSluw",
+        "title": "GREVE PRIVATIZAÇÃO DOS CORREIOS #SHORTS",
+        "description": "Nos próximos vídeos iremos abordar alguns pontos importante em relação a greve da privatização dos correios, quero saber de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qzfU6JW4PRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qzfU6JW4PRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzfU6JW4PRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kaio Leal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-25T12:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t_vlIR1sLVRBLNdLlZLeQvq9N3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I2cM5n2oZ9A"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T15:58:34Z",
+        "channelId": "UCPCfuodhEsibfCHDdx1o6DA",
+        "title": "URGENTE: Encomendas dos Correios ATRASADAS em todo o Brasil! Entenda o que está acontecendo",
+        "description": "Entre nos grupos de ofertas com cupons EXCLUSIVOS: Telegram: https://t.me/ofertasinovaleo WhatsApp: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I2cM5n2oZ9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I2cM5n2oZ9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2cM5n2oZ9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inova Leo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T15:58:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RpNgfCWol8OUq9P67ECSzxvj9gI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fIbnZiiP0tE"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-24T01:48:55Z",
+        "channelId": "UCYCyyAbKdEf2rMlIbAvpJVA",
+        "title": "aprovado estado de greve dos correios , #privatizacao, #greve",
+        "description": "Vídeo de Negro.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fIbnZiiP0tE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fIbnZiiP0tE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fIbnZiiP0tE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PROJETO RUAS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-24T01:48:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZaMicffTTmeMUYu6o1CGc2oVbLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GeSEhpM4G8w"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T14:17:32Z",
+        "channelId": "UCToYO4d7XLXYC0XO_hdyoAw",
+        "title": "Greve nacional dos Correios começa hoje",
+        "description": "Acompanhe mais detalhes na reportagem de Bruno Protásio. TV Pajuçara - Record TV Acesse: http://tnh1.com.br ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GeSEhpM4G8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GeSEhpM4G8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GeSEhpM4G8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Pajuçara",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T14:17:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ed-gUGxrnnoFudnbnDMTEbXbyMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VQiVGwYhbB8"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T15:16:06Z",
+        "channelId": "UCu2v9fQFbSb8L04PE_IWrXA",
+        "title": "Greve dos Correios 2020 - Funcionários dos correios entram em greve em todo o país 2023",
+        "description": "Olá. Bem-vindos ao nosso canal. Obrigado, mas muito obrigado a todos pela ajuda.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQiVGwYhbB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQiVGwYhbB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQiVGwYhbB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ronan Wielewski Botelho",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T15:16:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "65mZ0EH0ZeWXdMjQvtWKgg9VpR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UTYVJp3kg_Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-24T14:30:39Z",
+        "channelId": "UCoqWrtlH7Fl_RS8ST6w67tg",
+        "title": "PETROBRÁS DA PREJUÍZO  FUNCIONÁRIOS NÃO TEM SALÁRIOS MAS ASSIM COMO CORREIOS ELES TAMBÉM FIZERAM O L",
+        "description": "PETROBRÁS #lula #greve #corrupção #crise #estatais.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UTYVJp3kg_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UTYVJp3kg_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UTYVJp3kg_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EDU BENNITES ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-24T14:30:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nrZWzXbAi8wE12wv8NGSbmo-qT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oXRNbluKxxQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-23T17:36:17Z",
+        "channelId": "UCDdaJ7XIoqfCI-aYctIG4Qw",
+        "title": "Greve dos correios cancelada! A Black friday está salva! 😍👌 #danntech #blackfriday #correios #greve",
+        "description": "GRUPO no TELEGRAM: https://t.me/apkmodsfreedt ☆ INSCREVA-SE - Seu LIKE e COMPARTILHAMENTO no vídeo é muito ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oXRNbluKxxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oXRNbluKxxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oXRNbluKxxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dann Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-23T17:36:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZdG8dFOue-yd81-OlmYX2I-wc-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8VtcvcUK3b8"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-19T19:18:23Z",
+        "channelId": "UCST-NvuY6zJvyl2ftdNFaUA",
+        "title": "Greve dos correios no Brasil que está &quot;voando&quot; #bolsonaro #noticias #shorts #youtubeshorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8VtcvcUK3b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8VtcvcUK3b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8VtcvcUK3b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jc Contabil Cálculos Jurídicos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-19T19:18:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2vT9FtBd0jzpn-Q7aKdKeMCHxTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RbM2jldVx8Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-21T22:10:00Z",
+        "channelId": "UC-RtCJG0A7vEv1fCvua2vPQ",
+        "title": "GREVE DOS CORREIOS AINDA NÃO ACABOU..?!",
+        "description": "Greve dos correios no Brasil parece novela, quando você acha que vai acabar tem reviravolta...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RbM2jldVx8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RbM2jldVx8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RbM2jldVx8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JR TECH & CURIOSIDADES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-21T22:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3_vwjQJWa9jjY6SipVjgAxI9aHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j4BbQPqslP8"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-23T02:02:37Z",
+        "channelId": "UCP391YRAjSOdM_bwievgaZA",
+        "title": "Funcionários dos Correios ameaçam greve na Black Friday",
+        "description": "Os funcionários dos Correios ameaçaram fazer uma greve na véspera da Black Friday. Estão sendo realizadas diversas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j4BbQPqslP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j4BbQPqslP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j4BbQPqslP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jovem Pan News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-23T02:02:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CX5oOXtyXZCgwag3hTqbTAcxsAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9KjSRmewMc4"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T15:47:20Z",
+        "channelId": "UCN-opsqqDunWO6h5uCp9Y4g",
+        "title": "Funcionários dos Correios fazem greve contra privatização",
+        "description": "A paralisação dos funcionários acontece em vários estados brasileiros por tempo indeterminado. O motivo da greve é para ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9KjSRmewMc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9KjSRmewMc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9KjSRmewMc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hoje em Dia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T15:47:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cbgeCKbdb6OuL_TgVqEp9u3DJMk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3d9GtavONUc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-27T00:00:06Z",
+        "channelId": "UCp-cfsV93uwIaqf5ObsKxgA",
+        "title": "ATENÇAO DOBRADA EM MOMENTOS DE GREVE DOS CORREIOS!",
+        "description": "GREVE DOS CORREIOS EXIGE MUITA ATENÇAO NOS PRAZOS DE ENTREGA PARA MANTER SEUS DIREITOS DE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3d9GtavONUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3d9GtavONUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3d9GtavONUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Descubra Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-27T00:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X5ih1aIvTR1armRPgbW5WuF0Fqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qWjL_qgxqm8"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-01T21:00:19Z",
+        "channelId": "UC-RtCJG0A7vEv1fCvua2vPQ",
+        "title": "CHANCE DE GREVE DOS CORREIOS AUMENTA",
+        "description": "Negociação entre funcionários e empresa chega a impasse e pode acabar em greve dos correios, saiba no vídeo se pode afetar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWjL_qgxqm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWjL_qgxqm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWjL_qgxqm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JR TECH & CURIOSIDADES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-01T21:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3rpbxEsrSnnQiGuKNNg_b0Wjoho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AZhUeZk9zGU"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-22T21:22:15Z",
+        "channelId": "UC4ps9VEdNszuDzaQtSj5EcA",
+        "title": "Quando você acha que não podia piorar. #correios #greve",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZhUeZk9zGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZhUeZk9zGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZhUeZk9zGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Smart Vitor",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-22T21:22:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QnC7WY-NguYyH2aOr6d_7Nl_66U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0KDrkLdS4mM"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T14:25:43Z",
+        "channelId": "UCPpI8Gywtuv2RDj61tTDWvg",
+        "title": "Greve dos funcionários dos Correios / Corte na Saúde e Educação / Corrupção e a família de Bolsonaro",
+        "description": "Nessa live vamos falar sobre greve dos funcionários dos Correios, corte na Saúde e Educação e corrupção envolvendo a família ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0KDrkLdS4mM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0KDrkLdS4mM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0KDrkLdS4mM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Canal Questionamentos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T14:25:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WlvqJ_nBd7cqZSyA8qWhxUH29Wk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ycD3r7OgIqs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-06T13:32:42Z",
+        "channelId": "UCLJs1GZuTqwWZWKQuSxdYKw",
+        "title": "Correios: contra a privatização, greve dos trabalhadores - Reunião de Pauta nº 767 - 06/08/21",
+        "description": "Correios: contra a privatização, greve dos trabalhadores - Reunião de Pauta nº 767 - 06/08/21.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ycD3r7OgIqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ycD3r7OgIqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycD3r7OgIqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Reunião de Pauta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-06T13:32:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L5lTKktaSPLUhCF72v4b_-io3EQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Si97h3uRYCc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-09T00:20:46Z",
+        "channelId": "UCU8Y4bqcr0unUI18EcVmo4Q",
+        "title": "ENTREVISTA - MAURÍCIO - CORREIOS 08-09-20",
+        "description": "TVM \"ao vivo\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Si97h3uRYCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Si97h3uRYCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Si97h3uRYCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-09T00:20:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nfrSev524AiXHjxGCaRMRSwu9rM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j-LnlRE6qPY"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-01T21:00:17Z",
+        "channelId": "UC-RtCJG0A7vEv1fCvua2vPQ",
+        "title": "OUVIU FALAR EM GREVE DOS CORREIOS...?",
+        "description": "OUVIU falar em greve dos correios então bora saber tudo sobre o assunto até o momento da gravação deste vídeo links ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j-LnlRE6qPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j-LnlRE6qPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-LnlRE6qPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JR TECH & CURIOSIDADES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-01T21:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8FUsAi6eFlEk6gpObKPwqqOr54s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WCEvtOCiNN8"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-25T01:18:33Z",
+        "channelId": "UCFRlHwQFK55D59rIMJcwodA",
+        "title": "Correios!  12/05 ainda estava tudo parado e eu avisei... #correios #greve #pedidos #atraso",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WCEvtOCiNN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WCEvtOCiNN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WCEvtOCiNN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALEX MADDIORE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-25T01:18:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PTVT1DxpG5AlAzEABS-9DZILEzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g_9ITzKEFyU"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-22T22:57:40Z",
+        "channelId": "UCEKBa8byszeoA0f7lt1ledg",
+        "title": "&quot;CADÊ MINHA ENTREGA?&quot;: Crise nos correios provoca atraso em milhares de encomendas em todo país",
+        "description": "Crise nos correios provoca caos logístico e atrasa remessas em todo o território nacional.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_9ITzKEFyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_9ITzKEFyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_9ITzKEFyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Paranaíba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-22T22:57:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gl2Mc_i4nCbaMISuEbWI5CJB3Z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PoaNgfsU1EQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T23:48:01Z",
+        "channelId": "UC464MIpTJ_aOBjI-oN_TBdg",
+        "title": "CORREIOS - Funcionários decretam greve por tempo indeterminado",
+        "description": "Inscreva-se no canal para receber os próximos programas. ✓ FALANDO A VERDADE com Rubens Otoni 18 de agosto, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PoaNgfsU1EQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PoaNgfsU1EQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PoaNgfsU1EQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rubens Otoni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T23:48:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LI9qGkwsF6-8MWWPdS4LSHJ0E7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3EistwQ5D0s"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-17T21:10:01Z",
+        "channelId": "UC5oRxjbY3HHrP5Acsu2vtkQ",
+        "title": "Trabalhadores terceirizados dos Correios do Rio iniciam segundo dia de greve",
+        "description": "Trabalhadores terceirizados dos Correios do Rio de Janeiro iniciam o segundo dia de greve. Eles alegam que não estão ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3EistwQ5D0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3EistwQ5D0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3EistwQ5D0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rádio BandNews FM - Rio de Janeiro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-17T21:10:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W9LkGKbAGu4exHm9ZnihcGHj9Mc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UwUwXnT4tbo"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-12T14:25:55Z",
+        "channelId": "UCB1x5SzEnJ-bcrUAe5QVBXQ",
+        "title": "Greve dos Correios em Patos",
+        "description": "Trabalhadores dos Correios de todos os estados do País, incluindo a Paraíba, decretaram greve geral por tempo indeterminado.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UwUwXnT4tbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UwUwXnT4tbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UwUwXnT4tbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV SOL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-12T14:25:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5s8vScBch0maqIL8ltV_BFZFWPU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ay8-DSx0u1g"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-20T02:28:10Z",
+        "channelId": "UCztO7Z7x2C1rbOT1sp2unIQ",
+        "title": "CORREIOS EM GREVE! FONTE DE DENTRO DOS CORREIOS REVELA SITUAÇÃO",
+        "description": "Inscreva-se Aqui: http://bit.ly/LoucoporSmartphonesinscricao Contato Publicitário (21)98190-0194(Louco) DOAÇÕES PARA O ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ay8-DSx0u1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ay8-DSx0u1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ay8-DSx0u1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Canal do Louquinho",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-20T02:28:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jbWDRkcTwQZ3swAynpnSuxEZJtQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vVTNtszPUA0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-19T00:05:06Z",
+        "channelId": "UCoNJf7XvA75_i1gDLlq8qZQ",
+        "title": "Greve dos Correios | Atualidades Pampa",
+        "description": "Trabalhadores dos Correios no Estado aderem à greve nacional da categoria e discussão em torno da privatização do serviço é ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vVTNtszPUA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vVTNtszPUA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vVTNtszPUA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Atualidades Pampa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-19T00:05:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ui5dq4G2UVZFdjfxW8iIpsb-uOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mKM6QfCMCsA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T21:11:20Z",
+        "channelId": "UCh8T5DRBio7cx9VPCUhergQ",
+        "title": "Solidariedade Internacional: Findect apoia greve dos trabalhadores dos Correios em Trinidad e Tobago",
+        "description": "Solidariedade | Assista e compartilhe o vídeo do Diretor de Assuntos Internacionais da Findect, Ronaldo Leite, em apoio à greve ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mKM6QfCMCsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mKM6QfCMCsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mKM6QfCMCsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Findect Oficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T21:11:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c7hgQvY0hlcSujlBL6-9ljRq1Do",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "31m5uworX48"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-19T16:20:43Z",
+        "channelId": "UCfl4ZtZo1mSY-DQbm73EfbQ",
+        "title": "LULA EM CRISE! Greve dos Correios EXPÕE o Caos no Governo, Culpa do Bolsonaro?",
+        "description": "Correios saiu do Lucro bom Bolsonaro para o Prejuizo com o Lula... A greve dos Correios estoura no governo Lula e escancara a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/31m5uworX48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/31m5uworX48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/31m5uworX48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Floriano Investe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-19T16:20:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "clSeUJBpQqqq-PvhnyUxU-7UrZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p3Us_YaFL2s"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-17T22:44:59Z",
+        "channelId": "UCTF32tZXj0cP6Od2j7pB2YQ",
+        "title": "Mesa de Negociação do ACT e o Indicativo de Greve #correios",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p3Us_YaFL2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p3Us_YaFL2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p3Us_YaFL2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sintect RN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-17T22:44:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SPr9NqrXwtaRulQa_bR5tE5PZFI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uJwb8Jvf48Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-23T12:32:02Z",
+        "channelId": "UCfBJwjkGZlQySzgwqxDsZSA",
+        "title": "Com a Assembleia lotada, trabalhadores decretam estado de greve e rejeitam proposta da empresa",
+        "description": "CampanhaSalarial2023 | “O clima é de luta”, destacou o presidente do SINTECT-RJ, Marcos Sant'Aguida, após a votação do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uJwb8Jvf48Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uJwb8Jvf48Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJwb8Jvf48Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV SINTECT-RJ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-23T12:32:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qadZMAAfHvPC8HN_S9Iyvkt7cbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pO8BFlk2cwI"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-13T18:34:23Z",
+        "channelId": "UCgCEjNY7eylrIVli90U9lOg",
+        "title": "Correios de Cajazeiras adere à greve e carteiro se revolta com Bolsonaro",
+        "description": "ACESSE: www.playdiario.com.br.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pO8BFlk2cwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pO8BFlk2cwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pO8BFlk2cwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sistema Diário de Comunicação",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-13T18:34:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "20Jwd85MNGTaG_APQHteIuC-m_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MSP-pDTX2zc"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-22T20:06:42Z",
+        "channelId": "UC8ix2uXYlGaKFrNxm6BNH-g",
+        "title": "CORREIOS EM GREVE às vésperas da BLACK FRIDAY?",
+        "description": "Os correios vão entrar em greve às vésperas da Black Friday? Os sindicatos dos correios representados pela federação Findect e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MSP-pDTX2zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MSP-pDTX2zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MSP-pDTX2zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JC Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-22T20:06:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gu5cc0p4AJ4Qu-6PBMAFjNoOSjk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YOh0amjbC4s"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-04T16:54:58Z",
+        "channelId": "UCYAkOdyC3sO9mkOGQ2SFojQ",
+        "title": "Os Correios vão parar, a Black Friday também, até que as inconsistências sejam corrigidas!",
+        "description": "A mobilização realizada pela diretoria do SINTECT-SP está a todo vapor para a greve de 23/11 em busca da correção das ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YOh0amjbC4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YOh0amjbC4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YOh0amjbC4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVSINTECT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-04T16:54:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4O-fT-y8XwZ-lcRuKa7YWAByfNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F06CTCtf2Z0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-24T18:26:05Z",
+        "channelId": "UChEN-VTzmc0radxNSnqEX0w",
+        "title": "Funcionários de agências dos Correios na região aderem à greve nacional da categoria",
+        "description": "Reportagem Alexson Luiz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F06CTCtf2Z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F06CTCtf2Z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F06CTCtf2Z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Portal RBV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-24T18:26:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v2q-y7WPuCEpT4re4wVV-nObnIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oKDW5T6i7ss"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-18T18:15:19Z",
+        "channelId": "UCPCfuodhEsibfCHDdx1o6DA",
+        "title": "Atraso nas encomendas dos Correios",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKDW5T6i7ss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKDW5T6i7ss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKDW5T6i7ss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inova Leo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-18T18:15:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-3W88FC1-iXFrbUtT1SmMYp959E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rlcziqDZhaE"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-29T00:00:56Z",
+        "channelId": "UCp-cfsV93uwIaqf5ObsKxgA",
+        "title": "EXEMPLOS DE COMPRAS REALIZADAS DURANTE A GREVE DOS CORREIOS!",
+        "description": "REDES SOCIAIS E DEMAIS LINKS POR AQUI⬇️ LINK: https://bio.site/descubraofertas GRUPO ABERTO NO WHATSAPP!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rlcziqDZhaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rlcziqDZhaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rlcziqDZhaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Descubra Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-29T00:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AAOFSjz1vwi46crvz1emVuh_gMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LOrFeAQcSBo"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T21:00:09Z",
+        "channelId": "UC-RtCJG0A7vEv1fCvua2vPQ",
+        "title": "GREVE DOS CORREIOS..!?",
+        "description": "Uma pergunta cada vez mais frequente é sobre uma possível greve dos correios nesse momento e nesse vídeo você vai saber ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LOrFeAQcSBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LOrFeAQcSBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LOrFeAQcSBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JR TECH & CURIOSIDADES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T21:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zZAQP4tL5bU0taBrg2SU0xbpHwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i9VldExsu2o"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-25T01:05:33Z",
+        "channelId": "UCQuBfFwHn7QXwu44UGTIRFA",
+        "title": "Daniel Macedo fala sobre a traição à greve dos Correios",
+        "description": "Daniel Macedo DEPUTADO ESTADUAL 16007 comenta a recente greve dos Correios, traída pela direção do sindicato, que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i9VldExsu2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i9VldExsu2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i9VldExsu2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PSTU Rio de Janeiro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-25T01:05:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9NiYyhsrYR7hp5slofAcUxsKM8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rtL1RSGnZQc"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-19T11:58:48Z",
+        "channelId": "UCTc-_LbAiOhgjEP6OvogAjQ",
+        "title": "FUNCIONÁRIOS DOS CORREIOS DECRETAM GREVE! LIVE CHINAZIL",
+        "description": "FUNCIONÁRIOS DOS CORREIOS DECRETAM GREVE! LIVE CHINAZIL Link das matérias: EM BREVE Participe de nosso canal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtL1RSGnZQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtL1RSGnZQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtL1RSGnZQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChinaZil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-19T11:58:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0vC3cuu2lMluyJru1nfzgqoLd5c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ItInA8Q73k"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-23T13:28:33Z",
+        "channelId": "UCBaRsZeCF14e7PEya8Vu4Fg",
+        "title": "Correios de greve as vésperas da Black Friday",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ItInA8Q73k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ItInA8Q73k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ItInA8Q73k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Renato Vicente Junior",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-23T13:28:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oNmLS5CXfRzSXHlbZ_UA3uKqtA4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_JXQssKnlkU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T14:46:11Z",
+        "channelId": "UCvygIZuSA_QL_qu9lEKq7_Q",
+        "title": "Correios entram em greve hoje em todo Brasil",
+        "description": "Por Leandro Roque Tudo indica que a bagunça e o loteamento de cargos nos Correios vierem pra ficar. A estatal foi totalmente ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JXQssKnlkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JXQssKnlkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JXQssKnlkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Instituto Óliver Escola Preparatória ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T14:46:11Z"
+      }
+    }
+  ],
+  "metadata": {
+    "relevancia": 200
+  },
+  "monitoramento": {
+    "id": 3,
+    "client_id": 99
+  },
+  "youtube_api_key": "AIzaSyAwdZYtDPfDQM-ZowEBwUmzlJbHmLFgx4A"
+}

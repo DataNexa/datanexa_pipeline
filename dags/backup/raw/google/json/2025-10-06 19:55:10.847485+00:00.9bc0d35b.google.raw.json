@@ -1,0 +1,527 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - -site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intitle:greve dos correios",
+        "totalResults": "13300",
+        "searchTerms": "-site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intitle:greve dos correios",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "86e13f79e54d54999",
+        "sort": "date"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - -site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intitle:greve dos correios",
+        "totalResults": "13300",
+        "searchTerms": "-site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intitle:greve dos correios",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "86e13f79e54d54999",
+        "sort": "date"
+      }
+    ]
+  },
+  "context": {
+    "title": "todaweb"
+  },
+  "searchInformation": {
+    "searchTime": 0.409851,
+    "formattedSearchTime": "0.41",
+    "totalResults": "13300",
+    "formattedTotalResults": "13,300"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Como outros vendedores canadenses estão lidando com a greve ...",
+      "htmlTitle": "Como outros vendedores canadenses estão lidando com a <b>greve</b> ...",
+      "link": "https://www.reddit.com/r/EtsySellers/comments/1nremf6/how_are_other_canadian_sellers_handling_the/?tl=pt-br",
+      "displayLink": "www.reddit.com",
+      "snippet": "Sep 25, 2025 ... Correios do Canadá... :( Sugestões? Outras opções que eu possa ter perdido? Além disso: escrevi uma mensagem para a Chit chats implorando ...",
+      "htmlSnippet": "Sep 25, 2025 <b>...</b> <b>Correios</b> do Canadá... :( Sugestões? Outras opções que eu possa ter perdido? Além disso: escrevi uma mensagem para a Chit chats implorando&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/.../how_are_other_canadian_sellers_handling_the/?...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../how_are_other_canadian_sellers_handling_the/?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://share.redd.it/preview/post/1nremf6?tl=pt-br",
+            "theme-color": "#000000",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "og:image:alt": "An image containing a preview of the post",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/EtsySellers on Reddit: Como outros vendedores canadenses estão lidando com a greve dos correios?",
+            "og:site_name": "Reddit",
+            "og:title": "r/EtsySellers on Reddit: Como outros vendedores canadenses estão lidando com a greve dos correios?",
+            "og:image:height": "630",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/Secret_Sister_Sarah - 9 votes and 19 comments",
+            "twitter:image": "https://share.redd.it/preview/post/1nremf6?tl=pt-br",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/EtsySellers/comments/1nremf6/how_are_other_canadian_sellers_handling_the/?tl=pt-br&seeker-session=true"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Atraso em Decorrência de Greve nos Correios - Jurisprudência ...",
+      "htmlTitle": "Atraso em Decorrência de <b>Greve</b> nos <b>Correios</b> - Jurisprudência ...",
+      "link": "https://www.jusbrasil.com.br/jurisprudencia/busca?q=atraso+em+decorr%C3%AAncia+de+greve+nos+correios",
+      "displayLink": "www.jusbrasil.com.br",
+      "snippet": "Sep 11, 2025 ... ENTREGA EXTEMPORÂNEA DE EXAME TOXICOLÓGICO. GREVE DOS CORREIOS. FORÇA MAIOR. PRINCÍPIO DA RAZOABILIDADE. SENTENÇA MANTIDA. 1 – Configura-se motivo de força ...",
+      "htmlSnippet": "Sep 11, 2025 <b>...</b> ENTREGA EXTEMPORÂNEA DE EXAME TOXICOLÓGICO. GREVE DOS <b>CORREIOS</b>. FORÇA MAIOR. PRINCÍPIO DA RAZOABILIDADE. SENTENÇA MANTIDA. 1 – Configura-se motivo de força&nbsp;...",
+      "formattedUrl": "https://www.jusbrasil.com.br/jurisprudencia/busca?q...greve...correios",
+      "htmlFormattedUrl": "https://www.jusbrasil.com.br/jurisprudencia/busca?q...<b>greve</b>...<b>correios</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EuYf_5YKB_FSJQxq_aALJd47nf-aa7lFuCzGlRvMo-P_ThgUS8opEJA&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.jusbr.com/images/logo/logo-jusbrasil-1200-675.png",
+            "og:type": "website",
+            "og:image:width": "1200",
+            "og:image:alt": "Atraso em Decorrência de Greve nos Correios - Jurisprudência | Jusbrasil",
+            "og:site_name": "Jusbrasil",
+            "og:title": "Atraso em Decorrência de Greve nos Correios - Jurisprudência | Jusbrasil",
+            "og:image:height": "675",
+            "og:image:type": "image/png",
+            "og:description": "Pesquisar e Consultar Jurisprudência sobre Atraso em Decorrência de Greve nos Correios. Acesse o Jusbrasil e tenha acesso a Notícias, Artigos, Jurisprudência, Legislação, Diários Oficiais e muito mais de forma rápida, objetiva e gratuita. ➤ Buscar! ✓",
+            "next-head-count": "23",
+            "fb:app_id": "134127759984029",
+            "viewport": "width=device-width",
+            "og:locale": "pt_BR",
+            "fb:admins": "100001621943031",
+            "og:url": "https://www.jusbrasil.com.br/jurisprudencia/busca?q=atraso+em+decorr%C3%AAncia+de+greve+nos+correios"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.jusbr.com/images/logo/logo-jusbrasil-1200-675.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Correios não podem aplicar sanção disciplinar a carteiro que aderiu ...",
+      "htmlTitle": "<b>Correios</b> não podem aplicar sanção disciplinar a carteiro que aderiu ...",
+      "link": "https://www.tst.jus.br/-/correios-nao-podem-aplicar-sancao-disciplinar-a-carteiro-que-aderiu-a-greve",
+      "displayLink": "www.tst.jus.br",
+      "snippet": "Sep 4, 2025 ... A 3ª Turma do TST confirmou que o exercício regular do direito de greve não justifica sanção disciplinar.",
+      "htmlSnippet": "Sep 4, 2025 <b>...</b> A 3ª Turma do TST confirmou que o exercício regular do direito de greve não justifica sanção disciplinar.",
+      "formattedUrl": "https://www.tst.jus.br/-/correios-nao-podem-aplicar-sancao-disciplinar-a-car...",
+      "htmlFormattedUrl": "https://www.tst.jus.br/-/<b>correios</b>-nao-podem-aplicar-sancao-disciplinar-a-car...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RtX2SzasoZpYgESJRQsconSgnIGAyDXup62ZLnHe4uJ0udU8OyDUnAU&s",
+            "width": "331",
+            "height": "80"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "og:site_name": "TST",
+            "teste-id-scope": "10157",
+            "og:locale:alternate": "pt_BR",
+            "viewport": "initial-scale=1.0, width=device-width",
+            "og:title": "Correios não podem aplicar sanção disciplinar a carteiro que aderiu a greve - TST",
+            "og:locale": "pt_BR",
+            "og:url": "https://www.tst.jus.br/-/correios-nao-podem-aplicar-sancao-disciplinar-a-carteiro-que-aderiu-a-greve",
+            "og:description": "A 3ª Turma do TST confirmou que o exercício regular do direito de greve não justifica sanção disciplinar."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tst.jus.br/image/layout_set_logo?img_id=31261185&t=1759487166235"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greve nos Correios pode paralisar entregas em todos os cantos do ...",
+      "htmlTitle": "<b>Greve</b> nos <b>Correios</b> pode paralisar entregas em todos os cantos do ...",
+      "link": "https://correiodoestado.com.br/mix/greve-nos-correios-pode-paralisar-entregas-em-todos-os-cantos-do-brasil/",
+      "displayLink": "correiodoestado.com.br",
+      "snippet": "Aug 31, 2025 ... Uma das maiores preocupações dos brasileiros nos últimos anos tem sido a recorrência da greve dos Correios. Embora a última tenha sido ...",
+      "htmlSnippet": "Aug 31, 2025 <b>...</b> Uma das maiores preocupações dos brasileiros nos últimos anos tem sido a recorrência da greve dos <b>Correios</b>. Embora a última tenha sido&nbsp;...",
+      "formattedUrl": "https://correiodoestado.com.br/.../greve-nos-correios-pode-paralisar-entrega...",
+      "htmlFormattedUrl": "https://correiodoestado.com.br/.../<b>greve</b>-nos-<b>correios</b>-pode-paralisar-entrega...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgSlawEzjFCYG2dAmeSLkN8bypxDW0pJFIOtH4GCvDRycWurwNycpU5e8&s",
+            "width": "290",
+            "height": "174"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://correiodoestado.com.br/mix/wp-content/uploads/2025/08/976095-16092015-_dsc3035.webp",
+            "og:image:width": "1170",
+            "article:published_time": "2025-08-31T11:50:00-03:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Correio do Estado",
+            "twitter:url": "https://correiodoestado.com.br/mix/greve-nos-correios-pode-paralisar-entregas-em-todos-os-cantos-do-brasil/",
+            "twitter:image:height": "700",
+            "twitter:label1": "Escrito por",
+            "twitter:label2": "Tempo para leitura",
+            "og:image:type": "image/webp",
+            "msapplication-tileimage": "https://correiodoestado.com.br/mix/wp-content/uploads/2025/07/favicon-1.png",
+            "og:description": "Uma das maiores preocupações dos brasileiros nos últimos anos tem sido a recorrência da greve dos Correios. Embora a última",
+            "twitter:image": "https://correiodoestado.com.br/mix/wp-content/uploads/2025/08/976095-16092015-_dsc3035.webp",
+            "og:image:secure_url": "https://correiodoestado.com.br/mix/wp-content/uploads/2025/08/976095-16092015-_dsc3035.webp",
+            "twitter:data1": "Iara Alencar",
+            "twitter:data2": "2 minutos",
+            "article:modified_time": "2025-09-01T18:32:40-03:00",
+            "twitter:image:width": "1170",
+            "og:type": "article",
+            "article:section": "Mix",
+            "twitter:title": "Greve nos Correios pode paralisar entregas em todos os cantos do Brasil",
+            "og:image:alt": "Greve",
+            "og:title": "Greve nos Correios pode paralisar entregas em todos os cantos do Brasil",
+            "og:image:height": "700",
+            "og:updated_time": "2025-09-01T18:32:40-03:00",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+            "twitter:description": "Uma das maiores preocupações dos brasileiros nos últimos anos tem sido a recorrência da greve dos Correios. Embora a última",
+            "og:locale": "pt_BR",
+            "og:url": "https://correiodoestado.com.br/mix/greve-nos-correios-pode-paralisar-entregas-em-todos-os-cantos-do-brasil/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://correiodoestado.com.br/mix/wp-content/uploads/2025/08/976095-16092015-_dsc3035.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Correios vão entrar em greve em setembro de 2025?",
+      "htmlTitle": "<b>Correios</b> vão entrar em <b>greve</b> em setembro de 2025?",
+      "link": "https://crusoe.com.br/variedades/correios-vao-entrar-em-greve-em-setembro-de-2025/",
+      "displayLink": "crusoe.com.br",
+      "snippet": "Aug 30, 2025 ... Na ocasião, a federação reforçou a necessidade de apoio do governo federal na recuperação dos Correios e na defesa dos trabalhadores, além de ...",
+      "htmlSnippet": "Aug 30, 2025 <b>...</b> Na ocasião, a federação reforçou a necessidade de apoio do governo federal na recuperação dos <b>Correios</b> e na defesa dos trabalhadores, além de&nbsp;...",
+      "formattedUrl": "https://crusoe.com.br/.../correios-vao-entrar-em-greve-em-setembro-de-202...",
+      "htmlFormattedUrl": "https://crusoe.com.br/.../<b>correios</b>-vao-entrar-em-<b>greve</b>-em-setembro-de-202...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplRLfUF_FoUZ3LKiitpNRnvkt0WIrmydlstvKGXpXixTB8FH1k371gnBS&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.crusoe.com.br/uploads/2025/08/correios-vao-entrar-em-greve-setembro-2025.webp",
+            "og:type": "article",
+            "article:published_time": "2025-08-31T19:30:00+00:00",
+            "og:image:width": "1280",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Variedades - Crusoé",
+            "author": "João Carlos Gomes",
+            "og:title": "Correios vão entrar em greve em setembro de 2025?",
+            "og:image:height": "720",
+            "twitter:label1": "Escrito por",
+            "twitter:label2": "Est. tempo de leitura",
+            "og:image:type": "image/webp",
+            "msapplication-tileimage": "https://cdn.crusoe.com.br/uploads/2025/05/cropped-crusoe-270x270.webp",
+            "og:description": "Devido a diversos problemas enfrentados pela empresa, funcionários dos Correios em todo o Brasil têm aderido a múltiplas paralisações, gerando preocupação na população. Afinal, por conta de sua atuação, que abrange todo o território nacional, a empresa continua sendo o principal serviço de entrega do país, atendendo a milhões de clientes diariamente. Entretanto, vale lembrar […]",
+            "twitter:data1": "João Carlos Gomes",
+            "twitter:data2": "2 minutos",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+            "og:locale": "pt_BR",
+            "og:url": "https://crusoe.com.br/variedades/correios-vao-entrar-em-greve-em-setembro-de-2025/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.crusoe.com.br/uploads/2025/08/correios-vao-entrar-em-greve-setembro-2025.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Correios permanece em greve em Nova Friburgo",
+      "htmlTitle": "<b>Correios</b> permanece em <b>greve</b> em Nova Friburgo",
+      "link": "https://www.correiodamanha.com.br/serrano/2025/08/217947-correios-permanece-em-greve-em-nova-friburgo.html",
+      "displayLink": "www.correiodamanha.com.br",
+      "snippet": "Aug 27, 2025 ... O CDD de Nova Friburgo possui um déficit de 19 funcionários, o que, segundo o sindicato, vem ocasionando em sobrecarga para os atuais ...",
+      "htmlSnippet": "Aug 27, 2025 <b>...</b> O CDD de Nova Friburgo possui um déficit de 19 funcionários, o que, segundo o sindicato, vem ocasionando em sobrecarga para os atuais&nbsp;...",
+      "formattedUrl": "https://www.correiodamanha.com.br/.../217947-correios-permanece-em-gr...",
+      "htmlFormattedUrl": "https://www.correiodamanha.com.br/.../217947-<b>correios</b>-permanece-em-<b>gr</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTeLqHHBdWBCBNeXFVwkt7v8-vVk2_g0pmXLNgh4LrwI-WT-hYoREuk8ek&s",
+            "width": "283",
+            "height": "178"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.correiodamanha.com.br/_midias/jpg/2025/08/26/600x378/1_whatsapp_image_2025_08_26_at_15_12_10-472564.jpeg",
+            "article:published_time": "2025-08-28",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#d71e15",
+            "og:site_name": "Jornal Correio da Manhã",
+            "language": "pt-br",
+            "og:image:type": "image/jpeg",
+            "title": "Correios permanece em greve em Nova Friburgo",
+            "msapplication-tileimage": "/imagens/favicon.png",
+            "og:description": "Nova assembleia foi agendada para o dia três de setembro",
+            "article:publisher": "https://www.facebook.com/",
+            "twitter:site": "https://www.correiodamanha.com.br/_conteudo/serrano/index.html",
+            "application-name": "Jornal Correio da Manhã",
+            "og:type": "article",
+            "twitter:title": "Correios permanece em greve em Nova Friburgo",
+            "handheldfriendly": "True",
+            "author": "Richard Stoltzenburg - PETR",
+            "og:title": "Correios permanece em greve em Nova Friburgo",
+            "og:image:height": "600",
+            "article:author": "Richard Stoltzenburg - PETR",
+            "article:tag": "Correios",
+            "twitter:image:src": "https://www.correiodamanha.com.br/_midias/jpg/2025/08/26/600x378/1_whatsapp_image_2025_08_26_at_15_12_10-472564.jpeg",
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1, initial-scale=1.0, user-scalable=no",
+            "twitter:description": "Nova assembleia foi agendada para o dia três de setembro",
+            "og:locale": "pt_BR",
+            "og:url": "https://www.correiodamanha.com.br/serrano/2025/08/217947-correios-permanece-em-greve-em-nova-friburgo.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.correiodamanha.com.br/_midias/jpg/2025/08/26/600x378/1_whatsapp_image_2025_08_26_at_15_12_10-472564.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greve nos Correios de todo o Brasil paralisaram encomendas",
+      "htmlTitle": "<b>Greve</b> nos <b>Correios</b> de todo o Brasil paralisaram encomendas",
+      "link": "https://www.tnh1.com.br/variedades/greve-nos-correios-de-todo-o-brasil-paralisam-encomendas/",
+      "displayLink": "www.tnh1.com.br",
+      "snippet": "Aug 25, 2025 ... Nos últimos meses, diversas cidades do Brasil aderiram às greves nos Correios. Atualmente, o meio está funcionando corretamente, ...",
+      "htmlSnippet": "Aug 25, 2025 <b>...</b> Nos últimos meses, diversas cidades do Brasil aderiram às greves nos <b>Correios</b>. Atualmente, o meio está funcionando corretamente,&nbsp;...",
+      "formattedUrl": "https://www.tnh1.com.br/.../greve-nos-correios-de-todo-o-brasil-paralisam-...",
+      "htmlFormattedUrl": "https://www.tnh1.com.br/.../<b>greve</b>-nos-<b>correios</b>-de-todo-o-brasil-paralisam-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3QzrNpXFeEjNrOApTfTy_cTC6MQ7fzNRmk0W3FKU6AIjq-xybK3cmkM&s",
+            "width": "290",
+            "height": "174"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.tnh1.com.br/variedades/wp-content/uploads/2025/08/Correios.png",
+            "og:image:width": "750",
+            "article:published_time": "2025-08-26T08:51:09-03:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "TNH1 Variedades",
+            "twitter:url": "https://www.tnh1.com.br/variedades/greve-nos-correios-de-todo-o-brasil-paralisam-encomendas/",
+            "twitter:image:height": "450",
+            "twitter:label1": "Escrito por",
+            "twitter:label2": "Tempo para leitura",
+            "og:image:type": "image/png",
+            "msapplication-tileimage": "https://www.tnh1.com.br/variedades/wp-content/uploads/2025/08/favicon.png",
+            "og:description": "Nos últimos meses, diversas cidades do Brasil aderiram às greves nos Correios. Atualmente, o meio está funcionando corretamente, mas a",
+            "twitter:image": "https://www.tnh1.com.br/variedades/wp-content/uploads/2025/08/Correios.png",
+            "og:image:secure_url": "https://www.tnh1.com.br/variedades/wp-content/uploads/2025/08/Correios.png",
+            "twitter:data1": "Luca Ioni",
+            "twitter:data2": "1 minuto",
+            "article:modified_time": "2025-08-26T18:00:41-03:00",
+            "twitter:image:width": "750",
+            "og:type": "article",
+            "article:section": "Geral",
+            "twitter:title": "Greve nos Correios de todo o Brasil paralisaram encomendas",
+            "og:image:alt": "Correios",
+            "og:title": "Greve nos Correios de todo o Brasil paralisaram encomendas",
+            "og:image:height": "450",
+            "og:updated_time": "2025-08-26T18:00:41-03:00",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+            "twitter:description": "Nos últimos meses, diversas cidades do Brasil aderiram às greves nos Correios. Atualmente, o meio está funcionando corretamente, mas a",
+            "og:locale": "pt_BR",
+            "og:url": "https://www.tnh1.com.br/variedades/greve-nos-correios-de-todo-o-brasil-paralisam-encomendas/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tnh1.com.br/variedades/wp-content/uploads/2025/08/Correios.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Lucro e ameaças de demissões: Trabalhadores dos Correios ...",
+      "htmlTitle": "Lucro e ameaças de demissões: Trabalhadores dos <b>Correios</b> ...",
+      "link": "https://cspconlutas.org.br/n/19671/lucro-e-ameacas-de-demissoes-trabalhadores-dos-correios-exigem-greve-nacional",
+      "displayLink": "cspconlutas.org.br",
+      "snippet": "Aug 24, 2025 ... A oposição está exigindo a realização de assembleias para organizar a greve. Integrante da oposição Democracia e Luta, Heitor Fernandes, da CSP- ...",
+      "htmlSnippet": "Aug 24, 2025 <b>...</b> A oposição está exigindo a realização de assembleias para organizar a greve. Integrante da oposição Democracia e Luta, Heitor Fernandes, da CSP-&nbsp;...",
+      "formattedUrl": "https://cspconlutas.org.br/.../lucro-e-ameacas-de-demissoes-trabalhadores-d...",
+      "htmlFormattedUrl": "https://cspconlutas.org.br/.../lucro-e-ameacas-de-demissoes-trabalhadores-<b>d</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycikeAEcWRkXv46SF02YT8wxBCCtPRUbtfEurkm3ffD3Sa9kX3iK1N3Q&s",
+            "width": "334",
+            "height": "151"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "CSP-Conlutas",
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://cspconlutas.org.br/arquivo/thumb/noticias/2687b1faa21ed0e44f6a_600x315_0_0_1_1.png",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Lucro e ameaças de demissões: Trabalhadores dos Correios exigem greve nacional",
+            "og:site_name": "CSP-Conlutas",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "author": "CSP-Conlutas",
+            "twitter:description": "Paralisação está indicada para 16 de setembro, oposição cobra organização da luta\r\n\r\nOs trabalhadores e trabalhadoras dos Correios estão indignados. A mobilização se intensifica em meio à campanha salarial da categoria e à ameaça de demissão de 10...",
+            "og:title": "Lucro e ameaças de demissões: Trabalhadores dos Correios exigem greve nacional",
+            "og:description": "Paralisação está indicada para 16 de setembro, oposição cobra organização da luta\r\n\r\nOs trabalhadores e trabalhadoras dos Correios estão indignados. A mobilização se intensifica em meio à campanha salarial da categoria e à ameaça de demissão de 10...",
+            "twitter:image": "https://cspconlutas.org.br/arquivo/thumb/noticias/2687b1faa21ed0e44f6a_600x315_0_0_1_1.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cspconlutas.org.br/arquivo/thumb/noticias/2687b1faa21ed0e44f6a_600x315_0_0_1_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greve dos Correios é encerrada e fluxo tende a normalizar",
+      "htmlTitle": "<b>Greve dos Correios</b> é encerrada e fluxo tende a normalizar",
+      "link": "https://superfrete.com/blog/greve-correios",
+      "displayLink": "superfrete.com",
+      "snippet": "Aug 21, 2025 ... Alguns envios estão passando por instabilidades, que refletem no aumento no tempo de entrega em algumas regiões, mas a estatal já tomou medidas ...",
+      "htmlSnippet": "Aug 21, 2025 <b>...</b> Alguns envios estão passando por instabilidades, que refletem no aumento no tempo de entrega em algumas regiões, mas a estatal já tomou medidas&nbsp;...",
+      "formattedUrl": "https://superfrete.com/blog/greve-correios",
+      "htmlFormattedUrl": "https://superfrete.com/blog/<b>greve</b>-<b>correios</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWVkuHZ3U2ho3zAhjTszK5HBSC4MGDiPtROlYeAQ7eMOES81FBRhOwXEI&s",
+            "width": "290",
+            "height": "173"
+          }
+        ],
+        "metatags": [
+          {
+            "p:domain_verify": "52dd390ae37f2a9feaab63ebd681fb32",
+            "og:image": "https://superfrete.com/hubfs/greve%20correios.webp",
+            "twitter:title": "Greve dos Correios é encerrada e fluxo tende a normalizar",
+            "og:image:width": "342",
+            "og:image:alt": "Greve dos Correios 2024 é encerrada e fluxo tende a normalizar",
+            "twitter:card": "summary",
+            "og:type": "article",
+            "twitter:domain": "superfrete.com",
+            "og:title": "Greve dos Correios é encerrada e fluxo tende a normalizar",
+            "og:image:height": "55",
+            "og:description": "Após 16 dias os sindicatos associados determinaram o fim da Greve dos Correios 2024 e retorno dos trabalhadores para normalização do fluxo postal",
+            "twitter:image": "https://superfrete.com/hubfs/greve%20correios.webp",
+            "twitter:image:alt": "Greve dos Correios 2024 é encerrada e fluxo tende a normalizar",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Após 16 dias os sindicatos associados determinaram o fim da Greve dos Correios 2024 e retorno dos trabalhadores para normalização do fluxo postal",
+            "og:url": "https://superfrete.com/blog/greve-correios"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://superfrete.com/hubfs/greve%20correios.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Greve em Nova Friburgo repercute na mídia e SINTECT-RJ reforça ...",
+      "htmlTitle": "<b>Greve</b> em Nova Friburgo repercute na mídia e SINTECT-RJ reforça ...",
+      "link": "https://sintectrj.org.br/nova-friburgo-saiu-midia/",
+      "displayLink": "sintectrj.org.br",
+      "snippet": "Aug 20, 2025 ... A greve dos trabalhadores dos Correios no CDD Nova Friburgo segue mobilizando a categoria e repercutindo na imprensa. Com mais de 80% dos ...",
+      "htmlSnippet": "Aug 20, 2025 <b>...</b> A greve dos trabalhadores dos <b>Correios</b> no CDD Nova Friburgo segue mobilizando a categoria e repercutindo na imprensa. Com mais de 80% dos&nbsp;...",
+      "formattedUrl": "https://sintectrj.org.br/nova-friburgo-saiu-midia/",
+      "htmlFormattedUrl": "https://sintectrj.org.br/nova-friburgo-saiu-midia/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVf1YZ9uQ-6e6nNhMd5UEAE1xw5JbaRCZ0vubm6G8tWKYE9KCnBreLz0JU&s",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://sintectrj.org.br/wp-content/uploads/2025/08/Destaque-Saiu-na-midia-Sintect-RJ.jpg",
+            "og:type": "article",
+            "article:section": "Sem categoria",
+            "article:published_time": "2025-08-21T23:55:51+00:00",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Greve em Nova Friburgo repercute na mídia e SINTECT-RJ reforça luta em defesa dos trabalhadores - SINTECT-RJ",
+            "og:site_name": "SINTECT-RJ",
+            "og:title": "Greve em Nova Friburgo repercute na mídia e SINTECT-RJ reforça luta em defesa dos trabalhadores - SINTECT-RJ",
+            "og:image:height": "419",
+            "og:updated_time": "2025-08-21T23:55:52+00:00",
+            "msapplication-tileimage": "https://sintectrj.org.br/wp-content/uploads/2021/02/cropped-logo-sintect-rio-de-janeiro-270x270.png",
+            "og:description": "Paralisação no CDD Nova Friburgo evidencia sobrecarga de trabalho e reivindicações da categoria; Sindicato cobra solução imediata da direção da empresa A greve dos trabalhadores dos Correios no CDD Nova Friburgo segue mobilizando a categoria e repercutindo na imprensa. Com mais de 80% dos funcionários aderindo ao movimento, a paralisação reflete a insatisfação com a …",
+            "og:image:secure_url": "https://sintectrj.org.br/wp-content/uploads/2025/08/Destaque-Saiu-na-midia-Sintect-RJ.jpg",
+            "twitter:image": "https://sintectrj.org.br/wp-content/uploads/2025/08/Destaque-Saiu-na-midia-Sintect-RJ.jpg",
+            "article:modified_time": "2025-08-21T23:55:52+00:00",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "Paralisação no CDD Nova Friburgo evidencia sobrecarga de trabalho e reivindicações da categoria; Sindicato cobra solução imediata da direção da empresa A greve dos trabalhadores dos Correios no CDD Nova Friburgo segue mobilizando a categoria e repercutindo na imprensa. Com mais de 80% dos funcionários aderindo ao movimento, a paralisação reflete a insatisfação com a […]",
+            "onesignal": "wordpress-plugin",
+            "og:locale": "pt_BR",
+            "og:url": "https://sintectrj.org.br/nova-friburgo-saiu-midia/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://sintectrj.org.br/wp-content/uploads/2025/08/Destaque-Saiu-na-midia-Sintect-RJ.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "monitoramento": {
+    "id": 3,
+    "client_id": 99
+  }
+}

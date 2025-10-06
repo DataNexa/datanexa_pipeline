@@ -1,0 +1,782 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - \"#Bolsonaro2022\"",
+        "totalResults": "123000",
+        "searchTerms": "\"#Bolsonaro2022\"",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "86e13f79e54d54999",
+        "sort": "date"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"#Bolsonaro2022\"",
+        "totalResults": "123000",
+        "searchTerms": "\"#Bolsonaro2022\"",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "86e13f79e54d54999",
+        "sort": "date"
+      }
+    ]
+  },
+  "context": {
+    "title": "todaweb"
+  },
+  "searchInformation": {
+    "searchTime": 0.401485,
+    "formattedSearchTime": "0.40",
+    "totalResults": "123000",
+    "formattedTotalResults": "123,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "#palacio #bolsonaro2022 #luxo - YouTube",
+      "htmlTitle": "#palacio #<b>bolsonaro2022</b> #luxo - YouTube",
+      "link": "https://www.youtube.com/shorts/kKuFVDltwKM",
+      "displayLink": "www.youtube.com",
+      "snippet": "3 days ago ... Tap to unmute. Your browser can't play this video. Learn more · @jessicareboucas344. Subscribe. #palacio #bolsonaro2022 #luxo. 20. Dislike.",
+      "htmlSnippet": "3 days ago <b>...</b> Tap to unmute. Your browser can&#39;t play this video. Learn more &middot; @jessicareboucas344. Subscribe. #palacio #<b>bolsonaro2022</b> #luxo. 20. Dislike.",
+      "formattedUrl": "https://www.youtube.com/shorts/kKuFVDltwKM",
+      "htmlFormattedUrl": "https://www.youtube.com/shorts/kKuFVDltwKM",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaB0eXIae6Uko4JGkGJHSRLgQmXVA912K8iITOJZeEZW7gHo9pLuFrYZcy&s",
+            "width": "168",
+            "height": "300"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "405",
+            "url": "https://i.ytimg.com/vi/kKuFVDltwKM/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCFEfpwn-hWZNrtTBWVrNixtYAWIg",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "name": "Jéssica Rebouças",
+            "url": "http://www.youtube.com/@jessicareboucas344"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "20",
+            "interactiontype": "https://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "1564",
+            "interactiontype": "https://schema.org/WatchAction"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/shorts/kKuFVDltwKM?referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+            "og:image": "https://i.ytimg.com/vi/kKuFVDltwKM/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCFEfpwn-hWZNrtTBWVrNixtYAWIg",
+            "twitter:app:url:iphone": "vnd.youtube://m.youtube.com/shorts/kKuFVDltwKM?feature=applinks",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "theme-color": "rgba(0, 0, 0, 0)",
+            "og:image:width": "405",
+            "twitter:card": "player",
+            "og:site_name": "YouTube",
+            "twitter:url": "https://www.youtube.com/shorts/kKuFVDltwKM",
+            "twitter:app:url:ipad": "vnd.youtube://m.youtube.com/shorts/kKuFVDltwKM?feature=applinks",
+            "al:android:package": "com.google.android.youtube",
+            "twitter:app:name:googleplay": "YouTube",
+            "title": "#palacio #bolsonaro2022 #luxo",
+            "al:ios:url": "vnd.youtube://m.youtube.com/shorts/kKuFVDltwKM?feature=applinks",
+            "twitter:app:id:iphone": "544007664",
+            "al:ios:app_store_id": "544007664",
+            "twitter:image": "https://i.ytimg.com/vi/kKuFVDltwKM/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCFEfpwn-hWZNrtTBWVrNixtYAWIg",
+            "twitter:player": "https://www.youtube.com/embed/kKuFVDltwKM",
+            "twitter:player:height": "720",
+            "twitter:site": "@youtube",
+            "og:video:type": "text/html",
+            "og:video:height": "720",
+            "og:video:url": "https://www.youtube.com/embed/kKuFVDltwKM",
+            "og:type": "video.other",
+            "twitter:title": "#palacio #bolsonaro2022 #luxo",
+            "al:ios:app_name": "YouTube",
+            "og:title": "#palacio #bolsonaro2022 #luxo",
+            "og:image:height": "720",
+            "twitter:app:id:ipad": "544007664",
+            "al:web:url": "http://m.youtube.com/shorts/kKuFVDltwKM?feature=applinks",
+            "og:video:secure_url": "https://www.youtube.com/embed/kKuFVDltwKM",
+            "og:video:width": "405",
+            "al:android:url": "vnd.youtube://m.youtube.com/shorts/kKuFVDltwKM?feature=applinks",
+            "fb:app_id": "87741124305",
+            "twitter:app:url:googleplay": "https://www.youtube.com/shorts/kKuFVDltwKM",
+            "twitter:app:name:ipad": "YouTube",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+            "og:url": "https://www.youtube.com/shorts/kKuFVDltwKM",
+            "twitter:player:width": "405",
+            "al:android:app_name": "YouTube",
+            "twitter:app:name:iphone": "YouTube"
+          }
+        ],
+        "videoobject": [
+          {
+            "identifier": "kKuFVDltwKM",
+            "embedurl": "https://www.youtube.com/embed/kKuFVDltwKM",
+            "playertype": "HTML5 Flash",
+            "isfamilyfriendly": "true",
+            "uploaddate": "2025-10-03T07:23:20-07:00",
+            "requiressubscription": "False",
+            "url": "https://www.youtube.com/shorts/kKuFVDltwKM",
+            "duration": "PT1M11S",
+            "name": "#palacio #bolsonaro2022 #luxo",
+            "width": "405",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "genre": "Entertainment",
+            "datepublished": "2025-10-03T07:23:20-07:00",
+            "thumbnailurl": "https://i.ytimg.com/vi/kKuFVDltwKM/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCFEfpwn-hWZNrtTBWVrNixtYAWIg",
+            "height": "720"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/kKuFVDltwKM/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCFEfpwn-hWZNrtTBWVrNixtYAWIg"
+          }
+        ],
+        "thing": [
+          {
+            "name": "Jéssica Rebouças"
+          }
+        ],
+        "listitem": [
+          {
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Olha o que Essa Mulher Fez com CAMISA masculina I ...",
+      "htmlTitle": "Olha o que Essa Mulher Fez com CAMISA masculina I ...",
+      "link": "https://es.pinterest.com/pin/1117666832524566332/",
+      "displayLink": "es.pinterest.com",
+      "snippet": "Feb 11, 2025 ... Olha o que Essa Mulher Fez com CAMISA masculina I #bolsonaro2022. IDEIA para TRANSFORMAR camisa do SEU candidato em um lindo VESTIDO !VEJA ...",
+      "htmlSnippet": "Feb 11, 2025 <b>...</b> Olha o que Essa Mulher Fez com CAMISA masculina I #<b>bolsonaro2022</b>. IDEIA para TRANSFORMAR camisa do SEU candidato em um lindo VESTIDO !VEJA&nbsp;...",
+      "formattedUrl": "https://es.pinterest.com/pin/1117666832524566332/",
+      "htmlFormattedUrl": "https://es.pinterest.com/pin/1117666832524566332/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CZ0y0DcCR-U5sCLnOOoUSoIjVx2P9UF1hfE_caB-sQUBpeHABaFtmrMR&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Pinterest",
+            "msapplication-tilecolor": "#ffffff",
+            "og:see_also": "https://www.youtube.com/watch?v=Ui9mzxVbCAo&feature=share",
+            "og:image": "https://i.pinimg.com/736x/07/c6/e6/07c6e62bb1dcb36fc76ea319b4705abb.jpg",
+            "og:image:width": "736",
+            "og:type": "pinterestapp:pin",
+            "twitter:title": "COMO FAZER vestido FRENTE UNICA  com  CAMISA MASCULINA  I hacks I DIDA O... | Vestido com camiseta, Transformar camisa, Fazer uma camisa",
+            "pinterestapp:source": "https://www.youtube.com/watch?v=Ui9mzxVbCAo&feature=share",
+            "og:site_name": "Pinterest",
+            "og:title": "COMO FAZER vestido FRENTE UNICA  com  CAMISA MASCULINA  I hacks I DIDA O... | Vestido com camiseta, Transformar camisa, Fazer uma camisa",
+            "og:image:height": "414",
+            "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+            "og:updated_time": "2025-02-12T20:00:27.000Z",
+            "pinterestapp:repins": "0",
+            "pinterestapp:pinboard": "https://es.pinterest.com/thiagodahb/thiago-ribeiro/",
+            "og:description": "IDEIA para TRANSFORMAR  camisa do SEU candidato em um lindo VESTIDO  !VEJA TAMBÉM: ♥️✌ Você vai pirar com essas 07 ideias para reaproveitar camisas masculina...",
+            "twitter:image:src": "https://i.pinimg.com/736x/07/c6/e6/07c6e62bb1dcb36fc76ea319b4705abb.jpg",
+            "pinterestapp:pinner": "https://es.pinterest.com/thiagodahb/",
+            "referrer": "origin",
+            "fb:app_id": "274266067164",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "IDEIA para TRANSFORMAR  camisa do SEU candidato em um lindo VESTIDO  !VEJA TAMBÉM: ♥️✌ Você vai pirar com essas 07 ideias para reaproveitar camisas masculina...",
+            "og:url": "https://br.pinterest.com/pin/297167275421442029/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.pinimg.com/736x/07/c6/e6/07c6e62bb1dcb36fc76ea319b4705abb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ixi #shortsfeed #bolsonaro #bolsonaro2022 #shortvideo #art ...",
+      "htmlTitle": "Ixi #shortsfeed #bolsonaro #<b>bolsonaro2022</b> #shortvideo #art ...",
+      "link": "https://www.youtube.com/watch?v=1DvHDhrFVe8",
+      "displayLink": "www.youtube.com",
+      "snippet": "Sep 14, 2025 ... Ixi #shortsfeed #bolsonaro #bolsonaro2022 #shortvideo #art #prison #shorts #shortsviral #art #video. Auto-dubbed. 485K views · 2 weeks ago",
+      "htmlSnippet": "Sep 14, 2025 <b>...</b> Ixi #shortsfeed #bolsonaro #<b>bolsonaro2022</b> #shortvideo #art #prison #shorts #shortsviral #art #video. Auto-dubbed. 485K views · 2 weeks ago",
+      "formattedUrl": "https://www.youtube.com/watch?v=1DvHDhrFVe8",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=1DvHDhrFVe8",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBIDYks9qnR8X8Aw7h3FIc7I_9FOKQnOiQkdXV2lLF8VQ8qtVPKVZrHtI&s",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1280",
+            "url": "https://i.ytimg.com/vi/1DvHDhrFVe8/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDeIrQrxc56GJCNm0JzvsLI-WIR2w",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "name": "Jujuba |brincos personalizados",
+            "url": "http://www.youtube.com/@Jujuba-Juh"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "9085",
+            "interactiontype": "https://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "485426",
+            "interactiontype": "https://schema.org/WatchAction"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/watch?v=1DvHDhrFVe8&referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+            "og:image": "https://i.ytimg.com/vi/1DvHDhrFVe8/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDeIrQrxc56GJCNm0JzvsLI-WIR2w",
+            "twitter:app:url:iphone": "vnd.youtube://m.youtube.com/watch?v=1DvHDhrFVe8&feature=applinks",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "theme-color": "rgba(0, 0, 0, 0)",
+            "og:image:width": "1280",
+            "twitter:card": "player",
+            "og:site_name": "YouTube",
+            "twitter:url": "https://www.youtube.com/shorts/1DvHDhrFVe8",
+            "twitter:app:url:ipad": "vnd.youtube://m.youtube.com/watch?v=1DvHDhrFVe8&feature=applinks",
+            "al:android:package": "com.google.android.youtube",
+            "twitter:app:name:googleplay": "YouTube",
+            "title": "Ixi #shortsfeed #bolsonaro #bolsonaro2022 #shortvideo #arte #prisao #shorts #shortsviral #art #video",
+            "al:ios:url": "vnd.youtube://m.youtube.com/watch?v=1DvHDhrFVe8&feature=applinks",
+            "twitter:app:id:iphone": "544007664",
+            "al:ios:app_store_id": "544007664",
+            "twitter:image": "https://i.ytimg.com/vi/1DvHDhrFVe8/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDeIrQrxc56GJCNm0JzvsLI-WIR2w",
+            "twitter:player": "https://www.youtube.com/embed/1DvHDhrFVe8",
+            "twitter:player:height": "720",
+            "twitter:site": "@youtube",
+            "og:video:type": "text/html",
+            "og:video:height": "720",
+            "og:video:url": "https://www.youtube.com/embed/1DvHDhrFVe8",
+            "og:type": "video.other",
+            "twitter:title": "Ixi #shortsfeed #bolsonaro #bolsonaro2022 #shortvideo #arte #prisao #shorts #shortsviral #art #video",
+            "al:ios:app_name": "YouTube",
+            "og:title": "Ixi #shortsfeed #bolsonaro #bolsonaro2022 #shortvideo #arte #prisao #shorts #shortsviral #art #video",
+            "og:image:height": "720",
+            "twitter:app:id:ipad": "544007664",
+            "al:web:url": "http://m.youtube.com/watch?v=1DvHDhrFVe8&feature=applinks",
+            "og:video:secure_url": "https://www.youtube.com/embed/1DvHDhrFVe8",
+            "og:video:width": "405",
+            "al:android:url": "vnd.youtube://m.youtube.com/watch?v=1DvHDhrFVe8&feature=applinks",
+            "fb:app_id": "87741124305",
+            "twitter:app:url:googleplay": "https://www.youtube.com/shorts/1DvHDhrFVe8",
+            "twitter:app:name:ipad": "YouTube",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+            "og:url": "https://www.youtube.com/shorts/1DvHDhrFVe8",
+            "twitter:player:width": "405",
+            "al:android:app_name": "YouTube",
+            "twitter:app:name:iphone": "YouTube"
+          }
+        ],
+        "videoobject": [
+          {
+            "identifier": "1DvHDhrFVe8",
+            "embedurl": "https://www.youtube.com/embed/1DvHDhrFVe8",
+            "playertype": "HTML5 Flash",
+            "isfamilyfriendly": "true",
+            "uploaddate": "2025-09-15T09:44:22-07:00",
+            "requiressubscription": "False",
+            "url": "https://www.youtube.com/shorts/1DvHDhrFVe8",
+            "duration": "PT1M0S",
+            "name": "Ixi #shortsfeed #bolsonaro #bolsonaro2022 #shortvideo #arte #prisao #shorts #shortsviral #art #video",
+            "width": "405",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "genre": "People & Blogs",
+            "datepublished": "2025-09-15T09:44:22-07:00",
+            "thumbnailurl": "https://i.ytimg.com/vi/1DvHDhrFVe8/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDeIrQrxc56GJCNm0JzvsLI-WIR2w",
+            "height": "720"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/DP3CD5n3888/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-KseEifx6zl_OU2wENtQoefVEYg"
+          }
+        ],
+        "thing": [
+          {
+            "name": "Jujuba |brincos personalizados"
+          }
+        ],
+        "listitem": [
+          {
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Damares Alves on X: \"Meus parabéns ao casal mais amado do ...",
+      "htmlTitle": "Damares Alves on X: &quot;Meus parabéns ao casal mais amado do ...",
+      "link": "https://twitter.com/DamaresAlves/status/1770971534640730604",
+      "displayLink": "twitter.com",
+      "snippet": "Mar 21, 2024 ... e Michelle Bolsonaro #mito #princesa #amados #brasil #presidente #bolsonaro2022 #michelle #primeiradama #direitaconservadora  ...",
+      "htmlSnippet": "Mar 21, 2024 <b>...</b> e Michelle Bolsonaro #mito #princesa #amados #brasil     #presidente #<b>bolsonaro2022</b> #michelle #primeiradama #direitaconservadora    &nbsp;...",
+      "formattedUrl": "https://twitter.com/DamaresAlves/status/1770971534640730604",
+      "htmlFormattedUrl": "https://twitter.com/DamaresAlves/status/1770971534640730604",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2NxNpQOoNxraZ_PWGN7JT9r-4W04DmjtINCW6ZQOnidvLIuHxtzNtyk&s",
+            "width": "168",
+            "height": "300"
+          }
+        ],
+        "person": [
+          {
+            "identifier": "1083774484123975680",
+            "givenname": "Damares Alves",
+            "additionalname": "DamaresAlves"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "2540728",
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes"
+          },
+          {
+            "userinteractioncount": "302",
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets"
+          },
+          {
+            "userinteractioncount": "9055",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes"
+          },
+          {
+            "userinteractioncount": "1627",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/DamaresAlves/status/1770971534640730604/likes"
+          },
+          {
+            "userinteractioncount": "222",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/DamaresAlves/status/1770971534640730604/retweets"
+          },
+          {
+            "userinteractioncount": "9",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/DamaresAlves/status/1770971534640730604/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "69",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/DamaresAlves/status/1770971534640730604"
+          },
+          {
+            "userinteractioncount": "22527",
+            "interactiontype": "https://schema.org/ViewAction"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=333903271",
+            "og:image": "https://pbs.twimg.com/amplify_video_thumb/1770971412305444864/img/7Ameb5HOH5Z913KU.jpg:large",
+            "theme-color": "#FFFFFF",
+            "og:type": "article",
+            "og:site_name": "X (formerly Twitter)",
+            "al:ios:app_name": "X",
+            "apple-mobile-web-app-title": "Twitter",
+            "og:title": "Damares Alves (@DamaresAlves) on X",
+            "al:android:package": "com.twitter.android",
+            "al:ios:url": "twitter://status?id=1770971534640730604",
+            "title": "Damares Alves (@DamaresAlves) on X",
+            "og:description": "Meus parabéns ao casal mais amado do Brasil 🇧🇷😍\n@jairbolsonaro e Michelle Bolsonaro\n\n#mito #princesa #amados #brasil🇧🇷 #presidente #bolsonaro2022 #michelle #primeiradama #direitaconservadora🇧🇷 #damaresalves #damares #bolsonaro #patria #brasileira",
+            "al:ios:app_store_id": "333903271",
+            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+            "al:android:url": "twitter://status?id=1770971534640730604",
+            "fb:app_id": "2231777543",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://twitter.com/DamaresAlves/status/1770971534640730604",
+            "al:android:app_name": "X"
+          }
+        ],
+        "videoobject": [
+          {
+            "duration": "PT0H1M0S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1770971534640730604",
+            "contenturl": "https://video.twimg.com/amplify_video/1770971412305444864/vid/avc1/720x1280/jY8v6iIokMTzG_AH.mp4?tag=14",
+            "uploaddate": "2024-03-22T00:31:31.000Z",
+            "name": "@DamaresAlves's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1770971412305444864/img/7Ameb5HOH5Z913KU.jpg"
+          }
+        ],
+        "collection": [
+          {
+            "name": "Post with replies"
+          }
+        ],
+        "creativework": [
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/A54KTpLfoG"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pbs.twimg.com/amplify_video_thumb/1770971412305444864/img/7Ameb5HOH5Z913KU.jpg:large"
+          }
+        ],
+        "socialmediaposting": [
+          {
+            "identifier": "1770971534640730604",
+            "commentcount": "69",
+            "articlebody": "Meus parabéns ao casal mais amado do Brasil 🇧🇷😍 @jairbolsonaro e Michelle Bolsonaro #mito #princesa #amados #brasil🇧🇷 #presidente #bolsonaro2022 #michelle #primeiradama #direitacons...",
+            "position": "1",
+            "datecreated": "2024-03-22T00:31:31.000Z",
+            "datepublished": "2024-03-22T00:31:31.000Z",
+            "url": "https://twitter.com/DamaresAlves/status/1770971534640730604",
+            "mainentityofpage": "https://twitter.com/DamaresAlves/status/1770971534640730604"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "#Bolsonaro2022",
+      "htmlTitle": "#<b>Bolsonaro2022</b>",
+      "link": "https://br.pinterest.com/pin/26388347812486882/",
+      "displayLink": "br.pinterest.com",
+      "snippet": "Nov 25, 2023 ... 2 de jun de 2025 - Maria encontrou este Pin. Encontre (e salve!) seus próprios Pins no Pinterest.",
+      "htmlSnippet": "Nov 25, 2023 <b>...</b> 2 de jun de 2025 - Maria encontrou este Pin. Encontre (e salve!) seus próprios Pins no Pinterest.",
+      "formattedUrl": "https://br.pinterest.com/pin/26388347812486882/",
+      "htmlFormattedUrl": "https://br.pinterest.com/pin/26388347812486882/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7rKQAEZFd97bQAEvkhwCKB88ce9ZJ2QADnj3QYRjwm_AZREg4inq-vdC&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Pinterest",
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://i.pinimg.com/736x/93/d8/4f/93d84fb7493b6354b40fb19aff01176a.jpg",
+            "og:image:width": "640",
+            "og:type": "pinterestapp:pin",
+            "twitter:title": "Pin em Bandeira do brasil",
+            "og:site_name": "Pinterest",
+            "og:title": "Pin em Bandeira do brasil",
+            "og:image:height": "640",
+            "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+            "og:updated_time": "2025-06-02T20:30:02.000Z",
+            "pinterestapp:repins": "7",
+            "pinterestapp:pinboard": "https://br.pinterest.com/mariascarcela/bandeira-do-brasil/",
+            "og:description": "2 de jun de 2025 - Maria encontrou este Pin. Encontre (e salve!) seus próprios Pins no Pinterest.",
+            "twitter:image:src": "https://i.pinimg.com/736x/93/d8/4f/93d84fb7493b6354b40fb19aff01176a.jpg",
+            "pinterestapp:pinner": "https://br.pinterest.com/mariascarcela/",
+            "referrer": "origin",
+            "fb:app_id": "274266067164",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "2 de jun de 2025 - Maria encontrou este Pin. Encontre (e salve!) seus próprios Pins no Pinterest.",
+            "og:url": "https://br.pinterest.com/pin/26388347812486882/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.pinimg.com/736x/93/d8/4f/93d84fb7493b6354b40fb19aff01176a.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! #JorginhoMello ...",
+      "htmlTitle": "Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! #JorginhoMello ...",
+      "link": "https://www.facebook.com/jorginhomello.sc/videos/dia-3%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-vote-2%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-jorginhomello-fechadocombolsonaro-bolsonaroreeleito-bolso/898620464831166/",
+      "displayLink": "www.facebook.com",
+      "snippet": "Oct 27, 2022 ... #JorginhoMello #FechadoComBolsonaro #BolsonaroReeleito #Bolsonaro2022 #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro # ...",
+      "htmlSnippet": "Oct 27, 2022 <b>...</b> #JorginhoMello #FechadoComBolsonaro #BolsonaroReeleito #<b>Bolsonaro2022</b> #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro #&nbsp;...",
+      "formattedUrl": "https://www.facebook.com/jorginhomello.sc/.../898620464831166/",
+      "htmlFormattedUrl": "https://www.facebook.com/jorginhomello.sc/.../898620464831166/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-Zu-dBWdKOIwKAA-bS9Dui8fJpRwbtuzX-9_yq1KwpN2LdwA1V3AEzbb&s",
+            "width": "168",
+            "height": "299"
+          }
+        ],
+        "VideoObject": [
+          {}
+        ],
+        "metatags": [
+          {
+            "og:image": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/312348312_665629271644223_4305882694794728062_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c26028&_nc_ohc=cuSI28NvIykQ7kNvwGglGF_&_nc_oc=Adn0nEEMq-XDWHhKIdgWqcEMRf4mQz4k0iPddVnyeVKPc2n92MNrqfatyDrxZY9KDsk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_rml=0&_nc_ht=scontent-atl3-1.xx&_nc_gid=Jt16Wx2VYUL1HFgr6xUKVQ&oh=00_Afc_VixgAWU3KhZnC0IpzTX0fezAUiN0IlvEZsSjolrQ-A&oe=68E81866",
+            "theme-color": "#FFFFFF",
+            "og:type": "video.other",
+            "og:image:alt": "1.5K views · 233 reactions | Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! \n\n#JorginhoMello #FechadoComBolsonaro  #BolsonaroReeleito #Bolsonaro2022 #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro #Vote22\n#2ºTurno | Jorginho Mello | Facebook",
+            "twitter:card": "summary",
+            "twitter:title": "1.5K views · 233 reactions | Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣!...",
+            "og:title": "1.5K views · 233 reactions | Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! \n\n#JorginhoMello #FechadoComBolsonaro  #BolsonaroReeleito #Bolsonaro2022 #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro #Vote22\n#2ºTurno | Jorginho Mello | Facebook",
+            "google": "notranslate",
+            "og:description": "Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! \n\n#JorginhoMello #FechadoComBolsonaro  #BolsonaroReeleito #Bolsonaro2022 #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro #Vote22\n#2ºTurno.",
+            "twitter:image": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/312348312_665629271644223_4305882694794728062_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c26028&_nc_ohc=cuSI28NvIykQ7kNvwGglGF_&_nc_oc=Adn0nEEMq-XDWHhKIdgWqcEMRf4mQz4k0iPddVnyeVKPc2n92MNrqfatyDrxZY9KDsk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_rml=0&_nc_ht=scontent-atl3-1.xx&_nc_gid=Jt16Wx2VYUL1HFgr6xUKVQ&oh=00_Afc_VixgAWU3KhZnC0IpzTX0fezAUiN0IlvEZsSjolrQ-A&oe=68E81866",
+            "referrer": "origin-when-crossorigin",
+            "twitter:image:alt": "1.5K views · 233 reactions | Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! \n\n#JorginhoMello #FechadoComBolsonaro  #BolsonaroReeleito #Bolsonaro2022 #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro #Vote22\n#2ºTurno | Jorginho Mello | Facebook",
+            "twitter:site": "@facebookapp",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "Dia 3️⃣0️⃣, VOTE 2️⃣2️⃣! \n\n#JorginhoMello #FechadoComBolsonaro  #BolsonaroReeleito #Bolsonaro2022 #BolsonaroPresidente #BrasilAcimaDeTudo #PTNuncaMais #EuVotoBolsonaro #Vote22\n#2ºTurno.",
+            "og:locale": "en_US",
+            "og:url": "https://www.facebook.com/jorginhomello.sc/videos/dia-3%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-vote-2%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-jorginhomello-fechadocombolsonaro-bolsonaroreeleito-bolso/898620464831166/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1334728681365198&get_thumbnail=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "#bolsonaro2022",
+      "htmlTitle": "#<b>bolsonaro2022</b>",
+      "link": "https://www.instagram.com/p/CkL1EGuAw6S/",
+      "displayLink": "www.instagram.com",
+      "snippet": "Oct 25, 2022 ... Visit the Electoral Justice website for official 2022 election information. 9 likes · ansaldiconde · #bolsonaro2022. more. emiliasantos1961.",
+      "htmlSnippet": "Oct 25, 2022 <b>...</b> Visit the Electoral Justice website for official 2022 election information. 9 likes &middot; ansaldiconde &middot; #<b>bolsonaro2022</b>. more. emiliasantos1961.",
+      "formattedUrl": "https://www.instagram.com/p/CkL1EGuAw6S/",
+      "htmlFormattedUrl": "https://www.instagram.com/p/CkL1EGuAw6S/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/312655341_439016315015739_4648215397539245782_n.webp?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=_nmvyESkAuoQ7kNvwGOBMv_&_nc_oc=AdkowZ3heR7NizHWLEzZQVZSmm74klgBkMfVi4IHxVKypPwy5jrxuiuPe21febL34M4&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=UqNWcA9Ll5gImynxCIc23A&oh=00_AfZq587aWptaLBRcU0PWdaAcavVeLeoomHdZVXxdMbVXpw&oe=68DE5394",
+            "theme-color": "#FFFFFF",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Instagram",
+            "application-title": "Instagram",
+            "al:android:package": "com.instagram.android",
+            "bingbot": "noarchive",
+            "medium": "image",
+            "al:ios:url": "instagram://media?id=2957690958856261266",
+            "og:description": "9 likes, 1 comments - ansaldiconde on October 26, 2022: \"#bolsonaro2022\".",
+            "twitter:image": "https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/312655341_439016315015739_4648215397539245782_n.webp?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=_nmvyESkAuoQ7kNvwGOBMv_&_nc_oc=AdkowZ3heR7NizHWLEzZQVZSmm74klgBkMfVi4IHxVKypPwy5jrxuiuPe21febL34M4&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=UqNWcA9Ll5gImynxCIc23A&oh=00_AfZq587aWptaLBRcU0PWdaAcavVeLeoomHdZVXxdMbVXpw&oe=68DE5394",
+            "al:ios:app_store_id": "389801252",
+            "twitter:site": "@instagram",
+            "instapp:owner_user_id": "10853433331",
+            "og:type": "article",
+            "twitter:title": "Deise Maria Ansaldi Conde (@ansaldiconde) • Instagram photo",
+            "al:ios:app_name": "Instagram",
+            "og:title": "Deise Maria Ansaldi Conde on Instagram: \"#bolsonaro2022\"",
+            "twitter:maxage": "86400",
+            "color-scheme": "light",
+            "al:android:url": "https://www.instagram.com/p/CkL1EGuAw6S/",
+            "fb:app_id": "124024574287414",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.instagram.com/p/CkL1EGuAw6S/",
+            "al:android:app_name": "Instagram"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/312655341_439016315015739_4648215397539245782_n.webp?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=_nmvyESkAuoQ7kNvwGOBMv_&_nc_oc=AdkowZ3heR7NizHWLEzZQVZSmm74klgBkMfVi4IHxVKypPwy5jrxuiuPe21febL34M4&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=UqNWcA9Ll5gImynxCIc23A&oh=00_AfZq587aWptaLBRcU0PWdaAcavVeLeoomHdZVXxdMbVXpw&oe=68DE5394"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "A verdade prevaleceu. | Luiz Inácio Lula da Silva | 97 comentários",
+      "htmlTitle": "A verdade prevaleceu. | Luiz Inácio Lula da Silva | 97 comentários",
+      "link": "https://pt.linkedin.com/posts/lulaoficial_a-verdade-prevaleceu-ganhei-todos-os-26-activity-6989219159339339776-dNMp",
+      "displayLink": "pt.linkedin.com",
+      "snippet": "Oct 20, 2022 ... #Bolsonaro2022. Gostei · Responder · 1 Reação 2 Reações. rodrigo F., gráfico · rodrigo F. Empresa. 2 a. Denunciar este comentário; Close menu.",
+      "htmlSnippet": "Oct 20, 2022 <b>...</b> #<b>Bolsonaro2022</b>. Gostei &middot; Responder &middot; 1 Reação 2 Reações. rodrigo F., gráfico &middot; rodrigo F. Empresa. 2 a. Denunciar este comentário; Close menu.",
+      "formattedUrl": "https://pt.linkedin.com/.../lulaoficial_a-verdade-prevaleceu-ganhei-todos-os...",
+      "htmlFormattedUrl": "https://pt.linkedin.com/.../lulaoficial_a-verdade-prevaleceu-ganhei-todos-os...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZZwU-Nj7Psst_HLlTt1mnnJPzL2RWdkIan0Ee9L-u1pereMyh2NU5lc&s",
+            "width": "297",
+            "height": "170"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+            "twitter:title": "A verdade prevaleceu. | Luiz Inácio Lula da Silva | 97 comentários",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "al:ios:app_name": "LinkedIn",
+            "twitter:url": "https://pt.linkedin.com/posts/lulaoficial_a-verdade-prevaleceu-ganhei-todos-os-26-activity-6989219159339339776-dNMp",
+            "og:title": "A verdade prevaleceu. | Luiz Inácio Lula da Silva | 97 comentários",
+            "al:android:package": "com.linkedin.android",
+            "pagekey": "p_public_post",
+            "locale": "pt_BR",
+            "al:ios:url": "https://pt.linkedin.com/posts/lulaoficial_a-verdade-prevaleceu-ganhei-todos-os-26-activity-6989219159339339776-dNMp",
+            "og:description": "A verdade prevaleceu. Ganhei todos os 26 processos movidos contra mim na justiça, sendo reconhecido até pela ONU a minha inocência, provando ter sido uma grande armação para me tirar das eleições de 2018. \n\nNo desespero, os adversários criam mentiras e tentam manipular a verdade.\n\nA justiça foi feita e agora vou voltar para cuidar do povo brasileiro.| 97 comentários no LinkedIn",
+            "al:ios:app_store_id": "288429040",
+            "twitter:image": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+            "al:android:url": "https://pt.linkedin.com/posts/lulaoficial_a-verdade-prevaleceu-ganhei-todos-os-26-activity-6989219159339339776-dNMp",
+            "lnkd:url": "https://pt.linkedin.com/feed/update/urn:li:activity:6989219159339339776",
+            "twitter:site": "@linkedin",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "A verdade prevaleceu. Ganhei todos os 26 processos movidos contra mim na justiça, sendo reconhecido até pela ONU a minha inocência, provando ter sido uma grande armação para me tirar das eleições de 2018. \n\nNo desespero, os adversários criam mentiras e tentam manipular a verdade.\n\nA justiça foi feita e agora vou voltar para cuidar do povo brasileiro.| 97 comentários no LinkedIn",
+            "og:url": "https://pt.linkedin.com/posts/lulaoficial_a-verdade-prevaleceu-ganhei-todos-os-26-activity-6989219159339339776-dNMp",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "No TikTok, virais com #Bolsonaro2022 têm mais ataques e ...",
+      "htmlTitle": "No TikTok, virais com #<b>Bolsonaro2022</b> têm mais ataques e ...",
+      "link": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/?fbclid=IwAR1fADVGDn-B9np8ZrlZHFZIdNX_JSgInj7nWBY61pEAxeezzqaZx2aRPMw",
+      "displayLink": "www.aosfatos.org",
+      "snippet": "Sep 28, 2022 ... Metade dos vídeos de apoio ao presidente continha ataques ou desinformação, contra um quarto dos posts favoráveis ao petista.",
+      "htmlSnippet": "Sep 28, 2022 <b>...</b> Metade dos vídeos de apoio ao presidente continha ataques ou desinformação, contra um quarto dos posts favoráveis ao petista.",
+      "formattedUrl": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/?fbclid...",
+      "htmlFormattedUrl": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/?fbclid...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx79-sGtv86XJ7Reax4rnNMl1GTTllW11pr_1a05q8pyZJGj_beA2NnxI&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/opengraph-image?31619040bd8ad34c",
+            "theme-color": "white",
+            "og:image:width": "516",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "No TikTok, virais com #Bolsonaro2022 têm mais ataques e desinformação que #Lula2022",
+            "twitter:image:type": "image/png",
+            "og:title": "No TikTok, virais com #Bolsonaro2022 têm mais ataques e desinformação que #Lula2022",
+            "og:image:height": "271",
+            "twitter:image:height": "271",
+            "og:image:type": "image/png",
+            "color-scheme": "only light",
+            "og:description": "Metade dos vídeos de apoio ao presidente continha ataques ou desinformação, contra um quarto dos posts favoráveis ao petista",
+            "twitter:image": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/twitter-image?31619040bd8ad34c",
+            "twitter:site": "@aosfatos",
+            "twitter:image:width": "516",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",
+            "twitter:description": "Metade dos vídeos de apoio ao presidente continha ataques ou desinformação, contra um quarto dos posts favoráveis ao petista",
+            "og:locale": "pt_BR",
+            "og:url": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.aosfatos.org/noticias/tiktok-bolsonaro-lula-ataques/opengraph-image?31619040bd8ad34c"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dissonância Cognitiva Essa semana economistas e outros \"pundits ...",
+      "htmlTitle": "Dissonância Cognitiva Essa semana economistas e outros &quot;pundits ...",
+      "link": "https://pt.linkedin.com/posts/andre-leite-investimentos_disson%C3%A2ncia-cognitiva-essa-semana-economistas-activity-6984471741938982912-4Z6S",
+      "displayLink": "pt.linkedin.com",
+      "snippet": "Oct 7, 2022 ... NUNCA FOI TÃO FÁCIL #BOLSONARO2022. Gostei · Responder · 2 Reações 3 Reações. Rodrigo Bach Rebelatto, gráfico · Rodrigo Bach Rebelatto.",
+      "htmlSnippet": "Oct 7, 2022 <b>...</b> NUNCA FOI TÃO FÁCIL #<b>BOLSONARO2022</b>. Gostei &middot; Responder &middot; 2 Reações 3 Reações. Rodrigo Bach Rebelatto, gráfico &middot; Rodrigo Bach Rebelatto.",
+      "formattedUrl": "https://pt.linkedin.com/.../andre-leite-investimentos_dissonância-cognitiva-e...",
+      "htmlFormattedUrl": "https://pt.linkedin.com/.../andre-leite-investimentos_dissonância-cognitiva-e...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6OrqF58bW_57YAbo1d-e7eKTH3eywmUIuwbOJ-TWlkWeif4MsUckZJ_m&s",
+            "width": "271",
+            "height": "186"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.licdn.com/dms/image/v2/C4D22AQF923-5wIhaDQ/feedshare-shrink_800/feedshare-shrink_800/0/1665227827610?e=2147483647&v=beta&t=BZ8X6yNTFz56Fpx9vRHbrl1P9y1DwKWBQkrKNzyY4vs",
+            "twitter:title": "Dissonância Cognitiva\n\nEssa semana economistas e outros &quot;pundits&quot; e representantes do beautiful people abraçaram a candidatura Lula.  Falando em defesa da democracia.\n\nAí eu me lembrei dessa foto… | Andre Leite | 14 comentários",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "al:ios:app_name": "LinkedIn",
+            "twitter:url": "https://pt.linkedin.com/posts/andre-leite-investimentos_disson%C3%A2ncia-cognitiva-essa-semana-economistas-activity-6984471741938982912-4Z6S",
+            "og:title": "Dissonância Cognitiva\n\nEssa semana economistas e outros &quot;pundits&quot; e representantes do beautiful people abraçaram a candidatura Lula.  Falando em defesa da democracia.\n\nAí eu me lembrei dessa foto… | Andre Leite | 14 comentários",
+            "al:android:package": "com.linkedin.android",
+            "pagekey": "p_public_post",
+            "locale": "pt_BR",
+            "al:ios:url": "https://pt.linkedin.com/posts/andre-leite-investimentos_disson%C3%A2ncia-cognitiva-essa-semana-economistas-activity-6984471741938982912-4Z6S",
+            "og:description": "Dissonância Cognitiva\n\nEssa semana economistas e outros \"pundits\" e representantes do beautiful people abraçaram a candidatura Lula.  Falando em defesa da democracia.\n\nAí eu me lembrei dessa foto. Embaraçosa.\n\nA verdade é que ambos candidatos tem pecados, maiores ou menores, em todas as áreas.  \n\nSem hipocrisia gente, o negócio é escolher o seu \"menos pior\" sem tentar ficar justificando, que pega mal. \n\nÓtimo fds a todos | 14 comentários no LinkedIn",
+            "al:ios:app_store_id": "288429040",
+            "twitter:image": "https://media.licdn.com/dms/image/v2/C4D22AQF923-5wIhaDQ/feedshare-shrink_800/feedshare-shrink_800/0/1665227827610?e=2147483647&v=beta&t=BZ8X6yNTFz56Fpx9vRHbrl1P9y1DwKWBQkrKNzyY4vs",
+            "al:android:url": "https://pt.linkedin.com/posts/andre-leite-investimentos_disson%C3%A2ncia-cognitiva-essa-semana-economistas-activity-6984471741938982912-4Z6S",
+            "lnkd:url": "https://pt.linkedin.com/feed/update/urn:li:activity:6984471741938982912",
+            "twitter:site": "@linkedin",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Dissonância Cognitiva\n\nEssa semana economistas e outros \"pundits\" e representantes do beautiful people abraçaram a candidatura Lula.  Falando em defesa da democracia.\n\nAí eu me lembrei dessa foto. Embaraçosa.\n\nA verdade é que ambos candidatos tem pecados, maiores ou menores, em todas as áreas.  \n\nSem hipocrisia gente, o negócio é escolher o seu \"menos pior\" sem tentar ficar justificando, que pega mal. \n\nÓtimo fds a todos | 14 comentários no LinkedIn",
+            "og:url": "https://pt.linkedin.com/posts/andre-leite-investimentos_disson%C3%A2ncia-cognitiva-essa-semana-economistas-activity-6984471741938982912-4Z6S",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/C4D22AQF923-5wIhaDQ/feedshare-shrink_800/feedshare-shrink_800/0/1665227827610?e=2147483647&v=beta&t=BZ8X6yNTFz56Fpx9vRHbrl1P9y1DwKWBQkrKNzyY4vs"
+          }
+        ]
+      }
+    }
+  ],
+  "monitoramento": {
+    "id": 2,
+    "client_id": 99
+  }
+}

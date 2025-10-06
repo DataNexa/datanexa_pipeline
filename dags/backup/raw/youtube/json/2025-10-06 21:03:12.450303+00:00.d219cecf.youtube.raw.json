@@ -1,0 +1,1721 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LiqjQijIVQ8xV48O693ohaf0R_g",
+  "nextPageToken": "CJYBEAA",
+  "prevPageToken": "CGQQAQ",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 62992,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-mkRsNCNMDssIAF_fDu8qZLAg6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wtO47X9oWD4"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-27T19:39:53Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wtO47X9oWD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wtO47X9oWD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wtO47X9oWD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-27T19:39:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DL8IbBzjhOnNtlxylvBzvvyMdsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UBiegtnPcTs"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-23T09:00:45Z",
+        "channelId": "UCPkpmCIyIemNHqU_TdrFcOg",
+        "title": "JUNTOS pela ANISTIA!! #bolsonaro #bolsonaro2022 #foraluladrao #direita  #lula",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UBiegtnPcTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UBiegtnPcTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UBiegtnPcTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Patriota Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-23T09:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tX70Y4WRXBQVcgDRZlY5YDDJa28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZMpbUJtiaTA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T08:51:38Z",
+        "channelId": "UCTnzIFimKBMKZY39hMFqQvQ",
+        "title": "Bolsonaro 2025 na Cadeia #bolsonaro #bolsonaropresidente #bolsonaro2022 #lulapresidente #lula #lula",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZMpbUJtiaTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZMpbUJtiaTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZMpbUJtiaTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tubarão 🦈 da 018",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T08:51:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BgGLDnPPKrz2BPkP6fpnZqFdpWc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z8d2u3Acf-Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-15T22:11:25Z",
+        "channelId": "UCL4-03t6OlFpwrGcsX0WIiw",
+        "title": "Hino de Bolsonaro - Meu Juiz. #bolsonaro #bolsonaropresidente #bolsonaro2022 #brasil",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z8d2u3Acf-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z8d2u3Acf-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z8d2u3Acf-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ponto Cego",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-15T22:11:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NfRcBHoHExRw8XteenlLkPc90Vo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m_UA9ee0zGk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T12:16:44Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Sobre #bolsonaro #bolsonaro2022 #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m_UA9ee0zGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m_UA9ee0zGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m_UA9ee0zGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T12:16:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J3WLxNc1QcoAuLK1tZUKtPkt6wQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "urV9EhmkbJQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-22T17:57:38Z",
+        "channelId": "UCH9jbaCE95WGsbYa8cpRcAA",
+        "title": "OS DOIS #shorts #eleições2022 #bolsonaro2022 #bolsonaro  #lula",
+        "description": "shorts #eleições2022 #bolsonaro2022 #bolsonaro #lula.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/urV9EhmkbJQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/urV9EhmkbJQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/urV9EhmkbJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lembrei Agora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-22T17:57:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B6RzTwt5UpTaG50x25aOkn6fLD0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qm_PuYcFc2A"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-19T19:57:13Z",
+        "channelId": "UCPkpmCIyIemNHqU_TdrFcOg",
+        "title": "Vamos mostrar nossa FORÇA!!!!!#bolsonaro #bolsonaro2022 #foraluladrao",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qm_PuYcFc2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qm_PuYcFc2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qm_PuYcFc2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Patriota Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-19T19:57:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WOIDaKxiScQWiK3OC_vX6GLbVMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DiMSHbCKFYY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:02:42Z",
+        "channelId": "UCQ3FJ_Hv0zthwSuV3hawalg",
+        "title": "#lulaladrao #BOLSONARO #brasil #rio #viral #rj #bolsonaro #bolsonaro2022 #viralisa #bolsonaro2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DiMSHbCKFYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DiMSHbCKFYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DiMSHbCKFYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Peterson Silva",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:02:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xA-titcMxIvActl6F7thKAlZeBQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IIgvGthRsLM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T22:46:16Z",
+        "channelId": "UCnCfvfpxFb0Uf7n-MP_YgXw",
+        "title": "BOLSONARO  #bolsonaro2022  #lulapresidente2022 #bolsonaropresidente #eleicoies202 #bolsonaro22 #lula",
+        "description": "bolsonaro2022 #lulapresidente2022 #bolsonaropresidente #eleicoies2022 #bolsonaro22 #lula2022 #22 #13 #edits #editing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IIgvGthRsLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IIgvGthRsLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IIgvGthRsLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "luUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T22:46:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SDAKRmo-_Q4MUGal-R1xoeomZl8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2BZLdod-sPE"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-10T15:48:11Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Inacreditável! #bolsonaro #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2BZLdod-sPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2BZLdod-sPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2BZLdod-sPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-10T15:48:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "he7iQKoxw5Jk33DU3ICHtfsbmKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-bVK6xdZ4Ys"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-26T19:25:49Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-bVK6xdZ4Ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-bVK6xdZ4Ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-bVK6xdZ4Ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T19:25:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yOkVKljcAzfgOILZrFgP-3AIo-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1FmSa2iEFgA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-13T12:20:37Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Normal! #bolsonaro2022 #bolsonaropresidente #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1FmSa2iEFgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1FmSa2iEFgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1FmSa2iEFgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-13T12:20:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIdc9uTHfxyddFNGyz9qNIO9wxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3xFWoBcKjv4"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T13:31:28Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Quem manda? #bolsonaro2022 #bolsonaro #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3xFWoBcKjv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3xFWoBcKjv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xFWoBcKjv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T13:31:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8P7axKTZd1F9_PV4bf6Y1OrCxd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IhI_uDVxVX8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-08T22:10:41Z",
+        "channelId": "UCBGQ0jvzDZLZYyi-anz7a7w",
+        "title": "Sobre Voto! #eleicao2022 #bolsonaro #lula #bolsonaro2022 #bolsonaro2022 #eleições2022 #voto",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IhI_uDVxVX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IhI_uDVxVX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IhI_uDVxVX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gabriel Arcângelo ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-08T22:10:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gyl0NAhHiYY0bqsbS2FSKeePXDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zIb5ct0RpZg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-14T13:20:39Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Na real! #bolsonaropresidente #bolsonaro2022 #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIb5ct0RpZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIb5ct0RpZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIb5ct0RpZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-14T13:20:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JS9m62s303vP9KaMKYIrOIIduos",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sg-88pQyd-I"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-05T22:10:46Z",
+        "channelId": "UCdyfx7TvIFNmO2wMtInihgw",
+        "title": "#bolsonaro2022 #elpersonajedelasemana #deustemumapalavrapravoce #yosoydelos7mil",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sg-88pQyd-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sg-88pQyd-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sg-88pQyd-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "۝ venons★†",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-05T22:10:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QpukJR-2sdz0D1aIO2wxcE4T8s8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C8cO7m27ebY"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-24T12:48:47Z",
+        "channelId": "UCg1QvKb_aOQNi-6-4qKL3tw",
+        "title": "Bolsonaro Sobre Roberto Jeferson - Flow Cuts Brasil #bolsonaro2022  #lula  #lula2022  #bolsonaro",
+        "description": "Bolsonaro Sobre Roberto Jeferson - Flow Cuts Brasil #bolsonaro2022 #lula #lula2022 #bolsonaro #shorts Inscreva-se no canal, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C8cO7m27ebY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C8cO7m27ebY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C8cO7m27ebY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Flow Cuts Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-24T12:48:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0DmcoBZBnjTYnlIVU3T4gCCVfp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H8YkVAaS-YA"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-19T16:39:04Z",
+        "channelId": "UCPV4rpIJgADtD092z4IW6lw",
+        "title": "Sou Bolsonarista. Se quiser sair... #shorts #jairbolsonaro #bolsonaro2022 #VBOpiniao",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H8YkVAaS-YA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H8YkVAaS-YA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H8YkVAaS-YA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Valeria Bernardo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-19T16:39:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iclpPal8y3Ny-yg3-4_KCeMFebA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5wuU9tEEspM"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-19T17:22:56Z",
+        "channelId": "UCn3IiGDLtfvxThlmPq5KW8g",
+        "title": "#juntossomosmaisfortes #lula #lulapresidente #bolsonaro #uol #iclnotícias #congresso #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5wuU9tEEspM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5wuU9tEEspM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5wuU9tEEspM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NemDireitaNemEsquerda.OsJustos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-19T17:22:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TRT0SpOU7rWuTD_Qc9gjVJ8DF44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3_d7le8DpSI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-15T16:34:40Z",
+        "channelId": "UCq29oecH3ku8pkztu6EQgDQ",
+        "title": "Cure o Bolsonaro #bolsonaroaovivo #bolssonaro #bolsonaro #bolsonaro2022  #bolsonaropresidente",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_d7le8DpSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_d7le8DpSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_d7le8DpSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thomaz Thurbando ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-15T16:34:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TNeM8Wj9oGvyunM2qZTqkpnAB7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GNpuMDAMm7Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-01T11:36:18Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Representa vc #bolsonaro #bolsonaro2022 #bolsonaro2022 #politicalnews #lula #pt #esquerda",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GNpuMDAMm7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GNpuMDAMm7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GNpuMDAMm7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-01T11:36:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "41xgHHSry8ynpO2r_7XXB4ShaC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cVu_uzZc0PY"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-14T13:09:36Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "E gigante! #bolsonaropresidente #bolsonaro2022 #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cVu_uzZc0PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cVu_uzZc0PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVu_uzZc0PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-14T13:09:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OIIL3TrNWE_JtCHGbgLaUBX2SnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LECz1DC30Wg"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-07T23:00:41Z",
+        "channelId": "UCkz4Ns84skwJ22_HtxxqQPA",
+        "title": "#TOPZERRA NIGHT FIVE OFICIAL #MITO #BOLSONARO2022 # PIADAS ENGRAÇADAS #PIADAS #",
+        "description": "TOPZERRA NIGHT FIVE OFICIAL #MITO #BOLSONARO2022 # PIADAS ENGRAÇADAS #PIADAS # FORA LULA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LECz1DC30Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LECz1DC30Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LECz1DC30Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "#topzerranightfiveoficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-07T23:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E2bINK7DTYIyYTMqMjwdPkeARXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SKCUyuhfivg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-14T13:55:55Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Ama a 25? #bolsonaropresidente #bolsonaro2022 #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SKCUyuhfivg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SKCUyuhfivg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SKCUyuhfivg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-14T13:55:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-hpM101N3jKt4e2q-ENXT5LT9t8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zC6OeQS-nPw"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-14T13:53:24Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Saiba! #bolsonaropresidente #bolsonaro2022 #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zC6OeQS-nPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zC6OeQS-nPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zC6OeQS-nPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-14T13:53:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4sRB9ic5bJYrgg2Hy-GDAzd4i6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a1qd9F1ijY4"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T16:45:38Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "E aí? #bolsonaro2022 #bolsonaropresidente #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1qd9F1ijY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1qd9F1ijY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1qd9F1ijY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T16:45:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ToUM0-g02k5AWiHASknEXxoSOhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ZLf3EBitjc"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-11T11:38:15Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "E agora em? #bolsonaro #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt #noticias #trump",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ZLf3EBitjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ZLf3EBitjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ZLf3EBitjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-11T11:38:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BosNPrde9qvT3YXvoTebjzGsYzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SWBUW6AAfrs"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-08T14:35:34Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "É  fácil! @JonesManoel #bolsonaro2022 #bolsonaropresidente #bolsonaro #politicalnews #lula #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SWBUW6AAfrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SWBUW6AAfrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWBUW6AAfrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-08T14:35:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nJfYDyiBVluOcQqiev5pvP-5A4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vfu-V2NIyr8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T12:23:54Z",
+        "channelId": "UCuGD-LuJDtdiIDVW9rYxZ5Q",
+        "title": "CHEGOU A HORA DA MUDANÇA !? #política #nordeste #bolsonaro #lula #bolsonaro2022",
+        "description": "Será que ele vai desistir ? O que você acha ? #política #lula #bolsonaro #bolsonaro2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfu-V2NIyr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfu-V2NIyr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfu-V2NIyr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nemezis Mc ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T12:23:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FZBGQkcMVe6gU5Nek_iFRNmPv5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XFYw0iudNzk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T16:47:36Z",
+        "channelId": "UCcpEkCnQQU-RU20eIddVfnQ",
+        "title": "#lula #lulapresidente2022 #lule #ideologia #socialismo #brasil #eua #bolsonaro  #bolsonaro2022 #pt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XFYw0iudNzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XFYw0iudNzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XFYw0iudNzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wagner Bertolini Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T16:47:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-SqSWeY-Qoc_E0QrFDYM9miKPdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A-Qa-7f4bNM"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-23T23:13:35Z",
+        "channelId": "UCkz4Ns84skwJ22_HtxxqQPA",
+        "title": "#TOPZERRA NIGHT FIVE OFICIAL #MITO #BOLSONARO2022 # PIADAS ENGRAÇADAS #PIADAS # FORA LULA",
+        "description": "TOPZERRA NIGHT FIVE OFICIAL #MITO #BOLSONARO2022 # PIADAS ENGRAÇADAS #PIADAS # FORA LULA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A-Qa-7f4bNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A-Qa-7f4bNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A-Qa-7f4bNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "@topzerranightfiveoficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-23T23:13:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5OxznNspLbW_ayZl7oXG2dbVG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "flL708wNEjg"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-15T15:43:43Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Entendeu? #bolsonaro #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/flL708wNEjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/flL708wNEjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/flL708wNEjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-15T15:43:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PhwaUwnhq44p0Pvn1jqGs9gKKVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uald8bBNtC8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-09T12:13:32Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Ele é! #bolsonaro #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt #congresso #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uald8bBNtC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uald8bBNtC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uald8bBNtC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-09T12:13:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xv-E6B_fMWY5XlqFcFQkdjsokNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fzhMZu7T928"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-07T09:54:23Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Vc banca eles! #bolsonaro2022 #bolsonaro #bolsonaropresidente #politicalnews #lula #pt #congresso",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fzhMZu7T928/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fzhMZu7T928/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzhMZu7T928/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-07T09:54:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lu6-wWUsvxabYPsOaRH-sOviMKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cYrjqDYXUYo"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T13:06:21Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "observa! #bolsonaro2022 #bolsonaropresidente #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cYrjqDYXUYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cYrjqDYXUYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cYrjqDYXUYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T13:06:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ql7iYZakmr9ZlbHil7rO1oC4ATI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "se3_3D4_ZfU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-25T12:09:49Z",
+        "channelId": "UCPEu4LFAQIRf4aEaVZ4ZvRg",
+        "title": "// mitsuba Edit ★🌹// tags :: #anime #tbhk #melhoresmemesemimagens #ainn #24 #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/se3_3D4_ZfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/se3_3D4_ZfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/se3_3D4_ZfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lavíniy_animes ★",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-25T12:09:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LAqRLJgabLrLgRF5p-2enkjlpz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JFd9aCwcIQA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T13:47:12Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "É sobre a direita! #bolsonaro2022 #bolsonaro #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFd9aCwcIQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFd9aCwcIQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFd9aCwcIQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T13:47:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "31WL3_kf2cO92rH9zdGzFYn7Eo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hihVSe40g88"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-14T09:25:28Z",
+        "channelId": "UCq29oecH3ku8pkztu6EQgDQ",
+        "title": "Eu amo Bolsonaro #bolsonaroaovivo #bolssonaro #bolsonaro #bolsonaro2022 #bolsonarosp #bolsonaroagora",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hihVSe40g88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hihVSe40g88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hihVSe40g88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thomaz Thurbando ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-14T09:25:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2kC4UnHnryRjX-HfFXN8sWr5w78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tcj1LBlNMcU"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-04T22:11:45Z",
+        "channelId": "UCq29oecH3ku8pkztu6EQgDQ",
+        "title": "Comida japonesa #bolsonaroaovivo #bolssonaro #bolsonaro #comidajaponesa #bolsonaro2022 #sushi",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tcj1LBlNMcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tcj1LBlNMcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tcj1LBlNMcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thomaz Thurbando ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-04T22:11:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hRBQZu9mFWG8MFO5_Roj2YwV4rY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QHVqu-PPYd8"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-13T14:37:46Z",
+        "channelId": "UCsRJOggTl3Uo5WrhBrQyTEQ",
+        "title": "quando Bolsonaro pode ir preso#pinturaautomotiva#liberdade  #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QHVqu-PPYd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QHVqu-PPYd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QHVqu-PPYd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Funilaria brasileira ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-13T14:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mBhC6E6rVQ7jSHyBVZ0HFD-vrlE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "appZswaIonE"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-18T12:53:36Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Notícia! #bolsonaro #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/appZswaIonE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/appZswaIonE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/appZswaIonE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-18T12:53:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RDVnva5HcDUwQXHBZatcno6Gw7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6c4hBwmGdhQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-11T19:02:25Z",
+        "channelId": "UCn3IiGDLtfvxThlmPq5KW8g",
+        "title": "CÁRMEN LÚCIA PARABÉNS #lula #lulapresidente #bolsonaro #bolsonaro2022 #iclnotícias #uol #sbt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6c4hBwmGdhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6c4hBwmGdhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6c4hBwmGdhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NemDireitaNemEsquerda.OsJustos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-11T19:02:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yhcMD3Z1fQF7iLFeqdOUeKqxi1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "whgJDKV2ZWE"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-03T19:57:04Z",
+        "channelId": "UCn3IiGDLtfvxThlmPq5KW8g",
+        "title": "TUDO POR BOLSONARO &quot;LAMENTÁVEL &quot; #lula #lulapresidente #bolsonaro #uol #sbt #band #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/whgJDKV2ZWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/whgJDKV2ZWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/whgJDKV2ZWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NemDireitaNemEsquerda.OsJustos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-03T19:57:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wpkavYKy1_ciPnep2bvUyESnMus",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tRSbTsN9dtA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T13:46:44Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "É festa! #bolsonaro2022 #bolsonaropresidente #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRSbTsN9dtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRSbTsN9dtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRSbTsN9dtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T13:46:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TNTcMnfDVAfviDJrnB32Lxp3whk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zpkr810Ey-M"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-12T15:16:56Z",
+        "channelId": "UCxPYDqxlj5zLb5Saxc3da_Q",
+        "title": "A diferença do meu voto/#patriota #patriotas #bolsonaro #bolsonaropresidente #bolsonaro2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpkr810Ey-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpkr810Ey-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpkr810Ey-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Monetize2025",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-12T15:16:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YT1cviCbtjyv7nMt5d0Zm_SFQok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zG6au9XvNlY"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-14T13:49:25Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "É assim! #bolsonaropresidente #bolsonaro2022 #bolsonaro #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zG6au9XvNlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zG6au9XvNlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zG6au9XvNlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-14T13:49:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WZL4K_JmZyU7fd95pw39qwQPj_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h_X0NbfG4r4"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-15T15:15:43Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "Tá certo? #bolsonaro #bolsonaro2022 #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h_X0NbfG4r4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h_X0NbfG4r4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h_X0NbfG4r4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-15T15:15:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t6govxP6aLRiqarX8wB4QIsdous",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9P11Dd4Cx7Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T13:51:30Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "É isso? #bolsonaro2022 #bolsonaro #bolsonaropresidente #politicalnews #lula #pt #noticias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9P11Dd4Cx7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9P11Dd4Cx7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9P11Dd4Cx7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T13:51:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jPAMGapNsRWQC8CEK6qLObNfxZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XdAO6jqDOeA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-28T16:48:42Z",
+        "channelId": "UC7DI4lznWx3CQ_tZuzSeATA",
+        "title": "olha isso! #bolsonaropresidente #bolsonaro2022 #bolsonaro #politicalnews #lula #pt #noticias #humor",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdAO6jqDOeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdAO6jqDOeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdAO6jqDOeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revoluir Roots Tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-28T16:48:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ntpcAiaOms6ugQ3XikmoWeKFyyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PgxAxtcnAEs"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T02:55:00Z",
+        "channelId": "UCxF7Ir2TBo9M4gpKKTKJQsQ",
+        "title": "BIENTENNIAL OF BRAZIL&#39;S INDEPENDENCE-PROTEST FOR OUR FREEDOMS-PETRIA CLAUSES- #bolsonaro2022 #fypシ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PgxAxtcnAEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PgxAxtcnAEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgxAxtcnAEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Movimento dos Pastores Conservadores Cristãos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T02:55:00Z"
+      }
+    }
+  ],
+  "metadata": {
+    "relevancia": 100
+  },
+  "monitoramento": {
+    "id": 2,
+    "client_id": 99
+  },
+  "youtube_api_key": "AIzaSyAwdZYtDPfDQM-ZowEBwUmzlJbHmLFgx4A"
+}

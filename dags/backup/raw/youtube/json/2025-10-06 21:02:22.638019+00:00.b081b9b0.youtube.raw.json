@@ -1,0 +1,1720 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "K_SBHunZUgufoxNY-CwdaMfZNWo",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 33600,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gUOtFwP8KpcSsAfst2dR1JzIZ5Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3JAoxN_YCAw"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T22:09:14Z",
+        "channelId": "UCwLA5ITXBnSbZHou9EoFAVQ",
+        "title": "Debate eleições 2018! Melhores momentos",
+        "description": "Se escreva em meu canal.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3JAoxN_YCAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3JAoxN_YCAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3JAoxN_YCAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "João Paulo Neto",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T22:09:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PUHoKqir2AWaLtbxy5zx4KECdFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8v0ssAFBXSw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-03T18:11:29Z",
+        "channelId": "UCvJ1AGdJwRhGWM5n6D-SX9w",
+        "title": "Debate Eleições 2018: Candidatos fazem considerações finais",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8v0ssAFBXSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8v0ssAFBXSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8v0ssAFBXSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVCidadeVerde",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-03T18:11:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h2teXAI4cc_lKnUBL244BWXdrHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o3xDL26PF5Q"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T10:35:13Z",
+        "channelId": "UCHNA0MqPj3NwqaYzzU87etg",
+        "title": "Eleições 2018 debate presidencial na globo 2 bloco",
+        "description": "2 bloco do debate presidencial na globo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o3xDL26PF5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o3xDL26PF5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o3xDL26PF5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MARCELO BRITO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T10:35:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9AiExl-auZoWWl8MzKHcJ5MCSTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LfAyE6Alzms"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-14T19:26:05Z",
+        "channelId": "UCDK2Zedj4Ibgpm9Sor4kOlQ",
+        "title": "- Debate: eleições 2018.- Plebiscito para aborto e maconha.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfAyE6Alzms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfAyE6Alzms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfAyE6Alzms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV 22 Bolsonaro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-14T19:26:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yxUz5j3EF3Ewll7jbhpLxzBQ8As",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C6t0rCM8ArQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-07T01:53:10Z",
+        "channelId": "UCFCiSRbCVwQ_BQaDQBYxN_A",
+        "title": "Melhores momentos de Cabo Daciolo em debates presidenciais - eleições 2018",
+        "description": "O deputado federal Cabo Daciolo (Patriota), de 42 anos, disputa a Presidência da República pela 1ª vez e protagonizou ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C6t0rCM8ArQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C6t0rCM8ArQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C6t0rCM8ArQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Poder360",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-07T01:53:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kni6j_V6RJoSBJja7wGOHJJRpiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x6Wk-iXNZDs"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-03T19:32:50Z",
+        "channelId": "UCvJ1AGdJwRhGWM5n6D-SX9w",
+        "title": "Candidatos falam suas impressões sobre o debate Eleições 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6Wk-iXNZDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6Wk-iXNZDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6Wk-iXNZDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVCidadeVerde",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-03T19:32:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r8teQAKZALMCN83W7qDOmAxZIfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zdv1HVlGayQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T01:31:51Z",
+        "channelId": "UCye1IsP1GWBQsyaWGeLxr8Q",
+        "title": "Alvaro Dias Faz Plateia e Bonner Rir Durante Debate | Eleições 2018 - Rede Globo | 04/10/18",
+        "description": "Alvaro Dias Esquece de Fazer Pergunta e Faz á Plateia e o Mediador Rirem.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zdv1HVlGayQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zdv1HVlGayQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zdv1HVlGayQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Multimídia Nacional",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T01:31:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KytP6dAKGrlXeltHzDPXTaoo0Yo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2CuuwqqwCT8"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-25T20:25:08Z",
+        "channelId": "UCJ4jK1SqQso28xrSkRB1-QQ",
+        "title": "Alvaro Dias destruiu Fernando Haddad e o PT em debate. Eleições 2018.",
+        "description": "Visite nossos canais parceiros! Besteirol que vem no WhatsApp: www.veionozap.com PoliTEENSando - A política sem caô: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2CuuwqqwCT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2CuuwqqwCT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2CuuwqqwCT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Enrique Dias",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-25T20:25:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F41p9Ki_iZUaIw8QthaPchcfRpY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x56oP9EChsA"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-12T07:40:42Z",
+        "channelId": "UCcHyegCZ8dFb3HyG55JmMIw",
+        "title": "Cabo daciolo 51 o mito dos debates eleições 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x56oP9EChsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x56oP9EChsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x56oP9EChsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "marcos Aurélio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-12T07:40:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uzV0-IJQQxOzlUhACwA_Yp6mh1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dKO6TMVpgio"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T12:49:22Z",
+        "channelId": "UCFRESVpU4f1xELymKw3k-_w",
+        "title": "Eleições 2018 - Candidatos a presidência No Debate da Band - Bloco - 1",
+        "description": "Bloco 1 - Nesse debate, temos a oportunidade de conhecer os Candidatos e Suas Propostas. Debate da Band - Eleição 2018 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dKO6TMVpgio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dKO6TMVpgio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKO6TMVpgio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fatos Revelados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T12:49:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U8borm82FwFzxrDYx_eyS7gTEdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1m-CsIgJgeA"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-18T15:50:40Z",
+        "channelId": "UCd7VVhgnd2eCv9JEghvR_1w",
+        "title": "Em debate na RedeTV!, Marina Silva confronta Jair Bolsonaro sobre direito das mulheres",
+        "description": "Jair Bolsonaro disse ser favorável à liberação do posse de armas no Brasil e Marina Silva negou compactuar com a opinião do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1m-CsIgJgeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1m-CsIgJgeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1m-CsIgJgeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RedeTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-18T15:50:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-C11B0PmLZnABAwEVjzR1qkIlDE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-Fxg74w_BFE"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T16:52:36Z",
+        "channelId": "UCo6LpVygFJYqnUJp4mqrSoA",
+        "title": "Eleições 2018 - os melhores trechos do debate BAND",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Fxg74w_BFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Fxg74w_BFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Fxg74w_BFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Guilherme de Lazzari",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T16:52:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2i69OGbxHq_DgRoJiibcHRcltvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4VMMxvMXsKg"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T04:45:38Z",
+        "channelId": "UCvqjY5cFyx9z6zGIUo5MN6A",
+        "title": "Início do debate entre os candidatos a Presidência da República na TV Globo | 05/10/2018",
+        "description": "twitter.com/rikmatheus_ | Com mediação de William Bonner.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4VMMxvMXsKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4VMMxvMXsKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4VMMxvMXsKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "rikmatheus",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T04:45:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DA78lt0tMdt5AcRKq0ZSVwJKl6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ah2xZ9nLjjY"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-03T03:10:26Z",
+        "channelId": "UCLMNAyOCLbH39jIHIS3MDrQ",
+        "title": "DEBATE ELEIÇÕES GOVERNADOR DO RIO 2018 3º BLOCO",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ah2xZ9nLjjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ah2xZ9nLjjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ah2xZ9nLjjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2018 ELEIÇÕES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-03T03:10:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gD8qj7vTR9pNoDG4SlKHv4F5mls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S-l-VtJ4lKo"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T03:49:42Z",
+        "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+        "title": "Ciro discute com Bolsonaro como retirar a população do SPC",
+        "description": "Primeiro Debate entre candidatos à Presidência da República de 2018 ocorreu nesta quinta-feira, 9, na Band.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S-l-VtJ4lKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S-l-VtJ4lKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S-l-VtJ4lKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Band Jornalismo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T03:49:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yMaLugUWj3hV9B0fSr5_B9lsG00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hIdiw1ZhS1k"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T07:28:29Z",
+        "channelId": "UCycX1gt90pR0ogzED6sComg",
+        "title": "Eleições 2018: 5º Debate dos Presidenciáveis SBT (completo em HD)",
+        "description": "Eleições 2018: 5º Debate dos Presidenciáveis SBT (completo em HD) Inscreva-se e curta nosso Canal no YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hIdiw1ZhS1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hIdiw1ZhS1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hIdiw1ZhS1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tereré News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T07:28:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H0yHESC1pOKrjbQVdaHsO9Mg1jk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "99SmMo1XqzQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-18T04:49:30Z",
+        "channelId": "UCd7VVhgnd2eCv9JEghvR_1w",
+        "title": "Debate presidencial na RedeTV!",
+        "description": "Veja como foi #DebateRedeTV com os candidatos à Presidência da República nas eleições de 2018.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/99SmMo1XqzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/99SmMo1XqzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/99SmMo1XqzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RedeTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-18T04:49:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2pupLyg7ZIZqDuWnIiUNozoeIVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fAp9H_0OFpk"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-01T16:43:13Z",
+        "channelId": "UC0Fu55Du_NXqUfoyxRGxjHA",
+        "title": "Cultura e Debate: Eleições 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fAp9H_0OFpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fAp9H_0OFpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fAp9H_0OFpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Cultura do Vale",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-01T16:43:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LlSs6uCWzSM5KF0JmjeiiJmhEdU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eBth3EPEysM"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-21T15:15:13Z",
+        "channelId": "UCuyEwRsNmRS-fae-nRRBP3g",
+        "title": "Melhor debate eleições 2018",
+        "description": "Debate 2018.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBth3EPEysM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBth3EPEysM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBth3EPEysM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tudo tudo tudo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-21T15:15:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XVsKtP8zHq-VI7nkt-YQ9nCUfOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xzA3NEkb-2w"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-07T20:07:16Z",
+        "channelId": "UCFtHp4lQ4XmYekhFpsITW-A",
+        "title": "Soberania em Debate - ELEIÇÕES 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzA3NEkb-2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzA3NEkb-2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzA3NEkb-2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SOS Brasil Soberano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-07T20:07:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nhLVC00jM2h3KHEEbep1F8sQKUs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I-K8edudO9Y"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T13:29:00Z",
+        "channelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+        "title": "BOLSONARO E BOULOS TROCAM ACUSAÇÕES EM DEBATE - ESQUENTOU!",
+        "description": "Os candidatos Guilherme Boulos (PSOL) e Jair Bolsonaro (PSL) trocaram acusações durante o debate entre presidenciáveis ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-K8edudO9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-K8edudO9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-K8edudO9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "UOL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T13:29:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nFdcMccg-JRk--rj4uMJJvx4lxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XssHD0cd24s"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-22T18:05:13Z",
+        "channelId": "UC376n347Ob5Lwzq2WGzF1AA",
+        "title": "A Hora da Decisão: reveja o 1º turno do debate presidencial de 2018 no SBT",
+        "description": "O SBT realiza neste sábado (24.set), às 18h15, um debate entre seis candidatos a presidente da República: Jair Bolsonaro (PL), ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XssHD0cd24s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XssHD0cd24s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XssHD0cd24s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBT News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-22T18:05:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-kk-mkLRHLW79wr0p8qr-MjWe3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nux1E28vkkI"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-21T18:16:04Z",
+        "channelId": "UC8ix2uXYlGaKFrNxm6BNH-g",
+        "title": "Cientista político Adriano Oliveira debate eleições 2018 na TV JC",
+        "description": "Ponto de Entrevista - 21/06/2018 O cientista político Adriano Oliveira fala hoje no #PontoDeEntrevista da #TVJC sobre a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nux1E28vkkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nux1E28vkkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nux1E28vkkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JC Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-21T18:16:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4TLihNGYLxuhmt5Le7R_2kYI6EY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mbonCT-zUKw"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-30T14:24:29Z",
+        "channelId": "UCmYuiV9wAR3i8p19Ygc7izg",
+        "title": "Padre de festa junina, extrema-unção e catequese: o embate entre Soraya Thronicke e Padre Kelmon",
+        "description": "Padre Kelmon (PTB) pode até ter sido o grande meme do debate anterior, mas sua concorrente Soraya Thronicke (União Brasil) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mbonCT-zUKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mbonCT-zUKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mbonCT-zUKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Folha de S.Paulo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-30T14:24:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UQxg5wDMFfQGTt3Q_NIvF0ccxgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ai06swfGlzI"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-11T11:00:01Z",
+        "channelId": "UC4WNZYa1d0HVzdVWlfJEGjw",
+        "title": "DEBATE ELEIÇÕES 2018 TV EM TEMPO (HOJE)",
+        "description": "DEBATE ELEIÇÕES 2018 TV EM TEMPO (HOJE) Canal de vídeos do PORTAL E TV EM TEMPO - SBT Manaus Mais notícias 24h ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ai06swfGlzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ai06swfGlzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ai06swfGlzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Norte Amazonas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-11T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kmCCK73ijNvING_PhhxeQYJHRRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rWAwTpd7IEc"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-01T03:56:02Z",
+        "channelId": "UCu_a6PAzp30Bn2mM-Ll09LA",
+        "title": "Assista ao debate com os candidatos à Presidência da República – O Voto na Record 2018",
+        "description": "A Record TV mostra a força de seu jornalismo e realiza o tradicional debate entre os candidatos que vai ajudar você, eleitor, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWAwTpd7IEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWAwTpd7IEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWAwTpd7IEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RECORD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-01T03:56:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MNttXlv_rPq9kmxNDXE4ZeIDEec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3RAXAiAwbuQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-03T14:49:01Z",
+        "channelId": "UCB1x5SzEnJ-bcrUAe5QVBXQ",
+        "title": "Debate TVSOL - Governador Eleições 2018 - 30/08/2018",
+        "description": "Debate TVSOL - Governador Eleições 2018 - 30/08/2018 #Tvsol #Compartilheatvsol #Solnet.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3RAXAiAwbuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3RAXAiAwbuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3RAXAiAwbuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV SOL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-03T14:49:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H54eOZu7e8Ss6-bdUHRMP9VG33M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q9FBwgNG-Vk"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-19T21:47:11Z",
+        "channelId": "UCgWyD_puo3dpO1PwKz5hp4Q",
+        "title": "Câmara Debate - Eleições 2018 - 18.06.2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q9FBwgNG-Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q9FBwgNG-Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q9FBwgNG-Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Câmara de Vereadores Balneário Camboriú",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-19T21:47:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cPoZjMd90vw1IlsOVEPDFvv5hOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ketFT4DJKnY"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-25T19:05:21Z",
+        "channelId": "UC8ix2uXYlGaKFrNxm6BNH-g",
+        "title": "Eleições 2018 - Debate da TV Jornal com os candidatos ao Governo de Pernambuco",
+        "description": "EleiçõesSJCC | Quatro candidatos ao Governo de Pernambuco participaram, na manhã desta terça-feira (25), do debate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ketFT4DJKnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ketFT4DJKnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ketFT4DJKnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JC Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-25T19:05:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PzZeTsk2LBWkE520UhIQvgv6nKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cBRhYB51ozM"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T05:55:28Z",
+        "channelId": "UC9CDHyeSzxOEBdadDOZdMrw",
+        "title": "Eleições 2018 na Band - Debate (Vinheta)",
+        "description": "Gravado pelo sinal digital da RBA TV, canal 35 UHF/13.1 virtual - Belém, Pará.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cBRhYB51ozM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cBRhYB51ozM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cBRhYB51ozM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PHTVplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T05:55:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iabpz0c6S8DEZK4FofAtaditmeo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nCveMYA6hcQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-25T16:04:42Z",
+        "channelId": "UCc0ovWxAerSyHMTSt9hBgtw",
+        "title": "Chamada: Eleições 2018 - Debate dos  Candidatos a Governador do RJ 1º Turno na Record TV Rio - HD",
+        "description": "DEBATE EXIBIDO: SEXTA-FEIRA 28/09/2018 ÀS 18:00 NA RECORD TV RIO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCveMYA6hcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCveMYA6hcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCveMYA6hcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CODE LYOKO BRASIL JP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-25T16:04:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q9gIZQBR6B6n6-iL3ppeFT_Zvh8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mT3L-u93kcI"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-04T04:48:51Z",
+        "channelId": "UCFCiSRbCVwQ_BQaDQBYxN_A",
+        "title": "Marina confronta Bolsonaro sobre desigualdade de gênero em debate da RedeTV!",
+        "description": "Em debate promovido pela RedeTV –em 17.ago.2018, Marina Silva (Rede) confronta o candidato do PSL a respeito da ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mT3L-u93kcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mT3L-u93kcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mT3L-u93kcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Poder360",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-04T04:48:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KYMUSfQAwjvvl6XdYXdc803uRNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZEYBoA4y8L0"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-11T22:35:47Z",
+        "channelId": "UCupGO19-N5F3ngIbF1n7Gfg",
+        "title": "Vinheta das Eleições 2018 Debate",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZEYBoA4y8L0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZEYBoA4y8L0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZEYBoA4y8L0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rede TVI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-11T22:35:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pgaPT08vQUGSKrxYAw1bUgwExFo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ahd95luH-Mc"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-03T19:01:44Z",
+        "channelId": "UC5zB4glo3_MDaKI-kqOJXZw",
+        "title": "Voto não é favor é consciência - Debate eleições 2018 - (18 de agosto de 2018)",
+        "description": "A Comissão de Justiça e Paz promove uma série de debates sobre as eleições 2018. Serão realizados vários círculos de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahd95luH-Mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahd95luH-Mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahd95luH-Mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cjpbrasilia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-03T19:01:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3ueY0tSSDJwzMzyhk32JPnMU_qY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fnMP0EPyvDU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-23T23:43:48Z",
+        "channelId": "UCxbqmMsXory_zC-kNqKHUgw",
+        "title": "2º turno Eleições 2018 - Debate com os candidatos ao Governo de MG",
+        "description": "Na última semana da campanha eleitoral, o empresário Romeu Zema (Novo) e o senador Antonio Anastasia (PSDB) vão ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fnMP0EPyvDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fnMP0EPyvDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fnMP0EPyvDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jornal da Alterosa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-23T23:43:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DipmYmrqWtfewYq2jcrGyE2XS-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mtLxt3pJ-3o"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-21T13:21:01Z",
+        "channelId": "UCLLfiRDKSGql0gmqx3UuUuQ",
+        "title": "Debate Eleições 2018,  na TV Master",
+        "description": "A TV Master realizou o 3º debate com os candidatos a Governo da Paraíba nesta segunda-feira (20), às 21h. FONTE: TV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mtLxt3pJ-3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mtLxt3pJ-3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mtLxt3pJ-3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Viraliza News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-21T13:21:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kocjHlborontwI6XyUxtkhs8g_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wEMF5CE22U0"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-29T18:08:43Z",
+        "channelId": "UC4s0GkZJgTdHMK1l08T9M6g",
+        "title": "DEBATE ELEIÇÕES 2018 | O Presidente dos Animes (em quem votar?)",
+        "description": "Nas eleições para presidente dos animes, quem venceria? Com o objetivo de deixar as eleições mais leves, foram comentados ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wEMF5CE22U0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wEMF5CE22U0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wEMF5CE22U0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matheus Joy Boy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-29T18:08:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uM67sSGt7r400YKtqG9xF1fMqC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SED_ao2N0Zk"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T01:18:28Z",
+        "channelId": "UCu6SBhVTXQwmYMOc8NvxMiQ",
+        "title": "Início do debate rede globo  - presidenciáveis | 2018",
+        "description": "debateglobo #globo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SED_ao2N0Zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SED_ao2N0Zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SED_ao2N0Zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JORNALISMO JOÃO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T01:18:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EV-8TMxSxJnlnTM5Yb5x3wC4EqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XO6CeiUJNuk"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-23T23:59:21Z",
+        "channelId": "UC0Uzow4iFA8PoIKE_U2rmeg",
+        "title": "TV ATALAIA - DEBATE -  ELEIÇÕES 2018 - 2º TURNO",
+        "description": "TV ATALAIA - DEBATE - ELEIÇÕES 2018 - 2º TURNO #compartilhe #debatetvatalaia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XO6CeiUJNuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XO6CeiUJNuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XO6CeiUJNuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tv Atalaia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-23T23:59:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yo2p1lATw90N2b-hHAZf_f0YHeE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sWlaHk4ZYqg"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T10:49:43Z",
+        "channelId": "UCHNA0MqPj3NwqaYzzU87etg",
+        "title": "Eleições presidenciais 2018 debate na Globo Último bloco",
+        "description": "Último bloco do debate das eleições 2018 na globo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sWlaHk4ZYqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sWlaHk4ZYqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sWlaHk4ZYqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MARCELO BRITO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T10:49:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JzABYa5__pXvwt1-M_yrGeBcvME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oRYDiUPstz4"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T09:55:38Z",
+        "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+        "title": "Bolsonaro centra atenções no primeiro debate das presidenciais no Brasil",
+        "description": "Lula não teve autorização para participar no debate promovido pela TV bandeirantes… LEIA MAIS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oRYDiUPstz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oRYDiUPstz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oRYDiUPstz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Euronews em Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T09:55:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aF91vlrXij5HJ7OVNmNzz843mOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CfqtA1rZbHA"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T02:22:29Z",
+        "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+        "title": "Boulos pergunta a Bolsonaro quem é &quot;Val&quot;",
+        "description": "Primeiro Debate entre candidatos à Presidência da República de 2018 ocorreu nesta quinta-feira, 9, na Band.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CfqtA1rZbHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CfqtA1rZbHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfqtA1rZbHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Band Jornalismo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T02:22:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RoL6Rq_SIZ_p-NIDXCLYIqM7lEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pXFYjDQ2lik"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-04T10:37:10Z",
+        "channelId": "UCvJ1AGdJwRhGWM5n6D-SX9w",
+        "title": "Debate Eleições 2018 reúne candidatos para um confronto de ideias",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pXFYjDQ2lik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pXFYjDQ2lik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pXFYjDQ2lik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVCidadeVerde",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-04T10:37:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dq_NaiVDAmZ1uevdOEKKVnvJ8YY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9EnJeUKwX_c"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T05:17:33Z",
+        "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+        "title": "Debate na Band: reveja na íntegra o 1º confronto entre os presidenciáveis",
+        "description": "Quer saber quais foram os assuntos são mais procurados pelos eleitores e a reação do público durante o debate? Acesse: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9EnJeUKwX_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9EnJeUKwX_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9EnJeUKwX_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Band Jornalismo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T05:17:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZCFhZ7uaAsVRwUsqOjFLC3Q8ncE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P0I83mWAIXc"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-28T00:48:16Z",
+        "channelId": "UCcKDjVVHmaKxPKaABGgj-NA",
+        "title": "Debate Eleições 2018 Bolsonaro",
+        "description": "Falou pessoal blz da o like.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0I83mWAIXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0I83mWAIXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0I83mWAIXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "O CURIOSO 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-28T00:48:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EkGbNx5-LbW9InFPIYkLGkGMe1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gpg9PX6lPUI"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-17T23:28:18Z",
+        "channelId": "UCVWWOSjigr1jgPUKROEYhjQ",
+        "title": "PolBras debate: eleições 2018",
+        "description": "O Grupo de Estudos em Política Brasileira (PolBras), associado ao Centro de Estudos de Opinião Pública (Cesop), organiza ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gpg9PX6lPUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gpg9PX6lPUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gpg9PX6lPUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IFCH - UNICAMP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-17T23:28:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QmIxI_JKhK4UKko-xQZniCvhnlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wfxHKyqZ6bI"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-14T15:28:20Z",
+        "channelId": "UCK-hsh3qk1xjr_-8ARHDREw",
+        "title": "Dinheiro na Semana: Debate Eleições 2018",
+        "description": "Nesta quarta-feira 14, o programa Dinheiro na Semana é especial. Direto dos estúdios da B3, acontece o debate Eleições 2018: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wfxHKyqZ6bI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wfxHKyqZ6bI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wfxHKyqZ6bI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ISTOÉ Dinheiro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-14T15:28:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HLfmbm2YYr-clHnpFckR3uQgBZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IJUUu0I8sro"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-04T14:58:36Z",
+        "channelId": "UCaRwlcHcvQbrfdbTF500zLA",
+        "title": "Bauru em Debate | Eleições 2018",
+        "description": "Bauru em Debate discute as eleições: o cenário local e o nacional A três meses das eleições, o programa discute as principais ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IJUUu0I8sro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IJUUu0I8sro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJUUu0I8sro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV Unesp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-04T14:58:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TifGdfXGrcS86XRvxn8SECZRq8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C72eberRCqw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-21T05:44:14Z",
+        "channelId": "UCSyNam1lBRq1OwiasuARNAw",
+        "title": "O MELHOR DEBATE PRESIDENCIAL DAS ELEIÇÕES 2018",
+        "description": "Os candidatos nunca falaram tantas verdades... #DebatePresidencial2018 #MarketeirosDoJair ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C72eberRCqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C72eberRCqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C72eberRCqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "B17Shop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-21T05:44:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I9_eE8A4b3UdLOykztuHLxTzAXg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p7FYkAmGzIc"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-02T09:04:18Z",
+        "channelId": "UCdD_Ski4CPWAd1fzwKQgrpg",
+        "title": "Todos os Ataques e Cenas Engraçados do Debate na GLOBO - Presidencial 2018",
+        "description": "Não podemos deixar cair no esquecimento esses debates Último Debate Presidencial Primeiro Turno 2018 Debate Presidencial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7FYkAmGzIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7FYkAmGzIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7FYkAmGzIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "True News BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-02T09:04:18Z"
+      }
+    }
+  ],
+  "metadata": {
+    "relevancia": 300
+  },
+  "monitoramento": {
+    "id": 4,
+    "client_id": 99
+  },
+  "youtube_api_key": "AIzaSyAwdZYtDPfDQM-ZowEBwUmzlJbHmLFgx4A"
+}

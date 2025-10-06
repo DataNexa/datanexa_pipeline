@@ -1,0 +1,409 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - -site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intext:debate eleicoes 2018",
+        "totalResults": "32800000",
+        "searchTerms": "-site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intext:debate eleicoes 2018",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "86e13f79e54d54999",
+        "sort": "date"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - -site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intext:debate eleicoes 2018",
+        "totalResults": "32800000",
+        "searchTerms": "-site:threads.net -site:google.com -site:youtube.com -site:facebook.com -site:twitter.com -site:instagram.com -site:linkedin.com -site:wikipedia.org -site:amazon.com -site:ebay.com -site:yahoo.com -site:bing.com -site:desciclopedia.org -site:x.com -site:tiktok.com intext:debate eleicoes 2018",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "86e13f79e54d54999",
+        "sort": "date"
+      }
+    ]
+  },
+  "context": {
+    "title": "todaweb"
+  },
+  "searchInformation": {
+    "searchTime": 0.446744,
+    "formattedSearchTime": "0.45",
+    "totalResults": "32800000",
+    "formattedTotalResults": "32,800,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "49ers QB Brock Purdy Returns in Week 4, Sparking Debate Over ...",
+      "htmlTitle": "49ers QB Brock Purdy Returns in Week 4, Sparking Debate Over ...",
+      "link": "https://www.udesc.br/cead/concursos/2018/udesc052018?sport-news-287464-2025-10-03-49ers-brock-purdy-week-4-debate-shanahan",
+      "displayLink": "www.udesc.br",
+      "snippet": "4 days ago ... Purdy sustained a toe injury in the opening week while maintaining the role as the 49ers' starting quarterback. Week 4 offered him a chance to ...",
+      "htmlSnippet": "4 days ago <b>...</b> Purdy sustained a toe injury in the opening week while maintaining the role as the 49ers&#39; starting quarterback. Week 4 offered him a chance to&nbsp;...",
+      "formattedUrl": "https://www.udesc.br/cead/concursos/2018/udesc052018?...debate...",
+      "htmlFormattedUrl": "https://www.udesc.br/cead/concursos/<b>2018</b>/udesc05<b>2018</b>?...<b>debate</b>...",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "General Debate of the 80th Session | General Debate",
+      "htmlTitle": "General Debate of the 80th Session | General Debate",
+      "link": "https://gadebate.un.org/en",
+      "displayLink": "gadebate.un.org",
+      "snippet": "6 days ago ... The debate of the 80th session is now closed. Links to on-demand videos and ... 18. Uzbekistan His Excellency Shavkat Mirziyoyev President. Speech ...",
+      "htmlSnippet": "6 days ago <b>...</b> The <b>debate</b> of the 80th session is now closed. Links to on-demand videos and ... 18. Uzbekistan His Excellency Shavkat Mirziyoyev President. Speech&nbsp;...",
+      "formattedUrl": "https://gadebate.un.org/en",
+      "htmlFormattedUrl": "https://ga<b>debate</b>.un.org/en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuivvU_-k5jkvWQ2Qh95eJXnP---IcI7x4016tuP4lQpzgn0wxCBMt63IX&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://gadebate.un.org/themes/custom/gad/images/GeneralDebate_Social_fb.png",
+            "og:type": "Website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "General Debate of the 80th Session",
+            "og:site_name": "General Debate",
+            "handheldfriendly": "true",
+            "og:title": "General Debate of the 80th Session",
+            "og:description": "General Assembly",
+            "twitter:image": "https://gadebate.un.org/themes/custom/gad/images/GeneralDebate_Social_fb.png",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "General Assembly",
+            "mobileoptimized": "width",
+            "og:url": "https://gadebate.un.org/en"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://gadebate.un.org/themes/custom/gad/images/GeneralDebate_Social_fb.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Desembargadora Maria Iraneide coordena debate sobre Inclusão ...",
+      "htmlTitle": "Desembargadora Maria Iraneide coordena debate sobre Inclusão ...",
+      "link": "https://www.tre-ce.jus.br/comunicacao/noticias/2025/Setembro/desembargadora-maria-iraneide-coordena-debate-sobre-inclusao-social-no-forum-verdemocracia",
+      "displayLink": "www.tre-ce.jus.br",
+      "snippet": "Sep 17, 2025 ... Na imagem, oito pessoas — cinco mulheres e três homens — estão sobre o palco. A presidente do Tribunal Regional Eleitoral do Ceará (TRE-CE), ...",
+      "htmlSnippet": "Sep 17, 2025 <b>...</b> Na imagem, oito pessoas — cinco mulheres e três homens — estão sobre o palco. A presidente do Tribunal Regional Eleitoral do Ceará (TRE-CE),&nbsp;...",
+      "formattedUrl": "https://www.tre-ce.jus.br/.../desembargadora-maria-iraneide-coordena-debat...",
+      "htmlFormattedUrl": "https://www.tre-ce.jus.br/.../desembargadora-maria-iraneide-coordena-<b>debat</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4wB7tzDnCUGNbJ9hXP4GGXHDSX-o4IS9Fgcz2TUubJFi299YPluv25nS&s",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.justicaeleitoral.jus.br/imagens/imagens/desembargadora-maria-iraneide-coordena-debate-sobre-inclusao-social-no-forum-verdemocracia/@@streaming/image/WhatsApp Image 2025-09-17 at 15.11.32.jpeg",
+            "twitter:card": "summary",
+            "og:type": "website",
+            "og:site_name": "Justiça Eleitoral",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:title": "Desembargadora Maria Iraneide coordena debate sobre Inclusão Social no Fórum VerDemocracia",
+            "og:image:type": "text/html",
+            "og:url": "https://www.tre-ce.jus.br/comunicacao/noticias/2025/Setembro/desembargadora-maria-iraneide-coordena-debate-sobre-inclusao-social-no-forum-verdemocracia",
+            "og:description": "Programação ocorreu nessa quarta-feira (17), em Belém do Pará"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://www.tre-ce.jus.br/@@site-logo/logo.jpg",
+            "name": "Desembargadora Maria Iraneide coordena debate sobre Inclusão Social no Fórum VerDemocracia",
+            "description": "Programação ocorreu nessa quarta-feira (17), em Belém do Pará",
+            "url": "https://www.tre-ce.jus.br/comunicacao/noticias/2025/Setembro/desembargadora-maria-iraneide-coordena-debate-sobre-inclusao-social-no-forum-verdemocracia"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tre-ce.jus.br/imagens/imagens/desembargadora-maria-iraneide-coordena-debate-sobre-inclusao-social-no-forum-verdemocracia/@@images/e22b6fc4-e708-48a8-a2fe-947302882bd7.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Presidente do TRE-SP modera debate sobre propaganda eleitoral e ...",
+      "htmlTitle": "Presidente do TRE-SP modera debate sobre propaganda eleitoral e ...",
+      "link": "https://www.tre-sp.jus.br/comunicacao/noticias/2025/Setembro/presidente-do-tre-sp-modera-debate-sobre-propaganda-eleitoral-e-poluicao-no-ultimo-dia-do-forum-verdemocracia",
+      "displayLink": "www.tre-sp.jus.br",
+      "snippet": "Sep 17, 2025 ... O evento, promovido pelo Tribunal Superior Eleitoral (TSE) em parceria com o Tribunal Regional Eleitoral do Pará (TRE-PA), apresentou sete ...",
+      "htmlSnippet": "Sep 17, 2025 <b>...</b> O evento, promovido pelo Tribunal Superior Eleitoral (TSE) em parceria com o Tribunal Regional Eleitoral do Pará (TRE-PA), apresentou sete&nbsp;...",
+      "formattedUrl": "https://www.tre-sp.jus.br/.../presidente-do-tre-sp-modera-debate-sobre-prop...",
+      "htmlFormattedUrl": "https://www.tre-sp.jus.br/.../presidente-do-tre-sp-modera-<b>debate</b>-sobre-prop...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslWzAV_c77ouki08yJuZ9Uln3Ot67lFCV7vRsO9-I5Gmsj6onYpRP3tcl&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.justicaeleitoral.jus.br/imagens/imagens/presidente-do-tre-sp-modera-debate-sobre-propaganda-eleitoral-e-poluicao-no-ultimo-dia-do-forum-verdemocracia-1/@@streaming/image/Verdemocracia - Propaganda eleitoral, Poluição e Ambiente Cívico Saudável - notícia.jpg",
+            "twitter:card": "summary",
+            "og:type": "website",
+            "og:site_name": "Justiça Eleitoral",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:title": "Presidente do TRE-SP modera debate sobre propaganda eleitoral e poluição no último dia do Fórum VerDemocracia",
+            "og:image:type": "text/html",
+            "og:url": "https://www.tre-sp.jus.br/comunicacao/noticias/2025/Setembro/presidente-do-tre-sp-modera-debate-sobre-propaganda-eleitoral-e-poluicao-no-ultimo-dia-do-forum-verdemocracia",
+            "og:description": "Evento aconteceu em Belém e discutiu temas relacionados às Eleições 2026 e à sustentabilidade"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://www.tre-sp.jus.br/@@site-logo/logo.jpg",
+            "name": "Presidente do TRE-SP modera debate sobre propaganda eleitoral e poluição no último dia do Fórum VerDemocracia",
+            "description": "Evento aconteceu em Belém e discutiu temas relacionados às Eleições 2026 e à sustentabilidade",
+            "url": "https://www.tre-sp.jus.br/comunicacao/noticias/2025/Setembro/presidente-do-tre-sp-modera-debate-sobre-propaganda-eleitoral-e-poluicao-no-ultimo-dia-do-forum-verdemocracia"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tre-sp.jus.br/imagens/imagens/presidente-do-tre-sp-modera-debate-sobre-propaganda-eleitoral-e-poluicao-no-ultimo-dia-do-forum-verdemocracia-1/@@images/49680848-5e58-4b8b-a65d-20c9b9f01e1f.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "universidade federal de minas gerais - conselho universitário ...",
+      "htmlTitle": "universidade federal de minas gerais - conselho universitário ...",
+      "link": "https://ufmg.br/storage/1/2/8/4/1284a99f05b0364fe073f4eb0e642891_17561544835928_1214720353.pdf",
+      "displayLink": "ufmg.br",
+      "snippet": "Aug 11, 2025 ... a subsidiar o Colégio Eleitoral na elaboração da lista tríplice para a escolha de. Reitor(a) e Vice-Reitor(a) da Universidade Federal de ...",
+      "htmlSnippet": "Aug 11, 2025 <b>...</b> a subsidiar o Colégio Eleitoral na elaboração da lista tríplice para a escolha de. Reitor(a) e Vice-Reitor(a) da Universidade Federal de&nbsp;...",
+      "formattedUrl": "https://ufmg.br/.../1284a99f05b0364fe073f4eb0e642891_1756154483592...",
+      "htmlFormattedUrl": "https://ufmg.br/.../1284a99f05b0364fe073f4eb0e642891_1756154483592...",
+      "pagemap": {
+        "metatags": [
+          {
+            "creationdate": "Fri Aug 22 21:53:22 2025"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "1° Congresso Eleitoral de Siqueira Campos promove aprendizado e ...",
+      "htmlTitle": "1° Congresso Eleitoral de Siqueira Campos promove aprendizado e ...",
+      "link": "https://www.tre-pr.jus.br/comunicacao/noticias/2025/Agosto/1deg-congresso-eleitoral-de-siqueira-campos-promove-aprendizado-e-debate-com-a-presenca-de-representantes-do-tre-pr",
+      "displayLink": "www.tre-pr.jus.br",
+      "snippet": "Jul 31, 2025 ... 1° Congresso Eleitoral de Siqueira Campos promove aprendizado e debate com a presença de representantes do TRE-PR. Encontro, que se encerra ...",
+      "htmlSnippet": "Jul 31, 2025 <b>...</b> 1° Congresso Eleitoral de Siqueira Campos promove aprendizado e <b>debate</b> com a presença de representantes do TRE-PR. Encontro, que se encerra&nbsp;...",
+      "formattedUrl": "https://www.tre-pr.jus.br/.../1deg-congresso-eleitoral-de-siqueira-campos-pr...",
+      "htmlFormattedUrl": "https://www.tre-pr.jus.br/.../1deg-congresso-eleitoral-de-siqueira-campos-pr...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmU4iGtdQUoSjwViVyJkpDvRcuZI7PJo3iMGEtqlC_S5fu3NBv41a7p-sx&s",
+            "width": "324",
+            "height": "156"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.justicaeleitoral.jus.br/imagens/fotos/1deg-congresso-eleitoral-de-siqueira-campos-promove-aprendizado-e-debate-com-a-presenca-de-representantes-do-tre-pr/@@streaming/image/2025-08-13-congresso-siqueira-campos.png",
+            "twitter:card": "summary",
+            "og:type": "website",
+            "og:site_name": "Justiça Eleitoral",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:title": "1° Congresso Eleitoral de Siqueira Campos promove aprendizado e debate com a presença de representantes do TRE-PR",
+            "og:image:type": "text/html",
+            "og:url": "https://www.tre-pr.jus.br/comunicacao/noticias/2025/Agosto/1deg-congresso-eleitoral-de-siqueira-campos-promove-aprendizado-e-debate-com-a-presenca-de-representantes-do-tre-pr",
+            "og:description": "Encontro, que se encerra nesta sexta-feira (15), reune representantes políticos e da comunidade acadêmica, advogadas e advogados do Norte Pioneiro do estado"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://www.tre-pr.jus.br/@@site-logo/logo.jpg",
+            "name": "1° Congresso Eleitoral de Siqueira Campos promove aprendizado e debate com a presença de representantes do TRE-PR",
+            "description": "Encontro, que se encerra nesta sexta-feira (15), reune representantes políticos e da comunidade acadêmica, advogadas e advogados do Norte Pioneiro do estado",
+            "url": "https://www.tre-pr.jus.br/comunicacao/noticias/2025/Agosto/1deg-congresso-eleitoral-de-siqueira-campos-promove-aprendizado-e-debate-com-a-presenca-de-representantes-do-tre-pr"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.justicaeleitoral.jus.br/imagens/fotos/1deg-congresso-eleitoral-de-siqueira-campos-promove-aprendizado-e-debate-com-a-presenca-de-representantes-do-tre-pr/@@streaming/image/2025-08-13-congresso-siqueira-campos.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Especialista em economia chinesa debate a guerra ... - CEBRI",
+      "htmlTitle": "Especialista em economia chinesa debate a guerra ... - CEBRI",
+      "link": "https://cebri.org/br/midia/612/especialista-em-economia-chinesa-debate-a-guerra-comercial-entre-china-e-eua-em-encontro-realizado-pelo-cebri",
+      "displayLink": "cebri.org",
+      "snippet": "May 29, 2025 ... Especialista em economia chinesa debate a guerra comercial entre China e EUA em encontro realizado pelo CEBRI ... 2018, impulsionou uma agenda ...",
+      "htmlSnippet": "May 29, 2025 <b>...</b> Especialista em economia chinesa <b>debate</b> a guerra comercial entre China e EUA em encontro realizado pelo CEBRI ... <b>2018</b>, impulsionou uma agenda&nbsp;...",
+      "formattedUrl": "https://cebri.org/.../especialista-em-economia-chinesa-debate-a-guerra-come...",
+      "htmlFormattedUrl": "https://cebri.org/.../especialista-em-economia-chinesa-<b>debate</b>-a-guerra-come...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "/media/img/logo.png",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Especialista em economia chinesa debate a guerra comercial entre China e EUA em encontro realizado pelo CEBRI"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "/media/img/logo.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Eleições - 18 maio 2025 | FENPROF critica falta de debate ... - SPGL",
+      "htmlTitle": "Eleições - 18 maio 2025 | FENPROF critica falta de debate ... - SPGL",
+      "link": "https://www.spgl.pt/eleicoes-18-maio-2025-fenprof-critica-falta-de-debate-sobre-os-problemas-da-educacao",
+      "displayLink": "www.spgl.pt",
+      "snippet": "May 17, 2025 ... Segundo o dirigente sindical, os desafios do setor têm-se agravado, com destaque para a falta de professores, a abertura de vagas insuficiente ...",
+      "htmlSnippet": "May 17, 2025 <b>...</b> Segundo o dirigente sindical, os desafios do setor têm-se agravado, com destaque para a falta de professores, a abertura de vagas insuficiente&nbsp;...",
+      "formattedUrl": "https://www.spgl.pt/eleicoes-18-maio-2025-fenprof-critica-falta-de-debate-s...",
+      "htmlFormattedUrl": "https://www.spgl.pt/<b>eleicoes</b>-18-maio-2025-fenprof-critica-falta-de-<b>debate</b>-s...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUWdZlPr1OUprpXy9M8GuJl8w5kgGoDwjh9ZqGzvpQSCyOB6aIaR0FWc&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "charset": "utf-8",
+            "og:image": "https://www.spgl.pt/Media/Default/_Profiles/6a4bdd66/93ac7822/ci09052025.png?v=638824066111736453",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "author": "SPGL - Sindicato dos Professores da Grande Lisboa"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.spgl.pt/Media/Default/_Profiles/6a4bdd66/93ac7822/ci09052025.png?v=638824066111736453"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2025.1 História da Administração Pública no Brasil",
+      "htmlTitle": "2025.1 História da Administração Pública no Brasil",
+      "link": "https://ippur.ufrj.br/wp-content/uploads/2025/03/PRU353-Historia-da-Administracao-Publica-no-Brasil.pdf",
+      "displayLink": "ippur.ufrj.br",
+      "snippet": "Mar 19, 2025 ... MINI-CV DA PROFESSORA. Renata Bastos da Silva. Professora adjunta da Universidade Federal do Rio de Janeiro (UFRJ), do Instituto de.",
+      "htmlSnippet": "Mar 19, 2025 <b>...</b> MINI-CV DA PROFESSORA. Renata Bastos da Silva. Professora adjunta da Universidade Federal do Rio de Janeiro (UFRJ), do Instituto de.",
+      "formattedUrl": "https://ippur.ufrj.br/.../PRU353-Historia-da-Administracao-Publica-no-Brasi...",
+      "htmlFormattedUrl": "https://ippur.ufrj.br/.../PRU353-Historia-da-Administracao-Publica-no-Brasi...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0c10F9tfYdPb57Cf3fcGC6tBhjzXNT-TOUDT0CL37AnCNUPDHSICvg5kE&s",
+            "width": "189",
+            "height": "267"
+          }
+        ],
+        "metatags": [
+          {
+            "producer": "Skia/PDF m135 Google Docs Renderer",
+            "title": "2025.1 História da Administração Pública no Brasil"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///614f9cbe0d247a652f1a71130870afe16c307582c03a02d64d25f9f86597faf1"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CMA debate segurança hídrica no cenário das mudanças climáticas ...",
+      "htmlTitle": "CMA debate segurança hídrica no cenário das mudanças climáticas ...",
+      "link": "https://www12.senado.leg.br/tv/plenario-e-comissoes/comissao-de-meio-ambiente/2025/03/cma-debate-seguranca-hidrica-no-cenario-das-mudancas-climaticas",
+      "displayLink": "www12.senado.leg.br",
+      "snippet": "Mar 17, 2025 ... A Comissão de Meio Ambiente (CMA) realiza audiência pública para discutir a segurança hídrica no contexto das mudanças climáticas e a gestão ...",
+      "htmlSnippet": "Mar 17, 2025 <b>...</b> A Comissão de Meio Ambiente (CMA) realiza audiência pública para discutir a segurança hídrica no contexto das mudanças climáticas e a gestão&nbsp;...",
+      "formattedUrl": "https://www12.senado.leg.br/.../cma-debate-seguranca-hidrica-no-cenario-d...",
+      "htmlFormattedUrl": "https://www12.senado.leg.br/.../cma-<b>debate</b>-seguranca-hidrica-no-cenario-d...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLJcg7DHRlquK6KP9zjQPvh6SADdSKvZIFUMI4WyBwlGhWeoi6jljIaUN&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#00305c",
+            "og:image": "https://www12.senado.leg.br/tv/plenario-e-comissoes/comissao-de-meio-ambiente/2025/03/cma-debate-seguranca-hidrica-no-cenario-das-mudancas-climaticas/@@images/image/preview",
+            "msapplication-config": "https://www12.senado.leg.br/tv/++plone++senado_tv/favicon/browserconfig.xml?v=OmmK4dNQkX",
+            "og:type": "article",
+            "article:published_time": "2025-03-18T10:00:00.000000Z",
+            "og:image:width": "860",
+            "theme-color": "#00305c",
+            "og:site_name": "TV Senado",
+            "author": "TV Senado",
+            "og:title": "CMA debate segurança hídrica no cenário das mudanças climáticas",
+            "og:image:height": "570",
+            "msapplication-tileimage": "https://www12.senado.leg.br/tv/++plone++senado_tv/favicon/mstile-144x144.png?v=OmmK4dNQkX",
+            "og:description": "A Comissão de Meio Ambiente (CMA) realiza audiência pública para discutir a segurança hídrica no contexto das mudanças climáticas e a gestão sustentável dos recursos hídricos. O debate acontece em alusão ao Dia Mundial da Água, comemorado em 22 de março, e reúne especialistas da Agência Nacional de Águas e Saneamento Básico (ANA) e do Comitê da Bacia Hidrográfica do Rio Paranaíba. ",
+            "article:publisher": "TVSenado",
+            "article:tag": "recursos hídricos",
+            "article:modified_time": "2025-03-18T11:48:01.085369Z",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:locale": "pt_BR",
+            "og:url": "https://www12.senado.leg.br/tv/plenario-e-comissoes/comissao-de-meio-ambiente/2025/03/cma-debate-seguranca-hidrica-no-cenario-das-mudancas-climaticas"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www12.senado.leg.br/tv/plenario-e-comissoes/comissao-de-meio-ambiente/2025/03/cma-debate-seguranca-hidrica-no-cenario-das-mudancas-climaticas/@@images/image/preview"
+          }
+        ]
+      }
+    }
+  ],
+  "monitoramento": {
+    "id": 4,
+    "client_id": 99
+  }
+}
